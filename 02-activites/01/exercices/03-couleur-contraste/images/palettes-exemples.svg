@@ -1,0 +1,84 @@
+<svg viewBox="0 0 880 660" xmlns="http://www.w3.org/2000/svg">
+<rect width="880" height="660" fill="#ffffff"/>
+<text x="440" y="28" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#1a1a2e">Palettes qui passent le test en niveaux de gris</text>
+<text x="440" y="46" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#666">Cinq stratégies — chaque palette garde une hiérarchie lisible sans les teintes</text>
+<text x="90" y="76" font-family="sans-serif" font-size="12" font-weight="bold" fill="#1a1a2e">Clair-obscur</text>
+<text x="90" y="90" font-family="sans-serif" font-size="10" fill="#888">contraste de valeurs</text>
+<rect x="330" y="62" width="180" height="90" fill="#1a1a2e" rx="3"/>
+<circle cx="395" cy="107" r="24" fill="#f0e6d2"/>
+<rect x="430" y="124" width="60" height="14" fill="#555570" rx="2"/>
+<line x1="530" y1="107" x2="570" y2="107" stroke="#aaa" stroke-width="1"/>
+<polygon points="566,103 566,111 574,107" fill="#aaa"/>
+<rect x="580" y="62" width="180" height="90" fill="#1a1a1a" rx="3"/>
+<circle cx="645" cy="107" r="24" fill="#e0e0e0"/>
+<rect x="680" y="124" width="60" height="14" fill="#606060" rx="2"/>
+<rect x="790" y="99" width="16" height="16" rx="3" fill="#1a1a2e" stroke="#ddd" stroke-width="0.5"/>
+<rect x="812" y="99" width="16" height="16" rx="3" fill="#f0e6d2" stroke="#ddd" stroke-width="0.5"/>
+<rect x="834" y="99" width="16" height="16" rx="3" fill="#555570" stroke="#ddd" stroke-width="0.5"/>
+<rect x="856" y="99" width="16" height="16" rx="3" fill="#d0d0e0" stroke="#ddd" stroke-width="0.5"/>
+<text x="865" y="112" font-family="sans-serif" font-size="12" fill="#2a7a2a">✓</text>
+<line x1="40" y1="166" x2="840" y2="166" stroke="#eee" stroke-width="1"/>
+<text x="90" y="186" font-family="sans-serif" font-size="12" font-weight="bold" fill="#1a1a2e">Chaud-froid</text>
+<text x="90" y="200" font-family="sans-serif" font-size="10" fill="#888">températures, valeurs séparées</text>
+<rect x="330" y="172" width="180" height="90" fill="#3a5b8e" rx="3"/>
+<circle cx="395" cy="217" r="24" fill="#e8683a"/>
+<rect x="430" y="234" width="60" height="14" fill="#d4c5a0" rx="2"/>
+<line x1="530" y1="217" x2="570" y2="217" stroke="#aaa" stroke-width="1"/>
+<polygon points="566,213 566,221 574,217" fill="#aaa"/>
+<rect x="580" y="172" width="180" height="90" fill="#5a5a5a" rx="3"/>
+<circle cx="645" cy="217" r="24" fill="#8a8a8a"/>
+<rect x="680" y="234" width="60" height="14" fill="#b8b8b8" rx="2"/>
+<rect x="790" y="209" width="16" height="16" rx="3" fill="#3a5b8e" stroke="#ddd" stroke-width="0.5"/>
+<rect x="812" y="209" width="16" height="16" rx="3" fill="#e8683a" stroke="#ddd" stroke-width="0.5"/>
+<rect x="834" y="209" width="16" height="16" rx="3" fill="#d4c5a0" stroke="#ddd" stroke-width="0.5"/>
+<rect x="856" y="209" width="16" height="16" rx="3" fill="#e8e0d0" stroke="#ddd" stroke-width="0.5"/>
+<text x="865" y="222" font-family="sans-serif" font-size="12" fill="#2a7a2a">✓</text>
+<line x1="40" y1="276" x2="840" y2="276" stroke="#eee" stroke-width="1"/>
+<text x="90" y="296" font-family="sans-serif" font-size="12" font-weight="bold" fill="#1a1a2e">Monochrome</text>
+<text x="90" y="310" font-family="sans-serif" font-size="10" fill="#888">une teinte, quatre valeurs</text>
+<rect x="330" y="282" width="180" height="90" fill="#1a2a3a" rx="3"/>
+<circle cx="395" cy="327" r="24" fill="#6a8aaa"/>
+<rect x="430" y="344" width="60" height="14" fill="#3a5a7a" rx="2"/>
+<line x1="530" y1="327" x2="570" y2="327" stroke="#aaa" stroke-width="1"/>
+<polygon points="566,323 566,331 574,327" fill="#aaa"/>
+<rect x="580" y="282" width="180" height="90" fill="#202020" rx="3"/>
+<circle cx="645" cy="327" r="24" fill="#6a6a6a"/>
+<rect x="680" y="344" width="60" height="14" fill="#404040" rx="2"/>
+<rect x="790" y="319" width="16" height="16" rx="3" fill="#1a2a3a" stroke="#ddd" stroke-width="0.5"/>
+<rect x="812" y="319" width="16" height="16" rx="3" fill="#6a8aaa" stroke="#ddd" stroke-width="0.5"/>
+<rect x="834" y="319" width="16" height="16" rx="3" fill="#3a5a7a" stroke="#ddd" stroke-width="0.5"/>
+<rect x="856" y="319" width="16" height="16" rx="3" fill="#d0e0f0" stroke="#ddd" stroke-width="0.5"/>
+<text x="865" y="332" font-family="sans-serif" font-size="12" fill="#2a7a2a">✓</text>
+<line x1="40" y1="386" x2="840" y2="386" stroke="#eee" stroke-width="1"/>
+<text x="90" y="406" font-family="sans-serif" font-size="12" font-weight="bold" fill="#1a1a2e">Complémentaires ajustées</text>
+<text x="90" y="420" font-family="sans-serif" font-size="10" fill="#888">teintes opposées, valeurs séparées</text>
+<rect x="330" y="392" width="180" height="90" fill="#1a4a2e" rx="3"/>
+<circle cx="395" cy="437" r="24" fill="#e8a050"/>
+<rect x="430" y="454" width="60" height="14" fill="#7a9e8e" rx="2"/>
+<line x1="530" y1="437" x2="570" y2="437" stroke="#aaa" stroke-width="1"/>
+<polygon points="566,433 566,441 574,437" fill="#aaa"/>
+<rect x="580" y="392" width="180" height="90" fill="#303030" rx="3"/>
+<circle cx="645" cy="437" r="24" fill="#a0a0a0"/>
+<rect x="680" y="454" width="60" height="14" fill="#8a8a8a" rx="2"/>
+<rect x="790" y="429" width="16" height="16" rx="3" fill="#1a4a2e" stroke="#ddd" stroke-width="0.5"/>
+<rect x="812" y="429" width="16" height="16" rx="3" fill="#e8a050" stroke="#ddd" stroke-width="0.5"/>
+<rect x="834" y="429" width="16" height="16" rx="3" fill="#7a9e8e" stroke="#ddd" stroke-width="0.5"/>
+<rect x="856" y="429" width="16" height="16" rx="3" fill="#f0e6d2" stroke="#ddd" stroke-width="0.5"/>
+<text x="865" y="442" font-family="sans-serif" font-size="12" fill="#2a7a2a">✓</text>
+<line x1="40" y1="496" x2="840" y2="496" stroke="#eee" stroke-width="1"/>
+<text x="90" y="516" font-family="sans-serif" font-size="12" font-weight="bold" fill="#1a1a2e">Terre</text>
+<text x="90" y="530" font-family="sans-serif" font-size="10" fill="#888">neutres chaudes, valeurs variées</text>
+<rect x="330" y="502" width="180" height="90" fill="#3a2a1e" rx="3"/>
+<circle cx="395" cy="547" r="24" fill="#c4a87a"/>
+<rect x="430" y="564" width="60" height="14" fill="#7a6a4a" rx="2"/>
+<line x1="530" y1="547" x2="570" y2="547" stroke="#aaa" stroke-width="1"/>
+<polygon points="566,543 566,551 574,547" fill="#aaa"/>
+<rect x="580" y="502" width="180" height="90" fill="#2a2a2a" rx="3"/>
+<circle cx="645" cy="547" r="24" fill="#a0a0a0"/>
+<rect x="680" y="564" width="60" height="14" fill="#606060" rx="2"/>
+<rect x="790" y="539" width="16" height="16" rx="3" fill="#3a2a1e" stroke="#ddd" stroke-width="0.5"/>
+<rect x="812" y="539" width="16" height="16" rx="3" fill="#c4a87a" stroke="#ddd" stroke-width="0.5"/>
+<rect x="834" y="539" width="16" height="16" rx="3" fill="#7a6a4a" stroke="#ddd" stroke-width="0.5"/>
+<rect x="856" y="539" width="16" height="16" rx="3" fill="#e8e0d0" stroke="#ddd" stroke-width="0.5"/>
+<text x="865" y="552" font-family="sans-serif" font-size="12" fill="#2a7a2a">✓</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg viewBox="0 0 880 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="560" fill="#ffffff"/>
+
+  <!-- Titre -->
+  <text x="440" y="30" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#8b0000">Contre-exemples — quand le test en niveaux de gris échoue</text>
+  <text x="440" y="48" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#666666">Le contraste de couleur attire l'œil — mais sans différence de valeur, le sujet disparaît en niveaux de gris</text>
+
+  <!-- ═══ Contre-exemple 1 : Le piège des complémentaires ═══ -->
+  <text x="220" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#1a1a2e">Rouge sur vert — complémentaires</text>
+  <text x="220" y="96" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#888888">vibrant en couleur… même valeur en gris</text>
+
+  <!-- Composition couleur -->
+  <rect x="60" y="108" width="200" height="140" fill="#2a8654" rx="4"/>
+  <circle cx="160" cy="168" r="44" fill="#c0392b"/>
+  <rect x="90" y="216" width="140" height="16" fill="#a0c0a8" rx="3"/>
+  <text x="220" y="266" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">en couleur : ça vibre ✓</text>
+
+  <!-- Flèche avec croix -->
+  <line x1="220" y1="278" x2="220" y2="302" stroke="#cc4444" stroke-width="1.5"/>
+  <polygon points="215,298 225,298 220,306" fill="#cc4444"/>
+
+  <!-- Grayscale — le sujet disparaît -->
+  <rect x="60" y="310" width="200" height="140" fill="#656565" rx="4"/>
+  <circle cx="160" cy="370" r="44" fill="#606060"/>
+  <rect x="90" y="418" width="140" height="16" fill="#c0c0c0" rx="3"/>
+  <text x="220" y="470" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8b0000" font-weight="bold">✗ le sujet disparaît</text>
+  <text x="220" y="486" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#888888">même valeur (~#606060) : l'œil ne distingue plus la forme</text>
+
+  <!-- ═══ Contre-exemple 2 : Même valeur, teintes différentes ═══ -->
+  <text x="660" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#1a1a2e">Bleu sur orange — même valeur</text>
+  <text x="660" y="96" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#888888">deux teintes différentes… même gris</text>
+
+  <!-- Composition couleur -->
+  <rect x="500" y="108" width="200" height="140" fill="#c4782e" rx="4"/>
+  <circle cx="600" cy="168" r="44" fill="#5b7a9e"/>
+  <rect x="530" y="216" width="140" height="16" fill="#d4d4d4" rx="3"/>
+  <text x="660" y="266" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">en couleur : deux teintes claires ✓</text>
+
+  <!-- Flèche avec croix -->
+  <line x1="660" y1="278" x2="660" y2="302" stroke="#cc4444" stroke-width="1.5"/>
+  <polygon points="655,298 665,298 660,306" fill="#cc4444"/>
+
+  <!-- Grayscale — le sujet disparaît -->
+  <rect x="500" y="310" width="200" height="140" fill="#808080" rx="4"/>
+  <circle cx="600" cy="370" r="44" fill="#757575"/>
+  <rect x="530" y="418" width="140" height="16" fill="#d4d4d4" rx="3"/>
+  <text x="660" y="470" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8b0000" font-weight="bold">✗ invisible en niveaux de gris</text>
+  <text x="660" y="486" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#888888">même luminance : la teinte ne suffit pas, il faut la valeur</text>
+
+  <!-- ═══ Note pédagogique ═══ -->
+  <line x1="40" y1="506" x2="840" y2="506" stroke="#e0e0e0" stroke-width="1"/>
+
+  <rect x="40" y="520" width="800" height="30" fill="#fff5f5" rx="6"/>
+  <text x="440" y="540" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#8b0000" font-weight="bold">Le contraste de teinte ne remplace pas le contraste de valeur — les deux sont nécessaires pour que la hiérarchie survive.</text>
+
+  <!-- Léger indication : le petit rect gris clair reste visible dans les deux contre-exemples -->
+  <text x="220" y="500" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#2a7a2a">✓ le second élément (plus clair) reste lisible</text>
+  <text x="660" y="500" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#2a7a2a">✓ idem — le problème est le sujet, pas l'image entière</text>
+</svg>

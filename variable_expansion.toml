@@ -1,0 +1,192 @@
+# .variable_expansion.toml — source unique de vérité
+#
+# Toutes les métadonnées et le contenu réutilisable du plan de cours
+# sont définis ici. `docsh run` injecte les valeurs dans les Markdown
+# via les marqueurs <!-- %: KEY -->...<!-- %; -->.
+#
+# Le plan de cours PDF (plan-de-cours-typ/) et le site Docsify
+# dérivent tous deux de ce fichier — écriture unique, lectures multiples.
+
+# ── Site web ────────────────────────────────────────────────────────
+URL_SITE = "https://tim-montmorency.codeberg.page/582705MO-2026-2"
+TITRE_SITE = "Introduction à la création multimédia - Gr.02"
+DESCRIPTION_SITE = "Ce cours de création multimédia vise à réaliser des projets artistiques en utilisant des logiciels de création Libres ou gratuits. L’approche par projets explorera les domaines de l’image, du son, de la vidéo, de la 3D et potentiellement de l’interactivité.  Au terme de ce cours, l’étudiant se sera familiarisé avec différentes techniques et outils permettant de réaliser des projets multimédias."
+COULEUR_THEME = "#32d980"
+
+# ── Identification du cours ──────────────────────────────────────────
+NUMERO_COURS = "582 705 MO"
+TITRE = "Introduction à la création multimédia - Gr.02"
+HEURES = "45h"
+PONDERATION = "1-2-3"
+PROGRAMME = "Cours de formation complémentaire"
+DEPARTEMENT = "Techniques d'intégration multimédia"
+# Cours complémentaire : la ligne « Département du programme » est
+# masquée sur la couverture du PDF (le corps du plan la conserve).
+DEPARTEMENT_COUVERTURE = false
+SESSION = "Automne 2026"
+
+# ── Enseignant ───────────────────────────────────────────────────────
+PROFS = "Guillaume Arseneault, Enric Granzotto Llagostera"
+AUTEUR = "Guillaume Arseneault, Enric Granzotto Llagostera"
+ORGANISATION_SITE = "Collège Montmorency"
+DEPARTEMENT_PROFS = "Techniques d'intégration multimédia"
+PLATEFORMES = "Teams et Codeberg"
+
+# ── Coordination ─────────────────────────────────────────────────────
+COORDINATION_NOM = "Lora Boisvert"
+COORDINATION_COURRIEL = "lora.boisvert@cmontmorency.qc.ca"
+COORDINATION_BUREAU = "C-1651"
+
+# ── Présentation du cours ────────────────────────────────────────────
+DESCRIPTION_COURS = "Ce cours de création multimédia vise à réaliser des projets artistiques en utilisant des logiciels de création Libres ou gratuits. L’approche par projets explorera les domaines de l’image, du son, de la vidéo, de la 3D et potentiellement de l’interactivité.  Au terme de ce cours, l’étudiant se sera familiarisé avec différentes techniques et outils permettant de réaliser des projets multimédias."
+OBJECTIF_INTEGRATEUR = "Réaliser une production multimédia"
+COMPETENCES_MINISTERIELLES = [
+  "- 0014 Réaliser une production artistique.",
+]
+OBJECTIFS_APPRENTISSAGE = [
+  "- Reconnaître les principaux modes d’expression de la création multimédia comme médium artistique.",
+  "- Utiliser la création multimédia pour réaliser un projet artistique.",
+]
+VOLETS_TRANSVERSAUX = [
+  "- **Compétence langagière :** L'élève adapte son discours à la situation de communication, communique adéquatement à l'oral et à l'écrit, soigne ses productions écrites et utilise le lexique de la profession.",
+  "- **Compétence numérique :** L'élève exploite les TIC de manière efficace et responsable. Il recherche, traite et présente de l'information.",
+]
+ATTITUDES_PROFESSIONNELLES = [
+  "- Autonomie",
+  "- Esprit critique",
+]
+PROFIL_SORTIE = "Être une personne responsable, cultivée et créative, sachant communiquer, résoudre des problèmes et s'adapter à des situations nouvelles tant en société que dans son milieu de travail ou sa vie personnelle"
+PREALABLES = [
+    
+]
+
+# ── Contexte d'apprentissage et méthodes pédagogiques ────────────────
+CONTEXTE_METHODES = [
+  "- Exposés magistraux",
+  "- En laboratoire informatique",
+  "- Apprentissage et utilisation de logiciels sous forme de démonstrations, d'exercices et de travaux pratiques",
+  "- Projets multimédias",
+  "- Exposés interactifs",
+  "- Activités coopératives",
+  "- Tutorat individuel ou en petits groupes",
+  "- En présence",
+  "- Discussions en groupe (tables rondes)",
+]
+
+# ── Matériel et volumes requis ───────────────────────────────────────
+MATERIEL = [
+  "- Disque dur portatif",
+  "- Écouteurs filaire",
+  "- Clé USB",
+  "- Cahier pour griffonner, conceptualiser, noter vos inspirations",
+  "- Compte Codeberg (créé en classe)",
+]
+
+# ── Règles d'identification des travaux ──────────────────────────────
+REGLES_IDENTIFICATION = "À moins d'indication contraire, les remises de travaux doivent être nommées de la manière suivante :\n\n- Travail individuel : `nom-de-famille_prénom_identification-du-travail_cours`\n- Travail d'équipe : `nom-de-famille1_nom-de-famille2_identification-du-travail_cours`\n\nLes travaux non identifiés ne seront pas corrigés et les pénalités de retard s'appliqueront."
+
+# ── Dates importantes ────────────────────────────────────────────────
+DATE_DESINSCRIPTION = "18 septembre"
+DATE_DESINSCRIPTION_LIBELLE = "Date limite de désinscription aux cours sans mention au bulletin"
+DATE_ABANDON = "4 novembre"
+DATE_ABANDON_LIBELLE = "Date limite d'abandon de cours sans échec entraînant une mention au bulletin"
+
+# ── Dates des séances (15 mercredis, sauf 14 octobre) ─────────────────
+S1  = "2026/08/26"
+S2  = "2026/09/02"
+S3  = "2026/09/09"
+S4  = "2026/09/16"
+S5  = "2026/09/23"
+S6  = "2026/09/30"
+S7  = "2026/10/07"
+S8  = "2026/10/21"
+S9  = "2026/10/28"
+S10 = "2026/11/04"
+S11 = "2026/11/11"
+S12 = "2026/11/18"
+S13 = "2026/11/25"
+S14 = "2026/12/02"
+S15 = "2026/12/09"
+
+# ── Contenus des séances (tableau « Déroulement » du plan de cours) ──
+S1_CONTENU  = "Lancement — plan de cours, projet intégrateur, création du journal de bord"
+S2_CONTENU  = "Bloc Image — principes (matriciel/vectoriel, couleur, formats, licences)"
+S3_CONTENU  = "Bloc Image — exercice exploratoire + atelier"
+S4_CONTENU  = "Bloc Image — **remise EVS 1 — 16 septembre** (production image + journal de bord)"
+S5_CONTENU  = "Bloc Vidéo / animation — principes + scénarisation/storyboard"
+S6_CONTENU  = "Bloc Vidéo / animation — outils, capture, montage"
+S7_CONTENU  = "Bloc Vidéo / animation — atelier de finition + rétroaction (remise EVS 2 à la séance 9) : Guillaume enseigne au groupe d'Enric"
+S8_CONTENU  = "Bloc Intégration — atelier de conceptualisation (pitch, scénario) : Enric enseigne au groupe de Guillaume"
+S9_CONTENU  = "Bloc Vidéo / animation — **remise EVS 2 — 28 octobre** (production vidéo ou animation + journal de bord)"
+S10_CONTENU = "Bloc Son — principes (numérisation, formats, processus)"
+S11_CONTENU = "Bloc Son — atelier + exercice exploratoire + révision du rôle du son dans l'essai audiovisuel"
+S12_CONTENU = "Bloc Son — **remise EVS 3 — 18 novembre** (production sonore + journal de bord)"
+S13_CONTENU = "Bloc Intégration — production en atelier + rétroaction"
+S14_CONTENU = "Bloc Intégration — prototype + rétroaction, optimisation, **préparation de la remise finale**"
+S15_CONTENU = "**Remise du film (EVS 4 — essai audiovisuel) — 9 décembre** au début de la séance + visionnement collectif"
+
+# ── Noms des blocs (partagés entre activités, savoirs, évaluations) ──
+BLOC1 = "Image"
+BLOC2 = "Vidéo / animation"
+BLOC3 = "Son"
+BLOC4 = "Intégration"
+
+# ── Évaluations formatives ───────────────────────────────────────────
+SEANCE_EVF_1 = "[Séance 3](/01-deroulement/03/)"
+SEANCE_EVF_2 = "[Séance 7](/01-deroulement/07/)"
+SEANCE_EVF_3 = "[Séance 11](/01-deroulement/11/)"
+SEANCE_EVF_4 = "[Séance 14](/01-deroulement/14/)"
+DESCRIPTION_EVF_1 = "Exercice exploratoire en image numérique"
+DESCRIPTION_EVF_2 = "Exercice exploratoire en production vidéo"
+DESCRIPTION_EVF_3 = "Exercice exploratoire en production sonore"
+DESCRIPTION_EVF_4 = "Prototype du projet intégrateur"
+
+# ── Évaluations sommatives (poids globaux — le journal de bord fait
+#    partie intégrante de chaque évaluation, sans note spécifique) ─────
+SEANCE_EVS_1 = "[**Séance 4**](/01-deroulement/04/)"
+SEANCE_EVS_2 = "[**Séance 9**](/01-deroulement/09/)"
+SEANCE_EVS_3 = "[**Séance 12**](/01-deroulement/12/)"
+SEANCE_EVS_4 = "[**Séance 15**](/01-deroulement/15/)"
+PONDERATION_EVS_1 = "15%"
+PONDERATION_EVS_2 = "25%"
+PONDERATION_EVS_3 = "20%"
+PONDERATION_EVS_4 = "40%"
+FORME_EVS_1 = "Individuel"
+FORME_EVS_2 = "Individuel"
+FORME_EVS_3 = "Individuel"
+FORME_EVS_4 = "Équipe (2)"
+DESCRIPTION_EVS_1 = "Production en image numérique (journal de bord intégré)"
+DESCRIPTION_EVS_2 = "Production vidéo ou animation (journal de bord intégré)"
+DESCRIPTION_EVS_3 = "Production sonore (journal de bord intégré)"
+DESCRIPTION_EVS_4 = "**Intégration des apprentissages :** Essai audiovisuel (2 min max) + présentation (journal de bord intégré)"
+SAVOIRS_CRITERES_EVS_1 = "Savoirs : qualité esthétique des fichiers, outils et processus de création, exploitation des logiciels d'image. Critères : intention et composition claires, maîtrise des outils."
+SAVOIRS_CRITERES_EVS_2 = "Savoirs : qualité esthétique des fichiers, exploitation des logiciel de vidéo et animation, conceptualisation et scénarisation. Critères : scénarisation visible, intention et rythme du montage, composition, son-témoin ou trame sonore cohérente."
+SAVOIRS_CRITERES_EVS_3 = "Savoirs : qualité esthétique des fichiers, outils et processus de création, exploitation des logiciels de son. Critères : intention d'écoute claire, composition et montage du matériau sonore, équilibre sonore."
+SAVOIRS_CRITERES_EVS_4 = "Savoirs : conceptualisation et scénarisation, planification de l'intégration, prototypage, optimisation des médias, présentation, sauvegarde et archivage. Critères : clarté de l'intention, intégration médiatique, scénarisation et montage, originalité créative, présentation en classe."
+
+# ── Rituel de remise (visionnement collectif) ────────────────────────
+RITUEL_REMISE = "À la remise, la classe regarde les projets ensemble : le professeur ouvre l'URL du journal, navigue dans la page du projet, commente et échange rapidement avec les personnes concernées. On apprend ensemble, en partageant."
+
+# ── Projet intégrateur — essai audiovisuel ───────────────────────────
+PROJET_FINAL = "Essai audiovisuel"
+DESCRIPTION_PROJET_FINAL = "En équipe de deux, réaliser un essai audiovisuel d'au plus 2 minutes qui combine image, vidéo ou animation et son au service d'un propos personnel — la production multimédia intégratrice du cours."
+DUREE_ESSAI = "2 minutes (maximum)"
+TAILLE_EQUIPE = "2"
+SEANCE_REMISE_ESSAI = "Séance 15 (remise au début + visionnement collectif)"
+SEANCE_VISIONNEMENT = "Séance 15 (visionnement collectif)"
+
+# ── Professeures et professeurs ─────────────────────────────────────
+# Tableau TOML ([[PROFESSEURS]]) — obligatoirement en FIN de fichier :
+# une fois le tableau ouvert, toutes les clés suivantes y seraient
+# absorbées (sémantique TOML). Un cours peut déclarer un ou plusieurs
+# professeurs ; le gabarit Typst et le marqueur as="table" de docsh
+# rendent la liste (nom, courriel, bureau) — voir AGENTS.md.
+[[PROFESSEURS]]
+nom = "Guillaume Arseneault"
+courriel = "guillaume.arseneault@cmontmorency.qc.ca"
+bureau = "C-1651"
+
+[[PROFESSEURS]]
+nom = "Enric Granzotto Llagostera"
+courriel = "egllagostera@cmontmorency.qc.ca"
+bureau = "C-1649"

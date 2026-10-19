@@ -1,0 +1,17 @@
+# docsh configuration — https://codeberg.org/gllm/docsh
+# Sidebar and navbar links are site-root-absolute (/path/) so a single
+# shared _sidebar.md works on every page. Serve the site at a domain
+# root or use a custom domain; for subpath hosting see the README.
+
+[exclude]
+dirs = ["docsh", "favicon", "vendor", "plan-de-cours-typ"]
+
+[generators.typst]
+pdf_name = "{numero}-{titre}-{session}-{auteur}"
+
+[generators.mediagraphie]
+dir = "05-mediagraphie"
+bib = "05-mediagraphie/mediagraphie-cours.bib"
+scan = "00-plan-de-cours,01-deroulement,02-activites,03-savoirs,04-evaluations,07-journal-de-bord"
+prune = true
+annexe_filter = "selection=essentiel"

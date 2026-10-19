@@ -1,0 +1,74 @@
+<svg viewBox="0 0 880 520" xmlns="http://www.w3.org/2000/svg">
+<rect width="880" height="520" fill="#ffffff"/>
+<text x="440" y="28" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#1a1a2e">Accessibilité — la même palette vue par 5 types de vision</text>
+<text x="440" y="46" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#666">Les dyschromatopsies rouge-vert empêchent de distinguer certaines paires de teintes — le test en niveaux de gris couvre le cas extrême</text>
+<text x="70" y="80" font-family="sans-serif" font-size="12" font-weight="bold" fill="#1a1a2e">Vision normale</text>
+<text x="70" y="94" font-family="sans-serif" font-size="9.5" fill="#888">—</text>
+<text x="280" y="86" font-family="sans-serif" font-size="9.5" fill="#666">toutes les teintes</text>
+<circle cx="360" cy="82" r="18" fill="#e05c3a" stroke="#ddd" stroke-width="0.5"/>
+<text x="360" y="118" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Rouge</text>
+<circle cx="440" cy="82" r="18" fill="#2a8654" stroke="#ddd" stroke-width="0.5"/>
+<text x="440" y="118" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Vert</text>
+<circle cx="520" cy="82" r="18" fill="#3a5b8e" stroke="#ddd" stroke-width="0.5"/>
+<text x="520" y="118" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Bleu</text>
+<circle cx="600" cy="82" r="18" fill="#e8c540" stroke="#ddd" stroke-width="0.5"/>
+<text x="600" y="118" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Jaune</text>
+<circle cx="680" cy="82" r="18" fill="#8b4a8a" stroke="#ddd" stroke-width="0.5"/>
+<text x="680" y="118" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Violet</text>
+<text x="70" y="152" font-family="sans-serif" font-size="12" fill="#1a1a2e">Protanopie</text>
+<text x="70" y="166" font-family="sans-serif" font-size="9.5" fill="#888">absence des cônes L (rouge)</text>
+<text x="280" y="158" font-family="sans-serif" font-size="9.5" fill="#666"></text>
+<circle cx="360" cy="154" r="18" fill="#6b6b42" stroke="#ddd" stroke-width="0.5"/>
+<text x="360" y="190" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Rouge</text>
+<circle cx="440" cy="154" r="18" fill="#7c7c5e" stroke="#ddd" stroke-width="0.5"/>
+<text x="440" y="190" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Vert</text>
+<circle cx="520" cy="154" r="18" fill="#575783" stroke="#ddd" stroke-width="0.5"/>
+<text x="520" y="190" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Bleu</text>
+<circle cx="600" cy="154" r="18" fill="#c9c95c" stroke="#ddd" stroke-width="0.5"/>
+<text x="600" y="190" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Jaune</text>
+<circle cx="680" cy="154" r="18" fill="#52527d" stroke="#ddd" stroke-width="0.5"/>
+<text x="680" y="190" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Violet</text>
+<text x="70" y="224" font-family="sans-serif" font-size="12" fill="#1a1a2e">Deutéranopie</text>
+<text x="70" y="238" font-family="sans-serif" font-size="9.5" fill="#888">absence des cônes M (vert)</text>
+<text x="280" y="230" font-family="sans-serif" font-size="9.5" fill="#666"></text>
+<circle cx="360" cy="226" r="18" fill="#83833b" stroke="#ddd" stroke-width="0.5"/>
+<text x="360" y="262" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Rouge</text>
+<circle cx="440" cy="226" r="18" fill="#6b6b55" stroke="#ddd" stroke-width="0.5"/>
+<text x="440" y="262" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Vert</text>
+<circle cx="520" cy="226" r="18" fill="#51518d" stroke="#ddd" stroke-width="0.5"/>
+<text x="520" y="262" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Bleu</text>
+<circle cx="600" cy="226" r="18" fill="#cfcf44" stroke="#ddd" stroke-width="0.5"/>
+<text x="600" y="262" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Jaune</text>
+<circle cx="680" cy="226" r="18" fill="#5d5d88" stroke="#ddd" stroke-width="0.5"/>
+<text x="680" y="262" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Violet</text>
+<text x="70" y="296" font-family="sans-serif" font-size="12" fill="#1a1a2e">Tritanopie</text>
+<text x="70" y="310" font-family="sans-serif" font-size="9.5" fill="#888">absence des cônes S (bleu)</text>
+<text x="280" y="302" font-family="sans-serif" font-size="9.5" fill="#666">très rare</text>
+<circle cx="360" cy="298" r="18" fill="#d9494a" stroke="#ddd" stroke-width="0.5"/>
+<text x="360" y="334" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Rouge</text>
+<circle cx="440" cy="298" r="18" fill="#2f6a6c" stroke="#ddd" stroke-width="0.5"/>
+<text x="440" y="334" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Vert</text>
+<circle cx="520" cy="298" r="18" fill="#3c7876" stroke="#ddd" stroke-width="0.5"/>
+<text x="520" y="334" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Bleu</text>
+<circle cx="600" cy="298" r="18" fill="#e67a7f" stroke="#ddd" stroke-width="0.5"/>
+<text x="600" y="334" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Jaune</text>
+<circle cx="680" cy="298" r="18" fill="#886e6c" stroke="#ddd" stroke-width="0.5"/>
+<text x="680" y="334" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Violet</text>
+<text x="70" y="368" font-family="sans-serif" font-size="12" fill="#1a1a2e">Achromatopsie</text>
+<text x="70" y="382" font-family="sans-serif" font-size="9.5" fill="#888">aucune vision des couleurs</text>
+<text x="280" y="374" font-family="sans-serif" font-size="9.5" fill="#666">extrêmement rare</text>
+<circle cx="360" cy="370" r="18" fill="#808080" stroke="#ddd" stroke-width="0.5"/>
+<text x="360" y="406" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Rouge</text>
+<circle cx="440" cy="370" r="18" fill="#707070" stroke="#ddd" stroke-width="0.5"/>
+<text x="440" y="406" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Vert</text>
+<circle cx="520" cy="370" r="18" fill="#5a5a5a" stroke="#ddd" stroke-width="0.5"/>
+<text x="520" y="406" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Bleu</text>
+<circle cx="600" cy="370" r="18" fill="#c0c0c0" stroke="#ddd" stroke-width="0.5"/>
+<text x="600" y="406" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Jaune</text>
+<circle cx="680" cy="370" r="18" fill="#6b6b6b" stroke="#ddd" stroke-width="0.5"/>
+<text x="680" y="406" text-anchor="middle" font-family="sans-serif" font-size="8.5" fill="#888">Violet</text>
+<rect x="40" y="432" width="800" height="76" fill="#f7f7f7" rx="6"/>
+<text x="440" y="454" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#1a1a2e">Ne jamais coder l’information par la couleur seule</text>
+<text x="440" y="472" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#444">Ajouter un différenciateur non coloriel : forme, texture, étiquette, position.</text>
+<text x="440" y="488" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#444">Le test en niveaux de gris couvre l’achromatopsie ; pour les dyschromatopsies rouge-vert, vérifier le contraste de valeur entre les paires rouge/vert et bleu/jaune.</text>
+</svg>

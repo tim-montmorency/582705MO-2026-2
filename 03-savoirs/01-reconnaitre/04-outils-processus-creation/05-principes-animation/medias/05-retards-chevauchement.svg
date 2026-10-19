@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200" role="img" aria-label="Un corps s'arrête tandis qu'un élément attaché continue et dépasse">
+  <title>Retards et chevauchement (follow through &amp; overlapping)</title>
+  <line x1="20" y1="160" x2="220" y2="160" stroke="#c9ccd1" stroke-width="3"/>
+  <g>
+    <circle cy="110" r="18" fill="#b81c1c">
+      <animate attributeName="cx" values="80;150;150" keyTimes="0;0.6;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cy="110" r="9" fill="#2a6fdb" opacity="0.8">
+      <animate attributeName="cx" values="55;120;135" keyTimes="0;0.6;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="120" y="185" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5f6368">le corps s'arrête, la queue continue</text>
+</svg>

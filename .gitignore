@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/settings.json
+favicon/opengraph.svg
+.docsh/
+node_modules/
+.obsidian/

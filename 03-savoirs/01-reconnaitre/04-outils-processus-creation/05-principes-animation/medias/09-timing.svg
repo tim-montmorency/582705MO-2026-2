@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200" role="img" aria-label="Deux balles parcourent la même distance, l'une vite, l'autre lentement">
+  <title>Timing</title>
+  <line x1="30" y1="80" x2="210" y2="80" stroke="#c9ccd1" stroke-width="2"/>
+  <line x1="30" y1="140" x2="210" y2="140" stroke="#c9ccd1" stroke-width="2"/>
+  <circle cy="80" r="14" fill="#b81c1c">
+    <animate attributeName="cx" values="30;210" dur="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="140" r="14" fill="#2a6fdb">
+    <animate attributeName="cx" values="30;210" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <g font-family="sans-serif" font-size="12" fill="#5f6368">
+    <text x="120" y="40" text-anchor="middle">rapide — peu d'images</text>
+    <text x="120" y="185" text-anchor="middle">lent — beaucoup d'images</text>
+  </g>
+</svg>

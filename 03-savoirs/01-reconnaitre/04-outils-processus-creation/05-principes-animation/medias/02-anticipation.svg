@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200" role="img" aria-label="Une balle recule légèrement avant de partir vers la droite">
+  <title>Anticipation</title>
+  <line x1="30" y1="140" x2="210" y2="140" stroke="#c9ccd1" stroke-width="3"/>
+  <circle cy="110" r="16" fill="#b81c1c">
+    <animate attributeName="cx" values="120;100;180;180" keyTimes="0;0.3;0.75;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <g stroke="#3c4043" stroke-width="2" fill="none">
+    <path d="M120 145 h-20"/>
+    <path d="M100 145 l8 -5 v10 z" fill="#3c4043" stroke="none"/>
+  </g>
+  <text x="120" y="185" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5f6368">reculer d'abord, puis partir</text>
+</svg>

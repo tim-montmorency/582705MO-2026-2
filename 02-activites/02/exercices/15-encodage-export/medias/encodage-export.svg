@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="Un rendu progresse et produit deux fichiers de formats différents">
+  <title>L'encodage et l'export — rendre l'animation, comparer les formats</title>
+  <style>
+    .boite { fill:#ffffff; stroke:#9aa0a6; stroke-width:2; }
+    .num { font:14px sans-serif; fill:#3c4043; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .gros { font:700 15px sans-serif; fill:#ffffff; }
+    .pct { font:700 14px sans-serif; fill:#b81c1c; }
+  </style>
+
+  <!-- Source : l'animation -->
+  <rect class="boite" x="30" y="70" width="180" height="110" rx="8"/>
+  <text class="num" x="120" y="115" text-anchor="middle">Animation</text>
+  <text class="num" x="120" y="140" text-anchor="middle">(Krita)</text>
+
+  <!-- Flèche -->
+  <g stroke="#b81c1c" stroke-width="3" fill="none">
+    <line x1="215" y1="125" x2="285" y2="125"/>
+    <path d="M285 125 l-12 -7 v14 z" fill="#b81c1c" stroke="none"/>
+  </g>
+
+  <!-- Barre de progression du rendu -->
+  <g>
+    <rect class="boite" x="300" y="105" width="200" height="18" rx="9" fill="#f1f3f4"/>
+    <rect x="300" y="105" width="0" height="18" rx="9" fill="#b81c1c">
+      <animate attributeName="width" values="0;200;200;0" keyTimes="0;0.55;0.85;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <text class="num" x="400" y="95" text-anchor="middle">Rendu…</text>
+    <g class="pct" text-anchor="middle">
+      <text x="400" y="150">0 %
+        <animate attributeName="opacity" values="1;0;0;1" keyTimes="0;0.3;0.9;1" dur="5s" repeatCount="indefinite"/>
+      </text>
+      <text x="400" y="150" opacity="0">50 %
+        <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.3;0.6;1" dur="5s" repeatCount="indefinite"/>
+      </text>
+      <text x="400" y="150" opacity="0">100 %
+        <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.6;0.9;1" dur="5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+
+  <!-- Flèche -->
+  <g stroke="#b81c1c" stroke-width="3" fill="none">
+    <line x1="510" y1="125" x2="565" y2="125"/>
+    <path d="M565 125 l-12 -7 v14 z" fill="#b81c1c" stroke="none"/>
+  </g>
+
+  <!-- Deux fichiers de sortie -->
+  <g opacity="0">
+    <rect x="580" y="60" width="110" height="52" rx="6" fill="#2a6fdb"/>
+    <text class="gros" x="635" y="92" text-anchor="middle">MP4</text>
+    <text class="note" x="635" y="125" text-anchor="middle">H.264</text>
+    <animate attributeName="opacity" begin="2.8s" to="1" dur="0.5s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <rect x="580" y="140" width="110" height="52" rx="6" fill="#2e7d32"/>
+    <text class="gros" x="635" y="172" text-anchor="middle">WebM</text>
+    <text class="note" x="635" y="205" text-anchor="middle">AV1</text>
+    <animate attributeName="opacity" begin="3.3s" to="1" dur="0.5s" fill="freeze"/>
+  </g>
+
+  <text class="note" x="360" y="240" text-anchor="middle">rendre depuis Krita, puis comparer les codecs — poids, débit, lecture partout</text>
+</svg>

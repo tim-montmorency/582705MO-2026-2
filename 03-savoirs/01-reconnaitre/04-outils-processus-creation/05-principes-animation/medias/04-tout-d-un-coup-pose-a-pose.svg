@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200" role="img" aria-label="Deux façons d'animer : tout d'un coup, ou pose à pose">
+  <title>Tout d'un coup / pose à pose</title>
+  <g font-family="sans-serif" font-size="13" fill="#5f6368">
+    <text x="20" y="28">Tout d'un coup (straight ahead)</text>
+    <text x="260" y="28">Pose à pose (pose to pose)</text>
+  </g>
+  <g fill="#b81c1c" opacity="0.85">
+    <circle cx="40" cy="90" r="10"/><circle cx="80" cy="80" r="10"/><circle cx="120" cy="95" r="10"/>
+    <circle cx="160" cy="75" r="10"/><circle cx="200" cy="100" r="10"/>
+  </g>
+  <g fill="#2a6fdb" opacity="0.85">
+    <circle cx="280" cy="90" r="10"/><circle cx="320" cy="90" r="10"/><circle cx="360" cy="90" r="10"/>
+    <circle cx="400" cy="90" r="10"/><circle cx="440" cy="90" r="10"/>
+  </g>
+  <g stroke="#c9ccd1" stroke-width="2">
+    <line x1="20" y1="140" x2="220" y2="140"/>
+    <line x1="260" y1="140" x2="460" y2="140"/>
+  </g>
+  <text x="120" y="175" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#5f6368">on dessine au fil, on découvre</text>
+  <text x="360" y="175" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#5f6368">on pose les extrêmes, puis on intercale</text>
+</svg>

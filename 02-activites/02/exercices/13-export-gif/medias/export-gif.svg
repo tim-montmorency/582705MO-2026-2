@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" width="720" height="240" role="img" aria-label="Une séquence d'images est rendue en un fichier GIF qui boucle">
+  <title>L'export en GIF — une séquence qui boucle partout</title>
+  <style>
+    .trame { fill:#ffffff; stroke:#9aa0a6; stroke-width:2; }
+    .balle { fill:#b81c1c; }
+    .num { font:13px sans-serif; fill:#3c4043; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .gros { font:700 20px sans-serif; fill:#ffffff; }
+    .fleche { stroke:#b81c1c; stroke-width:3; fill:none; }
+  </style>
+
+  <!-- Séquence source -->
+  <g>
+    <rect class="trame" x="20"  y="60" width="80" height="80" rx="6"/><circle class="balle" cx="60"  cy="120" r="10"/>
+    <rect class="trame" x="108" y="60" width="80" height="80" rx="6"/><circle class="balle" cx="148" cy="90"  r="10"/>
+    <rect class="trame" x="196" y="60" width="80" height="80" rx="6"/><circle class="balle" cx="236" cy="120" r="10"/>
+    <rect class="trame" x="284" y="60" width="80" height="80" rx="6"/><circle class="balle" cx="324" cy="90"  r="10"/>
+    <text class="num" x="192" y="165" text-anchor="middle">séquence d'images</text>
+  </g>
+
+  <!-- Flèche -->
+  <g class="fleche">
+    <line x1="380" y1="100" x2="440" y2="100"/>
+    <path d="M440 100 l-12 -7 v14 z" fill="#b81c1c" stroke="none"/>
+  </g>
+
+  <!-- Fichier GIF -->
+  <g>
+    <rect x="460" y="45" width="150" height="110" rx="10" fill="#2e7d32"/>
+    <text class="gros" x="535" y="95" text-anchor="middle">GIF</text>
+    <text class="num" x="535" y="125" text-anchor="middle" fill="#d7ecd9">animé</text>
+    <!-- boucle -->
+    <path class="fleche" d="M505 145 a30 20 0 1 0 60 0" stroke="#ffffff" stroke-width="3"/>
+    <path d="M565 145 l-8 -8 v16 z" fill="#ffffff"/>
+    <text class="note" x="535" y="180" text-anchor="middle">boucle partout, sans lecteur</text>
+  </g>
+
+  <text class="note" x="360" y="220" text-anchor="middle">Fichier ‣ Rendre l'animation ‣ Rendu en : « GIF image » (FFmpeg lié à Krita)</text>
+</svg>

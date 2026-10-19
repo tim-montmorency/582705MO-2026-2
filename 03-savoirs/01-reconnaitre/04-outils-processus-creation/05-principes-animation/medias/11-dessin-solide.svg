@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200" role="img" aria-label="Un volume simple représenté en trois dimensions, avec lumière et ombre">
+  <title>Dessin solide</title>
+  <g transform="translate(120 95)">
+    <ellipse cx="0" cy="55" rx="55" ry="14" fill="#000000" opacity="0.12"/>
+    <ellipse cx="0" cy="0" rx="55" ry="55" fill="#b81c1c"/>
+    <ellipse cx="-18" cy="-18" rx="20" ry="20" fill="#ffffff" opacity="0.25"/>
+    <path d="M0 55 A55 55 0 0 0 55 0 A55 14 0 0 1 0 55" fill="#000000" opacity="0.18"/>
+  </g>
+  <text x="120" y="185" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5f6368">penser le volume, la lumière et l'espace</text>
+</svg>

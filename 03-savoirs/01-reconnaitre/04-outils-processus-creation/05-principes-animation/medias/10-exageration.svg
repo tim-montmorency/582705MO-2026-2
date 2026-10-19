@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200" role="img" aria-label="Une balle s'étire de façon exagérée avant de se comprimer fortement">
+  <title>Exagération</title>
+  <line x1="20" y1="170" x2="220" y2="170" stroke="#c9ccd1" stroke-width="3"/>
+  <ellipse cx="120" fill="#b81c1c">
+    <animate attributeName="cy" values="60;150;60" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="18;12;40;12;18" keyTimes="0;0.35;0.5;0.65;1" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="18;30;7;30;18" keyTimes="0;0.35;0.5;0.65;1" dur="1.6s" repeatCount="indefinite"/>
+  </ellipse>
+  <text x="120" y="195" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5f6368">pousser l'effet plus loin que le réel</text>
+</svg>

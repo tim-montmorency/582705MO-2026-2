@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport"
+            content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+        <meta name="description"
+            content="Ce cours de création multimédia vise à réaliser des projets artistiques en utilisant des logiciels de création Libres ou gratuits. L’approche par projets explorera les domaines de l’image, du son, de la vidéo, de la 3D et potentiellement de l’interactivité.  Au terme de ce cours, l’étudiant se sera familiarisé avec différentes techniques et outils permettant de réaliser des projets multimédias.">
+        <meta name="author" content="Enric Granzotto Llagostera">
+        <link rel="icon" type="image/svg+xml" href="medias/favicon.svg">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+        <link rel="manifest" href="favicon/site.webmanifest">
+        <meta name="theme-color" content="#b81c1c">
+        <title>Introduction à la création multimédia</title>
+
+        <meta property="og:url"
+            content="https://tim-montmorency.codeberg.page/582705MO-2026-2/">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Introduction à la création multimédia">
+        <meta property="og:description"
+            content="Ce cours de création multimédia vise à réaliser des projets artistiques en utilisant des logiciels de création Libres ou gratuits. L’approche par projets explorera les domaines de l’image, du son, de la vidéo, de la 3D et potentiellement de l’interactivité.  Au terme de ce cours, l’étudiant se sera familiarisé avec différentes techniques et outils permettant de réaliser des projets multimédias.">
+        <meta property="og:image"
+            content="https://tim-montmorency.codeberg.page/582705MO-2026-2/favicon/opengraph.png">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+        <meta property="og:site_name" content="Introduction à la création multimédia">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Introduction à la création multimédia">
+        <meta name="twitter:description"
+            content="Ce cours de création multimédia vise à réaliser des projets artistiques en utilisant des logiciels de création Libres ou gratuits. L’approche par projets explorera les domaines de l’image, du son, de la vidéo, de la 3D et potentiellement de l’interactivité.  Au terme de ce cours, l’étudiant se sera familiarisé avec différentes techniques et outils permettant de réaliser des projets multimédias.">
+        <meta name="twitter:image"
+            content="https://tim-montmorency.codeberg.page/582705MO-2026-2/favicon/opengraph.png">
+
+        <!-- Docsify 5 -->
+        <link rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/docsify@5/dist/themes/core.min.css">
+        <link rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/docsify@5/dist/themes/addons/core-dark.min.css"
+            media="(prefers-color-scheme: dark)">
+        <link rel="stylesheet" href="theme.css">
+        <link rel="stylesheet"
+            href="https://gllmar.github.io/docsify-lightbox-v5/docsify-lightbox.css">
+
+        <link rel="alternate" type="application/rss+xml" href="podcast.xml"
+            title="Podcast RSS">
+    </head>
+    <body>
+        <div id="app"></div>
+
+        <script>
+    // docsify-basepath-fix: inline bootstrap — recover if URL already has //
+    if (location.pathname.includes('//'))
+      location.replace(location.pathname.replace(/\/{2,}/g, '/')
+        + location.search + location.hash);
+  </script>
+        <script>
+    window.$docsify = {
+       name: 'Introduction à la création multimédia - Gr. 02',
+      repo: 'https://codeberg.org/tim-montmorency/582705MO-2026-2',
+      loadSidebar: true,
+      loadNavbar: false,
+      auto2top: true,
+      maxLevel: 3,
+      subMaxLevel: 2,
+      relativePath: true,
+      basePath: (location.hostname === 'localhost' || location.hostname === '127.0.0.1') ? '' : '/582705MO-2026-2',
+      search: {
+        namespace: 'Introduction à la création multimédia',
+        placeholder: '      🔍',
+        noData: '       🤷‍♂️',
+        depth: 3,
+        hideOtherSidebarContent: false,
+      },
+      shiki: {
+        theme: (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'github-dark' : 'github-light',
+        themes: ['github-light', 'github-dark'],
+        langs: ['python', 'bash', 'shell', 'javascript', 'typescript', 'css', 'html', 'json', 'yaml', 'toml', 'markdown', 'diff', 'xml', 'sql', 'text', 'rust', 'go', 'c', 'cpp', 'java', 'php', 'ruby', 'dockerfile', 'nginx', 'graphql'],
+      },
+      alias: {
+        '/(?!wiki/).*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md':           '/_navbar.md',
+      },
+      sidebarCollapse: { autoExpand: true, persist: false },
+      imgGrid: { columns: 3, minItems: 3 },
+      imageCaption: { textAlign: 'center', fontStyle: 'italic' },
+      unhashtagLinkExtensions: ['.pdf', '.html', '.docx', '.jpg', '.m4a', '.mp3', '.vtt', '.json', '.png', '.aiff', '.wav', '.ogg', '.flac', '.opus', '.webm', '.xml', '.csv', '.blend', '.stl', '.glb', '.gltf', '.svg', '.m3u8'],
+      copyCode: { buttonText: '📋', errorText: '⚠️', successText: '✅' },
+      pagination: { previousText: '←', nextText: '→', crossChapter: true },
+      podcastPlayer: {
+        unified: true,
+        artist: 'Souveraineté numérique',
+        album: 'SN — balado',
+      },
+    };
+  </script>
+
+        <!-- docsify-basepath-fix must load before any plugin that calls history APIs -->
+        <script
+            src="https://gllmar.github.io/docsify-basepath-fix/docsify-basepath-fix.js"></script>
+        <!-- remote-repo must load before Docsify -->
+        <script
+            src="https://gllmar.github.io/docsify-remote-repo/docsify-remote-repo.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js"></script>
+        <script
+            src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/front-matter.min.js"></script>
+        <script
+            src="https://cdn.jsdelivr.net/npm/docsify@5/dist/plugins/search.min.js"></script>
+        <script
+            src="https://cdn.jsdelivr.net/npm/@sy-records/docsify-shiki@1/dist/index.min.js"></script>
+        <script
+            src="https://gllmar.github.io/docsify-lightbox-v5/docsify-lightbox.js"></script>
+        <script
+            src="https://gllmar.github.io/docsify-mermaid-lightbox/docsify-mermaid-lightbox.js"></script>
+        <script
+            src="https://gllmar.github.io/docsify-img-grid/docsify-img-grid.js"></script>
+        <script
+            src="https://gllmar.github.io/docsify-img-caption/docsify-img-caption.js"></script>
+        <script
+            src="https://gllmar.github.io/docsify-v5-sidebar-collapse/docsify-v5-sidebar-collapse.js"></script>
+        <script
+            src="https://gllmar.github.io/docsify-repo-toolbar/docsify-repo-toolbar.js"></script>
+        <script
+            src="https://gllmar.github.io/docsify-unhashtaglink/docsify-unhashtaglink.js"></script>
+        <script
+            src="https://gllmar.github.io/docsify-pdf-link/docsify-pdf-link.js"></script>
+        <script
+            src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+        <script
+            src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+        <script
+            src="https://gllmar.github.io/docsify-podcast-player/docsify-podcast-player.js"></script>
+
+        <script>
+    // TS→M4A download synthesis: this site's service worker (sw.js)
+    // answers .m4a URLs by remuxing the same-origin HLS segments — no
+    // .m4a is stored anywhere.
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register(
+        location.pathname.replace(/[^/]*$/, '') + 'sw.js'
+      ).then(function (r) { r.update(); });
+    }
+  </script>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Introduction à la création multimédia</title>
+    <description>Introduction à la création multimédia</description>
+    <itunes:summary>Introduction à la création multimédia</itunes:summary>
+    <itunes:author>Guillaume Arseneault</itunes:author>
+    <generator>docsh podcast_feed</generator>
+  </channel>
+</rss>

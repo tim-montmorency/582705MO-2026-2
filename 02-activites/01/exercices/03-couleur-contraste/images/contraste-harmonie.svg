@@ -1,0 +1,92 @@
+<svg viewBox="0 0 880 640" xmlns="http://www.w3.org/2000/svg">
+  <rect width="880" height="640" fill="#ffffff"/>
+
+  <!-- Titre -->
+  <text x="440" y="30" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#1a1a2e">Contraste et harmonie des couleurs</text>
+  <text x="440" y="48" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#666666">Trois stratégies de contraste dominant — et le test en niveaux de gris</text>
+
+  <!-- ═══ Colonne 1 : Clair-obscur ═══ -->
+  <text x="150" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#1a1a2e">Clair-obscur</text>
+  <text x="150" y="96" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#888888">le contraste des valeurs</text>
+
+  <!-- Composition couleur -->
+  <rect x="50" y="108" width="200" height="140" fill="#2b2b3d" rx="4"/>
+  <circle cx="130" cy="168" r="44" fill="#f0e6d2"/>
+  <rect x="80" y="216" width="140" height="16" fill="#555570" rx="3"/>
+  <text x="150" y="266" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">palette</text>
+
+  <!-- Flèche -->
+  <line x1="150" y1="288" x2="150" y2="312" stroke="#aaaaaa" stroke-width="1.5"/>
+  <polygon points="145,308 155,308 150,316" fill="#aaaaaa"/>
+
+  <!-- Grayscale -->
+  <rect x="50" y="320" width="200" height="140" fill="#2b2b2b" rx="4"/>
+  <circle cx="130" cy="380" r="44" fill="#e0e0e0"/>
+  <rect x="80" y="428" width="140" height="16" fill="#606060" rx="3"/>
+  <text x="150" y="480" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2a7a2a" font-weight="bold">✓ hiérarchie lisible</text>
+
+  <!-- Palette swatches -->
+  <rect x="80" y="492" width="28" height="16" rx="3" fill="#2b2b3d" stroke="#dddddd" stroke-width="0.5"/>
+  <rect x="114" y="492" width="28" height="16" rx="3" fill="#f0e6d2" stroke="#dddddd" stroke-width="0.5"/>
+  <rect x="148" y="492" width="28" height="16" rx="3" fill="#555570" stroke="#dddddd" stroke-width="0.5"/>
+
+  <!-- ═══ Colonne 2 : Chaud-froid ═══ -->
+  <text x="440" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#1a1a2e">Chaud-froid</text>
+  <text x="440" y="96" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#888888">le contraste des températures</text>
+
+  <!-- Composition couleur -->
+  <rect x="340" y="108" width="200" height="140" fill="#3a5b8e" rx="4"/>
+  <circle cx="420" cy="168" r="44" fill="#e06830"/>
+  <rect x="370" y="216" width="140" height="16" fill="#c4b89a" rx="3"/>
+  <text x="440" y="266" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">palette</text>
+
+  <!-- Flèche -->
+  <line x1="440" y1="288" x2="440" y2="312" stroke="#aaaaaa" stroke-width="1.5"/>
+  <polygon points="435,308 445,308 440,316" fill="#aaaaaa"/>
+
+  <!-- Grayscale -->
+  <rect x="340" y="320" width="200" height="140" fill="#575757" rx="4"/>
+  <circle cx="420" cy="380" r="44" fill="#8a8a8a"/>
+  <rect x="370" y="428" width="140" height="16" fill="#b8b8b8" rx="3"/>
+  <text x="440" y="480" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2a7a2a" font-weight="bold">✓ hiérarchie lisible</text>
+
+  <!-- Palette swatches -->
+  <rect x="370" y="492" width="28" height="16" rx="3" fill="#3a5b8e" stroke="#dddddd" stroke-width="0.5"/>
+  <rect x="404" y="492" width="28" height="16" rx="3" fill="#e06830" stroke="#dddddd" stroke-width="0.5"/>
+  <rect x="438" y="492" width="28" height="16" rx="3" fill="#c4b89a" stroke="#dddddd" stroke-width="0.5"/>
+
+  <!-- ═══ Colonne 3 : Complémentaires ═══ -->
+  <text x="730" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#1a1a2e">Complémentaires</text>
+  <text x="730" y="96" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#888888">le contraste de la roue chromatique</text>
+
+  <!-- Composition couleur -->
+  <rect x="630" y="108" width="200" height="140" fill="#1a4a2e" rx="4"/>
+  <circle cx="710" cy="168" r="44" fill="#e05c3a"/>
+  <rect x="660" y="216" width="140" height="16" fill="#7a9e8e" rx="3"/>
+  <text x="730" y="266" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">palette</text>
+
+  <!-- Flèche -->
+  <line x1="730" y1="288" x2="730" y2="312" stroke="#aaaaaa" stroke-width="1.5"/>
+  <polygon points="725,308 735,308 730,316" fill="#aaaaaa"/>
+
+  <!-- Grayscale -->
+  <rect x="630" y="320" width="200" height="140" fill="#303030" rx="4"/>
+  <circle cx="710" cy="380" r="44" fill="#808080"/>
+  <rect x="660" y="428" width="140" height="16" fill="#8f8f8f" rx="3"/>
+  <text x="730" y="480" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2a7a2a" font-weight="bold">✓ hiérarchie lisible</text>
+
+  <!-- Palette swatches -->
+  <rect x="660" y="492" width="28" height="16" rx="3" fill="#1a4a2e" stroke="#dddddd" stroke-width="0.5"/>
+  <rect x="694" y="492" width="28" height="16" rx="3" fill="#e05c3a" stroke="#dddddd" stroke-width="0.5"/>
+  <rect x="728" y="492" width="28" height="16" rx="3" fill="#7a9e8e" stroke="#dddddd" stroke-width="0.5"/>
+
+  <!-- ═══ Séparateur ═══ -->
+  <line x1="40" y1="530" x2="840" y2="530" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- ═══ Note pédagogique ═══ -->
+  <rect x="40" y="546" width="800" height="72" fill="#f7f7f7" rx="6"/>
+
+  <text x="440" y="570" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#1a1a2e">Le test en niveaux de gris</text>
+  <text x="440" y="586" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#444444">Vérifier que le sujet reste lisible sans la couleur : le contraste de couleur attire l'œil,</text>
+  <text x="440" y="602" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#444444">mais c'est le contraste de valeur qui garantit que la hiérarchie survive sans les teintes.</text>
+</svg>

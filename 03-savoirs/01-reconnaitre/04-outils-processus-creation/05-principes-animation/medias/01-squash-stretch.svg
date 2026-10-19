@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200" role="img" aria-label="Une balle tombe, s'écrase au sol puis s'étire en remontant">
+  <title>Écrasement et étirement (squash &amp; stretch)</title>
+  <line x1="20" y1="170" x2="220" y2="170" stroke="#c9ccd1" stroke-width="3"/>
+  <ellipse cx="120" fill="#b81c1c">
+    <animate attributeName="cy" values="50;150;50" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="18;18;26;18;18" keyTimes="0;0.35;0.5;0.65;1" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="18;18;9;18;18" keyTimes="0;0.35;0.5;0.65;1" dur="1.6s" repeatCount="indefinite"/>
+  </ellipse>
+</svg>

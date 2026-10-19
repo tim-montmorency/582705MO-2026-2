@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200" role="img" aria-label="Une balle ralentit au départ, accélère, puis ralentit à l'arrivée">
+  <title>Accélération et ralentissement (slow in / slow out)</title>
+  <line x1="20" y1="150" x2="220" y2="150" stroke="#c9ccd1" stroke-width="3"/>
+  <g fill="#9aa0a6">
+    <circle cx="30" cy="150" r="3"/><circle cx="45" cy="150" r="3"/><circle cx="75" cy="150" r="3"/>
+    <circle cx="120" cy="150" r="3"/><circle cx="165" cy="150" r="3"/><circle cx="195" cy="150" r="3"/><circle cx="210" cy="150" r="3"/>
+  </g>
+  <circle cy="120" r="15" fill="#b81c1c">
+    <animate attributeName="cx" values="30;45;75;120;165;195;210" keyTimes="0;0.08;0.2;0.4;0.6;0.8;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="120" y="185" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5f6368">serré au début et à la fin, large au milieu</text>
+</svg>
