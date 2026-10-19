@@ -1,0 +1,7 @@
+[submodule "docsh"]
+	path = docsh
+	url = https://codeberg.org/gllm/docsh
+	branch = main
+[submodule "plan-de-cours-typ"]
+	path = plan-de-cours-typ
+	url = https://codeberg.org/tim-montmorency/plan-de-cours-typ.git
