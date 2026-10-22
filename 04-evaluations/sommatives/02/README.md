@@ -30,10 +30,9 @@ Réaliser une courte animation (15 à 30 secondes), scénarisée et montée avec
 - [ ] Animation exportée : **MP4/H.264** (compatibilité web) ou **GIF animé** si approprié, 15-30 s, résolution **1280×720 ou 1920×1080** (720p ou Full HD — **pas de 4K**, on garde ça léger), cadence **12, 24 ou 30 i/s** — format, résolution et cadence justifiés au journal
 - [ ] Export visionné **de bout en bout** sur le fichier final
 - [ ] Fichier de projet déposé (Krita/Glaxnimate/Blender/Friction…, montage Kdenlive/Shotcut/OpenShot)
-- [ ] Vignette de l'animation dans le journal ([exercice dédié](../../02-activites/01/exercices/07-vignette-video/))
+- [ ] Vignette de l'animation dans le journal (image statique 1280x720px, format JPG, lisible à des tailles réduites)
 - [ ] Journal v2 : séances 5 à 8 documentées
 - [ ] Ressources tierces créditées (lien + licence) ; usages d'IA documentés
-- [ ] Lien du journal via le site du cours testé (`#/remote/codeberg.org/…`)
 
 > **GIF animé** — accepté comme livrable si l'animation est **simple** (peu de couleurs, peu de détails, boucle courte). **Non recommandé** pour une animation riche : le GIF est lourd et limité à 256 couleurs (bandes de couleur, dégradés cassés). Dans ce cas, préférer **MP4** ou **WebM** (voir [Exporter en GIF](../../02-activites/02/exercices/13-export-gif/)).
 
@@ -62,7 +61,10 @@ Réaliser une courte animation (15 à 30 secondes), scénarisée et montée avec
 ### Principaux critères d'évaluation
 
 Les critères sont détaillés et distribués sur les éléments de compétence dans la [grille d'évaluation](./grille/).
-### Remise
 
-- Production : export MP4/WebM + fichier de projet, déposés selon les [règles d'identification](../../../00-plan-de-cours/).
-- Journal : lien du journal fourni au professeur.
+### Matériels à remettre (sur le devoir Teams) :
+
+- Fichier **vidéo** (15 à 30s de durée) sur le format **MP4** nommé  selon les [règles d'identification](../../../00-plan-de-cours/).
+- Fichier du **projet editable** (.kra si fait en Krita, d'autres formats si fait en Blender ou un autre outil).
+- Vignette (fichier d'image JPG, 1280x720px) de la vidéo avec son titre, nommée `vignette.jpg`.
+- Fichier `readme.txt` ou `readme.md` avec les informations du projet (créateur/créatrice, titre du projet, crédits de ressources externes).
