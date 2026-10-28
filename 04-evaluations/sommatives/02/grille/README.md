@@ -24,5 +24,5 @@ tags:
 
 - **Élément 1 (30 % du cours)** — reconnaître : critères de qualité, outils et processus, évolution artistique — porté ici par la qualité de l'export et le journal.
 - **Élément 2 (70 % du cours)** — utiliser le médium : scénariser, monter, respecter les critères.
-- Les points s'additionnent sur 100, puis se rapportent au poids de l'EVS (20 % de la note finale).
+- Les points s'additionnent sur 100, puis se rapportent au poids de l'EVS (25 % de la note finale).
 - Avant la remise : la [liste de vérification](../../../../03-savoirs/02-utiliser/08-respect-criteres-qualite/01-liste-de-verification/) et le [storyboard](../../../../03-savoirs/02-utiliser/02-conceptualisation-scenarisation/01-storyboard/).
