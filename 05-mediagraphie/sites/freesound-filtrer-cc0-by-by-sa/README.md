@@ -42,5 +42,6 @@ Freesound (2026). Freesound — banque de sons libres.. https://freesound.org.
 - [10](../../../01-deroulement/10/)
 - [Exercice — Paysage sonore](../../../02-activites/03/exercices/05-paysage-sonore/)
 - [03](../../../02-activites/03/)
+- [Le paysage sonore](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/05-paysage-sonore/)
 - [Les banques de ressources libres](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/04-banques-ressources-libres/)
 <!-- end-replace-mediagraphie-cited-by -->

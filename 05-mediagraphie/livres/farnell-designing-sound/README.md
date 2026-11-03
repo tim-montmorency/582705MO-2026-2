@@ -41,5 +41,7 @@ Farnell, Andy (2010). Designing Sound. MIT Press. https://mitpress.mit.edu/97802
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-_Aucune citation pour l'instant._
+- [L'enregistrement](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/02-enregistrement/)
+- [Le montage : coupes et fondus](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/03-montage-coupes-fondus/)
+- [Le mixage multipiste](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/04-mixage-multipiste/)
 <!-- end-replace-mediagraphie-cited-by -->

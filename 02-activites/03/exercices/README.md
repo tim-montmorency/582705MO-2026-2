@@ -12,7 +12,7 @@ description: "Un exercice par sous-concept exploré — chaque fiche liste plusi
 * [Exercice — Mixage multipiste](./04-mixage-multipiste/)
 * [Exercice — Paysage sonore](./05-paysage-sonore/)
 * [Exercice — Export : FLAC et Opus](./06-export-formats/)
-* [Exercice — Composer dans MuseScore](./07-composition-musescore/)
+* [Exercice — Composer dans MuseScore ou Bosca Ceoil Blue](./07-composition-musescore/)
 <!-- end-replace-subnav -->
 
 Un exercice par sous-concept exploré — chaque fiche liste plusieurs tutoriels et plusieurs logiciels ; le concept se refait dans le logiciel de son choix.

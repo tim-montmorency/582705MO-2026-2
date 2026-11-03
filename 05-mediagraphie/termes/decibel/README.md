@@ -29,7 +29,7 @@ role: "cours"
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-_Aucune citation pour l'instant._
+- [Les principes du son](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/01-principes-son/)
 <!-- end-replace-mediagraphie-cited-by -->
 
 ## Références liées

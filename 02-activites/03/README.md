@@ -28,9 +28,9 @@ Réaliser une **production sonore de 60 à 90 secondes** — pièce sonore, pays
 
 | Séance | Étape |
 |---|---|
-| [S9](../../01-deroulement/09/) | Principes du son — écoute, numérisation, formats |
-| [S10](../../01-deroulement/10/) | Atelier (Audacity/Ardour) + exercice exploratoire |
-| [S11](../../01-deroulement/11/) | Remise — écoute collective et rétroaction |
+| [S10](../../01-deroulement/10/) | Principes du son — écoute, numérisation, formats |
+| [S11](../../01-deroulement/11/) | Atelier (Audacity/Ardour) + exercice exploratoire |
+| [S12](../../01-deroulement/12/) | Remise — écoute collective et rétroaction |
 
 ## Livrables
 
@@ -45,7 +45,7 @@ Réaliser une **production sonore de 60 à 90 secondes** — pièce sonore, pays
 
 ## Ressources
 
-- [Corpus — Les principes du son](/remote/codeberg.org/tim-montmorency/multimedia-libre/corpus/03-son/01-principes-son/)
+- [Corpus — Les principes du son](../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/01-principes-son/)
 - [Médiagraphie — logiciels son](../../05-mediagraphie/logiciels/son/)
 -  <!-- start-replace-cite key="sites/freesound-filtrer-cc0-by-by-sa" -->[Freesound — banque de sons libres](../../05-mediagraphie/sites/freesound-filtrer-cc0-by-by-sa/ "Des centaines de milliers d'échantillons sonores sous licences Creative Commons — filtrer par CC0, BY et BY-SA.")<!-- end-replace-cite --> · <!-- start-replace-cite key="sites/free-music-archive-filtrer-les-licences" -->[Free Music Archive — musiques sous licences libres](../../05-mediagraphie/sites/free-music-archive-filtrer-les-licences/ "Une banque de musiques triables par licence Creative Commons — pour les projets vidéo et balado.")<!-- end-replace-cite -->
 

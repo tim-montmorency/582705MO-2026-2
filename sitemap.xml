@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/00-plan-de-cours/</loc>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/01-deroulement/10/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/01-deroulement/11/</loc>
@@ -206,39 +206,39 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/03/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/03/exercices/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/03/exercices/01-enregistrement-voix/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/03/exercices/02-montage-coupes-fondus/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/03/exercices/03-nettoyage-normalisation/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/03/exercices/04-mixage-multipiste/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/03/exercices/05-paysage-sonore/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/03/exercices/06-export-formats/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/03/exercices/07-composition-musescore/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/02-activites/04/</loc>
@@ -290,7 +290,7 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/03-savoirs/01-reconnaitre/01-evolution-artistique/03-son/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/03-savoirs/01-reconnaitre/01-evolution-artistique/04-remix-culture-libre/</loc>
@@ -374,7 +374,27 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://tim-montmorency.com/582705MO-2026-2/03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/01-principes-son/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://tim-montmorency.com/582705MO-2026-2/03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/02-enregistrement/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://tim-montmorency.com/582705MO-2026-2/03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/03-montage-coupes-fondus/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://tim-montmorency.com/582705MO-2026-2/03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/04-mixage-multipiste/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://tim-montmorency.com/582705MO-2026-2/03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/05-paysage-sonore/</loc>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/03-savoirs/01-reconnaitre/04-outils-processus-creation/04-banques-ressources-libres/</loc>
@@ -566,15 +586,15 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/04-evaluations/sommatives/02/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/04-evaluations/sommatives/02/grille/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-28</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/04-evaluations/sommatives/03/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/04-evaluations/sommatives/03/grille/</loc>
@@ -634,7 +654,7 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/livres/farnell-designing-sound/</loc>
-    <lastmod>2026-08-24</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/livres/fraden-handbook-of-modern-sensors/</loc>
@@ -682,7 +702,7 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/livres/schafer-le-paysage-sonore-le-monde-comme-musique/</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/livres/shirley-fundamentals-of-computer-graphics/</loc>
@@ -786,11 +806,11 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/logiciels/son/ardour/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/logiciels/son/audacity/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/logiciels/son/csound/</loc>
@@ -1018,7 +1038,7 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/personnes/murray-schafer/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/personnes/richard-stallman/</loc>
@@ -1174,7 +1194,7 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/sites/freesound-filtrer-cc0-by-by-sa/</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/sites/git-lfs-guide-brian-david/</loc>
@@ -1470,7 +1490,7 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/termes/decibel/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/termes/domaine-public/</loc>
@@ -1486,7 +1506,7 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/termes/echantillonnage/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/termes/eclairage-3d/</loc>
@@ -1610,7 +1630,7 @@
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/termes/paysage-sonore/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
   <url>
     <loc>https://tim-montmorency.com/582705MO-2026-2/05-mediagraphie/termes/pdf-a/</loc>

@@ -43,4 +43,5 @@ Schafer, R. Murray (1977). Le paysage sonore : le monde comme musique — R. Mur
 <!-- start-replace-mediagraphie-cited-by -->
 - [10](../../../01-deroulement/10/)
 - [Le son — de la musique concrète au paysage sonore](../../../03-savoirs/01-reconnaitre/01-evolution-artistique/03-son/)
+- [Le paysage sonore](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/05-paysage-sonore/)
 <!-- end-replace-mediagraphie-cited-by -->

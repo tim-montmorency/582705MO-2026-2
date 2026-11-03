@@ -12,18 +12,33 @@ tags:
 
 Exporter le même montage en FLAC (archivage) et en Opus (diffusion), comparer les poids et vérifier l'écoute.
 
-## Tutoriels
+**Pourquoi ?** Le format sonore détermine l'usage : FLAC pour l'archivage, Opus pour le streaming — le bon contenant pour la bonne destination.
 
-| Tutoriel | Logiciel de la démo | Langue |
+## Voir aussi
+
+- [Les formats d'export](../../../../03-savoirs/02-utiliser/05-optimisation-medias/03-son/01-export-formats/) — FLAC, Opus : quel contenant pour quel usage.
+
+## Documentation
+
+Lire la documentation **avant de commencer** — le concept passe avant l'outil.
+
+| Documentation | Support | Langue |
 |---|---|---|
 | [Xiph.Org — les formats libres](https://xiph.org) | — | EN |
+
 ## Logiciels
 
 - Audacity (FLAC, Opus)
 - FFmpeg (ligne de commande)
 
-## Déroulement
+## Autovalidation
 
-1. Suivre un tutoriel — le concept passe avant l'outil.
-2. Refaire l'exercice dans **son** logiciel, sans le tutoriel sous les yeux.
-3. Documenter au [journal de bord](../../../../07-journal-de-bord/) : captures, problème → solution, réglages.
+- [ ] Le même fichier est exporté en FLAC (sans perte) et en Opus (avec perte)
+- [ ] Les poids sont comparés : le ratio entre les deux est noté
+- [ ] La qualité est vérifiée à l'écoute — différence audible ou non
+- [ ] L'usage de chacun est identifié (archivage vs diffusion)
+- [ ] Documenté au [journal de bord](../../../../07-journal-de-bord/) : les réglages d'export.
+
+## Pour aller plus loin
+
+Exporter en WAV (non compressé) et comparer le poids avec FLAC — la différence est-elle audible ?

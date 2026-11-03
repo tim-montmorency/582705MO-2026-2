@@ -18,7 +18,7 @@ tags:
 
 ## Dans le cours
 
-- Écoutées à la séance [S8 — amorce du bloc son](../../../../01-deroulement/08/).
+- Écoutées à la séance [S10 — amorce du bloc son](../../../../01-deroulement/10/).
 
 ## Références
 

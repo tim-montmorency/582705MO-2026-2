@@ -12,18 +12,33 @@ tags:
 
 Monter un extrait de 60 secondes : couper les hésitations, déplacer des segments, ajouter des fondus d'entrée et de sortie.
 
-## Tutoriels
+**Pourquoi ?** Le montage sonore sculpte le récit : podcasts, documentaires, entrevues — couper, c'est raconter.
 
-| Tutoriel | Logiciel de la démo | Langue |
+## Voir aussi
+
+- [Montage : coupes et fondus](../../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/03-montage-coupes-fondus/) — couper, déplacer, fondre.
+
+## Documentation
+
+Lire la documentation **avant de commencer** — le concept passe avant l'outil.
+
+| Documentation | Support | Langue |
 |---|---|---|
 | [Éditer un fichier audio (manuel Audacity)](https://manual.audacityteam.org/man/tutorial_editing_an_existing_file.html) | Audacity | EN |
+
 ## Logiciels
 
 - Audacity
 - Ardour
 
-## Déroulement
+## Autovalidation
 
-1. Suivre un tutoriel — le concept passe avant l'outil.
-2. Refaire l'exercice dans **son** logiciel, sans le tutoriel sous les yeux.
-3. Documenter au [journal de bord](../../../../07-journal-de-bord/) : captures, problème → solution, réglages.
+- [ ] Les hésitations et silences longs sont coupés
+- [ ] Des segments sont déplacés pour resserrer le propos
+- [ ] Des fondus d'entrée et de sortie éliminent les clics
+- [ ] L'extrait tient en 60 secondes et se comprend
+- [ ] Documenté au [journal de bord](../../../../07-journal-de-bord/) : captures de la forme d'onde avant/après.
+
+## Pour aller plus loin
+
+Monter avec une contrainte : couper uniquement au rythme de la respiration — l'oreille guide les coupes.

@@ -47,7 +47,8 @@ Réaliser une production sonore (pièce sonore, paysage sonore ou balado de 60 �
 ### Principaux critères d'évaluation
 
 Les critères sont détaillés et distribués sur les éléments de compétence dans la [grille d'évaluation](./grille/).
+
 ### Remise
 
-- Production : export FLAC ou Opus + fichier de projet, déposés selon les [règles d'identification](../../../00-plan-de-cours/).
-- Journal : lien docsify-this de la page d'accueil fourni au professeur.
+- Production : zip avec l'export FLAC ou Opus + fichier de projet, déposés selon les [règles d'identification](../../../00-plan-de-cours/) et l'organisation de  dossier de projet (`projet/<fichier_projet>`, `exports/<export_flac>`, `sources/<fichiers_sources>`, `readme.txt`).
+- Journal : lien vers le journal mis à jour (séances 10 et 11 et sessions de travail autonome pendant cette période) fait dans OneDrive et ajouté à l'[annuaire des journaux de bord de la classe](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/egllagostera_cmontmorency_qc_ca/IQDyfHj4RmVKRbsAn8dE5lp-AerabVPDEs3eQeEfQXPi1l8?e=ZyyUdN).

@@ -9,8 +9,7 @@ tags:
 ## À préparer avant la classe
 
 - Lire [Critères de qualité des fichiers](../../03-savoirs/01-reconnaitre/03-criteres-qualite-fichiers/03-son/) et [Exploitation des logiciels](../../03-savoirs/02-utiliser/04-exploitation-logiciels/03-son/).
-- Parcourir [Les principes du son](/remote/codeberg.org/tim-montmorency/multimedia-libre/corpus/03-son/01-principes-son/).
-- Écouter un paysage sonore de votre quotidien (trajet, maison) et noter ce que vous entendez (au journal).
+
 
 ## Savoirs essentiels/Contenus
 
@@ -27,15 +26,17 @@ tags:
 
 ## Activités en classe
 
-1. Exposé interactif : le son comme médium (45 min) — de Derbyshire au paysage sonore.
-2. Démo Audacity : enregistrement, coupes, fondus, normalisation, export (45 min).
+1. **Exposé interactif** : le son comme médium (45 min) — de Derbyshire au paysage sonore.
+2. **Démo Audacity** : enregistrement, coupes, fondus, normalisation, export (45 min).
 3. **Exercice d'écoute active** (30 min) : collecter 10 sons en classe et aux alentours (téléphones).
-4. Montage d'un mini paysage sonore avec les sons collectés (30 min).
+4. Montage d'un **mini paysage sonore** avec les sons collectés (30 min).
 5. 10 minutes de [journal de bord](../../07-journal-de-bord/).
 
 ## Remises
 
-- **Devoir** : compléter le mini paysage sonore au journal.
+- Réviser [Les principes du son](../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/).
+- **Devoir** : Compléter le mini paysage sonore au journal.
+- **Devoir** : Compléter (ou réviser si déjà fait en calsse) les exercices d'[enregistrement de voix](../../02-activites/03/exercices/01-enregistrement-voix/README.md), [édition de son](../../02-activites/03/exercices/02-montage-coupes-fondus/README.md), [nettoyage](../../02-activites/03/exercices/03-nettoyage-normalisation/README.md) et [exportation](../../02-activites/03/exercices/06-export-formats/README.md) de son au journal. Notez vos questions, impressions et blocages au journal.
 
 ## Références
 

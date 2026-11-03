@@ -11,18 +11,34 @@ tags:
 
 Réduire le bruit de fond d'un enregistrement, puis normaliser le niveau sans clipping.
 
-## Tutoriels
+**Pourquoi ?** Le nettoyage sonore est systématique : tout enregistrement a du bruit — podcasts, interviews, dialogue de film.
 
-| Tutoriel | Logiciel de la démo | Langue |
+## Voir aussi
+
+- [Les principes du son](../../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/01-principes-son/) — les principes du son.
+- [L'enregistrement](../../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/02-enregistrement/) — le souffle vient de la capture.
+
+## Documentation
+
+Lire la documentation **avant de commencer** — le concept passe avant l'outil.
+
+| Documentation | Support | Langue |
 |---|---|---|
 | [Réduction de bruit (manuel Audacity)](https://manual.audacityteam.org/man/noise_reduction.html) | Audacity | EN |
+
 ## Logiciels
 
 - Audacity
 - Ardour
 
-## Déroulement
+## Autovalidation
 
-1. Suivre un tutoriel — le concept passe avant l'outil.
-2. Refaire l'exercice dans **son** logiciel, sans le tutoriel sous les yeux.
-3. Documenter au [journal de bord](../../../../07-journal-de-bord/) : captures, problème → solution, réglages.
+- [ ] Le souffle de fond est réduit (réduction de bruit, paramètres mesurés)
+- [ ] Le niveau est normalisé — la cible est atteinte sans écrêtage
+- [ ] La voix reste naturelle : aucun artefact de traitement audible
+- [ ] Avant/après comparés et déposés au journal
+- [ ] Les réglages utilisés sont notés — pour les reproduire
+
+## Pour aller plus loin
+
+Tester deux passes de réduction de bruit et comparer la qualité — une passe suffit-elle ?

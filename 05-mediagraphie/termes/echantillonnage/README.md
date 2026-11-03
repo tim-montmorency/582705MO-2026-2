@@ -31,6 +31,7 @@ role: "cours"
 - [10](../../../01-deroulement/10/)
 - [La numérisation — de l'analogique au numérique](../../../03-savoirs/01-reconnaitre/02-evolution-technologies/01-numerisation/)
 - [Critères de qualité — son](../../../03-savoirs/01-reconnaitre/03-criteres-qualite-fichiers/03-son/)
+- [Les principes du son](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/01-principes-son/)
 <!-- end-replace-mediagraphie-cited-by -->
 
 ## Références liées

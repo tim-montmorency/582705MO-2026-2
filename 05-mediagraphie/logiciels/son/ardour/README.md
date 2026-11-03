@@ -29,6 +29,7 @@ role: "cours"
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
+- [L'enregistrement](../../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/02-enregistrement/)
 - [La chaîne de création — son](../../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/)
 <!-- end-replace-mediagraphie-cited-by -->
 
