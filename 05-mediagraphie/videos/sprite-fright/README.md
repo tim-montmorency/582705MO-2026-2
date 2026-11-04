@@ -43,4 +43,5 @@ Blender Foundation (2021). Sprite Fright — Blender Foundation. Blender Foundat
 
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
+- [Exercice — Export : FLAC et Opus](../../../02-activites/03/exercices/05-export-formats/)
 <!-- end-replace-mediagraphie-cited-by -->

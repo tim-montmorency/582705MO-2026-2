@@ -43,4 +43,7 @@ Bute, Mary Ellen (1935). Synchromy No. 2 — Mary Ellen Bute. Ted Nemeth Studios
 
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
+- [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
+- [Exercice — Écoute critique](../../../02-activites/03/exercices/01-ecoute-critique/)
+- [Exercice — Composer dans MuseScore](../../../02-activites/03/exercices/12-composition-musescore/)
 <!-- end-replace-mediagraphie-cited-by -->

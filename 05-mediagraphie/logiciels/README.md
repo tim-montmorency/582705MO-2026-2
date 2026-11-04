@@ -41,6 +41,16 @@ title: "Logiciels"
 - [SuperCollider](./son/supercollider/ "Environnement de synthèse et de composition algorithmique libre — un langage de programmation dédié au son temps réel et à la musique générative.")
 - [Tenacity](./son/tenacity/ "Éditeur audio libre — enregistrement et édition destructive, fork communautaire d'Audacity.")
 - [openDAW](./son/opendaw/ "Studio audio libre AGPL qui tourne entièrement dans le navigateur — enregistrement, instruments, mixage, sans compte ni installation, pensé pour l'éducation :…")
+- [AudioSauna — studio de musique dans le navigateur](./son/audiosauna/ "Studio de musique dans le navigateur : deux synthétiseurs (analogique virtuel, FM), un échantillonneur avec couches et des effets en direct — gratuit, export a…")
+- [jsfxr — générateur de sons 8 bits](./son/jsfxr/ "Générateur de sons 8 bits dans le navigateur (portage web de SFXR, domaine public) : forme d'onde, enveloppe et bruit pour créer des effets rétro — export WAV.")
+- [Leshy SFMaker — générateur d'effets sonores](./son/leshy-sfmaker/ "Générateur d'effets sonores en ligne inspiré de SFXR : formes d'onde, enveloppes et bruit — export WAV, sans installation.")
+- [GridSound — station audionumérique dans le navigateur](./son/gridsound/ "Station audionumérique libre dans le navigateur (Web Audio API) : pistes, synthés, échantillonneurs, effets et export — projet libre AGPL.")
+- [KinetiTone — générateur de sons génératif](./son/kinetitone/ "Générateur de sons génératif dans le navigateur (In The Void) : moteurs Classique, FM, Additive, Onde, Bruit et Physique, quatre couches, designer d'accords —…")
+- [Bfxr — générateur d'effets sonores](./son/bfxr/ "Générateur d'effets sonores pour jeux, héritier de SFXR : formes d'onde, enveloppes, arpèges et presets — export WAV, dans le navigateur.")
+- [Matteo Bassi (bassimat) — instruments génératifs](./son/bassimat/ "Instruments génératifs et transformation sonore de Matteo Bassi (bassimat) : Campana, Maresono, Filigrana, ALISEO — outils dans le navigateur, sources publiées.")
+- [Campana — synthétiseur de cloches](./son/campana/ "Synthétiseur génératif de cloches dans le navigateur : synthèse additive, quatre textures (tubulaire, église, bol chantant, cristal), réverbération et delay —…")
+- [Maresono — synthétiseur de vagues](./son/maresono/ "Synthétiseur génératif de vagues : apprend des enregistrements de tambours océaniques et produit des paysages marins infinis et non répétitifs — export audio.")
+- [rFXGen — générateur d'effets sonores](./son/rfxgen/ "Générateur d'effets sonores rétro (raylib) : formes d'onde, enveloppes et bruit, avec export WAV — version web et application de bureau.")
 
 ## video
 - [FFmpeg](./video/ffmpeg/ "Suite de transcodage libre — conversion, filtres, capture. L'outil de référence de la vidéo en ligne de commande.")
@@ -57,5 +67,5 @@ title: "Logiciels"
 - [Synfig](./video/synfig/ "Logiciel libre d'animation vectorielle : interpolation de formes et squelettes, export vidéo.")
 - [TupiTube](./video/tupitube/ "Animation 2D libre et simple — dessiner image par image, idéal pour débuter sans se perdre dans une interface complexe.")
 
-_39 entrée(s) — index généré par docsh._
+_49 entrée(s) — index généré par docsh._
 <!-- end-replace-mediagraphie -->

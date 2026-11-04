@@ -3,7 +3,7 @@ type: "video"
 author: "Tilby, Wendy; Forbis, Amanda"
 date: "1999"
 title: "When the Day Breaks — Wendy Tilby & Amanda Forbis"
-description: "Chronique urbaine peinte image par image : une truie cherche un sens après avoir vu mourir un inconnu — matière, cadrage et émotion (Wendy Tilby & Amanda Forbis)."
+description: "Chronique urbaine peinte image par image : une truie cherche un sens après avoir vu mourir un inconnu — musique de Judith Gruber-Stitzer et montage sonore au service de l'émotion (Tilby & Forbis, 1999)."
 url: "https://www.nfb.ca/film/when_the_day_breaks/"
 publisher: "Office national du film du Canada"
 tags:
@@ -19,7 +19,7 @@ role: "cours"
 # When the Day Breaks — Wendy Tilby & Amanda Forbis
 <!-- end-replace-fm -->
 <!-- start-replace-fm field="description" format="blockquote" -->
-> Chronique urbaine peinte image par image : une truie cherche un sens après avoir vu mourir un inconnu — matière, cadrage et émotion (Wendy Tilby & Amanda Forbis).
+> Chronique urbaine peinte image par image : une truie cherche un sens après avoir vu mourir un inconnu — musique de Judith Gruber-Stitzer et montage sonore au service de l'émotion (Tilby & Forbis, 1999).
 <!-- end-replace-fm -->
 
 <!-- start-replace-mediagraphie-fiche -->
@@ -43,4 +43,5 @@ Tilby, Wendy; Forbis, Amanda (1999). When the Day Breaks — Wendy Tilby & Amand
 
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
+- [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
 <!-- end-replace-mediagraphie-cited-by -->

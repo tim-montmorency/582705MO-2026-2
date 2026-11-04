@@ -44,4 +44,9 @@ Dalpé, Marielle (2023). Aphasie — Marielle Dalpé. Office national du film du
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
 - [Exercice — Le changement d'émotion](../../../02-activites/02/exercices/09-changement-emotion/)
+- [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
+- [Exercice — Enregistrer sa voix](../../../02-activites/03/exercices/02-enregistrement-voix/)
+- [Exercice — Nettoyage et normalisation](../../../02-activites/03/exercices/04-nettoyage-normalisation/)
+- [Exercice — Paysage sonore](../../../02-activites/03/exercices/08-paysage-sonore/)
+- [Exercice — Transformer un son](../../../02-activites/03/exercices/10-transformer-un-son/)
 <!-- end-replace-mediagraphie-cited-by -->

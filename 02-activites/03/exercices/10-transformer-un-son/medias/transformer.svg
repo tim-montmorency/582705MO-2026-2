@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="La transformation d'un son : une forme d'onde originale et trois versions transformées — ralentie, inversée, filtrée">
+  <title>Transformer un son — original, ralenti, inversé, filtré</title>
+  <style>
+    .titre { font:700 14px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .axe { stroke:#dadce0; stroke-width:1.5; fill:none; }
+    .wave { fill:none; stroke:#b81c1c; stroke-width:2.5; }
+    .wave2 { fill:none; stroke:#2a6fdb; stroke-width:2.5; }
+    .wave3 { fill:none; stroke:#6aa84f; stroke-width:2.5; }
+  </style>
+
+  <text class="titre" x="160" y="26" text-anchor="middle">Le son original</text>
+  <text class="sous" x="160" y="44" text-anchor="middle">une prise, une matière</text>
+  <path class="axe" d="M 40 150 H 280"/>
+  <path class="wave" d="M40 150 L55 150 L65 120 L75 180 L85 150 L110 150 L120 135 L130 165 L140 150 L160 150 L170 110 L180 190 L190 150 L230 150 L240 140 L250 160 L260 150"/>
+
+  <text class="titre" x="470" y="26" text-anchor="middle">Les transformations</text>
+  <text class="sous" x="470" y="44" text-anchor="middle">quatre visages pour un même son</text>
+
+  <!-- Ralenti -->
+  <text class="sous" x="340" y="82">Ralenti / pitch bas</text>
+  <path class="axe" d="M 340 110 H 680"/>
+  <path class="wave2" d="M340 110 L360 110 L380 90 L400 130 L420 110 L450 110 L470 100 L490 120 L510 110 L540 110 L560 80 L580 140 L600 110 L640 110 L660 105 L670 115"/>
+
+  <!-- Inversé -->
+  <text class="sous" x="340" y="150">Inversé (reverse)</text>
+  <path class="axe" d="M 340 178 H 680"/>
+  <path class="wave3" d="M340 178 L360 178 L380 170 L400 186 L420 178 L460 178 L480 160 L500 196 L520 178 L560 178 L580 150 L600 206 L620 178 L660 178"/>
+
+  <text class="note" x="360" y="240" text-anchor="middle">Chaque transformation change le récit : un son transformé n'est plus une trace — c'est une intention.</text>
+</svg>

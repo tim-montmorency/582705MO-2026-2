@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="Le bruitage : des objets enregistrés avec un micro, une forme d'onde calée sur l'image">
+  <title>Le bruitage — objets, enregistrement, synchronisation</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .boite { fill:#ffffff; stroke:#9aa0a6; stroke-width:2; }
+    .objet { fill:#f1f3f4; stroke:#9aa0a6; stroke-width:2; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+    .wave { fill:none; stroke:#b81c1c; stroke-width:3; }
+    .kf { fill:#b81c1c; }
+  </style>
+
+  <text class="titre" x="130" y="26" text-anchor="middle">Les objets</text>
+  <text class="sous" x="130" y="44" text-anchor="middle">fabriquer le son</text>
+
+  <!-- Objets -->
+  <circle class="objet" cx="60" cy="95" r="22"/>
+  <text class="lbl" x="60" y="100" text-anchor="middle">pas</text>
+  <circle class="objet" cx="130" cy="95" r="22"/>
+  <text class="lbl" x="130" y="100" text-anchor="middle">porte</text>
+  <circle class="objet" cx="200" cy="95" r="22"/>
+  <text class="lbl" x="200" y="100" text-anchor="middle">verre</text>
+
+  <!-- Micro -->
+  <g>
+    <rect x="108" y="140" width="44" height="60" rx="20" fill="#2a6fdb"/>
+    <rect x="122" y="200" width="16" height="18" fill="#3c4043"/>
+    <circle cx="130" cy="224" r="8" fill="#3c4043"/>
+  </g>
+  <text class="sous" x="130" y="246" text-anchor="middle">enregistrer</text>
+
+  <!-- Flèche -->
+  <g stroke="#b81c1c" stroke-width="3" fill="none">
+    <line x1="180" y1="170" x2="240" y2="170"/>
+    <path d="M240 170 l-12 -7 v14 z" fill="#b81c1c" stroke="none"/>
+  </g>
+
+  <!-- Forme d'onde -->
+  <text class="titre" x="360" y="26" text-anchor="middle">Le son</text>
+  <text class="sous" x="360" y="44" text-anchor="middle">couper, nettoyer, normaliser</text>
+  <line x1="250" y1="170" x2="470" y2="170" stroke="#dadce0" stroke-width="2"/>
+  <path class="wave" d="M250 170 L270 170 L280 150 L290 190 L300 170 L320 170 L330 160 L340 180 L350 170 L380 170 L390 130 L400 210 L410 170 L470 170"/>
+
+  <!-- Flèche -->
+  <g stroke="#b81c1c" stroke-width="3" fill="none">
+    <line x1="480" y1="170" x2="530" y2="170"/>
+    <path d="M530 170 l-12 -7 v14 z" fill="#b81c1c" stroke="none"/>
+  </g>
+
+  <!-- Image + synchro -->
+  <text class="titre" x="620" y="26" text-anchor="middle">L'image</text>
+  <text class="sous" x="620" y="44" text-anchor="middle">caler sur le geste</text>
+  <rect class="boite" x="545" y="80" width="150" height="90" rx="8"/>
+  <line x1="620" y1="80" x2="620" y2="170" stroke="#b81c1c" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle class="kf" cx="620" cy="125" r="6"/>
+  <text class="sous" x="620" y="196" text-anchor="middle">impact / geste</text>
+
+  <text class="note" x="360" y="252" text-anchor="middle">Un son inventé avec des objets peut être plus convaincant qu'un son réel — le bruitage suggère la matière.</text>
+</svg>

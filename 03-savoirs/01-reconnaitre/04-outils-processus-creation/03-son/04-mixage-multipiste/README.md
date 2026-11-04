@@ -20,7 +20,7 @@ Mixer, c'est équilibrer plusieurs pistes en une. Trois commandes de base :
 
 Le mixage est la **dernière écriture** : on ne cherche pas « le plus fort », mais que chaque élément soit entendu quand il doit l'être (<!-- start-replace-cite key="livres/farnell-designing-sound" -->[Designing Sound](../../../../../05-mediagraphie/livres/farnell-designing-sound/ "Le manuel de la synthèse sonore procédurale avec Pure Data — du vent au train à vapeur, la référence du sound design libre. Ouvrage de référence du cours MIT 2…")<!-- end-replace-cite -->).
 
-## En pratique (Ardour / Audacity)
+## En pratique (Kdenlive / Shotcut)
 
 1. **Organiser** les pistes (voix, ambiances, musique).
 2. **Régler les niveaux** : une hiérarchie claire.
@@ -32,7 +32,7 @@ Le mixage est la **dernière écriture** : on ne cherche pas « le plus fort »,
 
 - [Les principes du son](../01-principes-son/) · [Le montage](../03-montage-coupes-fondus/)
 - [Le paysage sonore](../05-paysage-sonore/)
-- [Exercice — Mixage multipiste](../../../../../02-activites/03/exercices/04-mixage-multipiste/)
+- [Exercice — Mixage multipiste](../../../../../02-activites/03/exercices/07-mixage-multipiste/)
 
 ## Références
 

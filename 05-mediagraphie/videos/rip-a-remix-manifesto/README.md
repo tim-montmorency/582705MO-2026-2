@@ -40,5 +40,6 @@ Gaylor, Brett (2008). RIP! A Remix Manifesto — Brett Gaylor.. https://www.nfb.
 
 <!-- start-replace-mediagraphie-cited-by -->
 - [13](../../../01-deroulement/13/)
+- [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
 - [Le remix et la culture libre](../../../03-savoirs/01-reconnaitre/01-evolution-artistique/04-remix-culture-libre/)
 <!-- end-replace-mediagraphie-cited-by -->

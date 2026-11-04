@@ -43,4 +43,6 @@ Barker, Cordell (1988). The Cat Came Back — Cordell Barker. Office national du
 
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
+- [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
+- [Exercice — Bruitage : sonoriser un geste](../../../02-activites/03/exercices/03-bruitage/)
 <!-- end-replace-mediagraphie-cited-by -->

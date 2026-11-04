@@ -39,7 +39,6 @@ Free Music Archive (2026). Free Music Archive — musiques sous licences libres.
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-- [10](../../../01-deroulement/10/)
 - [03](../../../02-activites/03/)
 - [Les banques de ressources libres](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/04-banques-ressources-libres/)
 <!-- end-replace-mediagraphie-cited-by -->

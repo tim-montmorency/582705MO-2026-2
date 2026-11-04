@@ -19,7 +19,7 @@ Le montage sonore **donne forme au matériau** : retirer les ratés, les respira
 
 La **réduction de bruit** (souffle, ronflement) se fait par une **empreinte de bruit** que le logiciel soustrait.
 
-## En pratique (Audacity / Tenacity)
+## En pratique (Kdenlive / Shotcut)
 
 1. **Couper** les ratés et les silences parasites.
 2. **Fondre** les débuts/fins de clip.
@@ -29,7 +29,7 @@ La **réduction de bruit** (souffle, ronflement) se fait par une **empreinte de 
 ## Voir aussi
 
 - [Les principes du son](../01-principes-son/) · [Le mixage](../04-mixage-multipiste/)
-- [Exercice — Montage : coupes et fondus](../../../../../02-activites/03/exercices/02-montage-coupes-fondus/) · [Exercice — Nettoyage et normalisation](../../../../../02-activites/03/exercices/03-nettoyage-normalisation/)
+- [Exercice — Montage : coupes et fondus](../../../../../02-activites/03/exercices/06-montage-coupes-fondus/) · [Exercice — Nettoyage et normalisation](../../../../../02-activites/03/exercices/04-nettoyage-normalisation/)
 
 ## Références
 

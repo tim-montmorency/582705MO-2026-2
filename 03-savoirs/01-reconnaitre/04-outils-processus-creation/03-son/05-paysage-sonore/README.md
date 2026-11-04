@@ -27,7 +27,7 @@ Adopter cette écoute transforme le créateur : on ne « prend plus du son », o
 
 - [Les principes du son](../01-principes-son/) · [Le mixage](../04-mixage-multipiste/)
 - [Freesound — banque de sons libres](../../../../../05-mediagraphie/sites/freesound-filtrer-cc0-by-by-sa/)
-- [Exercice — Paysage sonore](../../../../../02-activites/03/exercices/05-paysage-sonore/)
+- [Exercice — Paysage sonore](../../../../../02-activites/03/exercices/08-paysage-sonore/)
 
 ## Références
 

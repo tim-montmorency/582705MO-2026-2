@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="La synchronisation son/image : une piste image, une piste son, un repère et un décalage corrigé">
+  <title>La synchronisation — pistes image et son, repère, décalage</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .axe { stroke:#9aa0a6; stroke-width:2; fill:none; }
+    .image { fill:#e8f0fe; stroke:#2a6fdb; stroke-width:2; }
+    .son { fill:#fce8e6; stroke:#b81c1c; stroke-width:2; }
+    .wave { fill:none; stroke:#b81c1c; stroke-width:2.5; }
+    .repere { stroke:#3c4043; stroke-width:2; stroke-dasharray:5 4; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+  </style>
+
+  <text class="titre" x="360" y="26" text-anchor="middle">La timeline — caler le son sur l'image</text>
+  <text class="sous" x="360" y="44" text-anchor="middle">deux pistes, un repère, un décalage à corriger</text>
+
+  <!-- Axe -->
+  <path class="axe" d="M 40 190 H 680"/>
+  <text class="sous" x="680" y="208" text-anchor="end">temps →</text>
+
+  <!-- Piste image -->
+  <text class="lbl" x="40" y="82">image</text>
+  <g>
+    <rect class="image" x="90" y="68" width="120" height="28" rx="4"/>
+    <rect class="image" x="215" y="68" width="80" height="28" rx="4"/>
+    <rect class="image" x="300" y="68" width="150" height="28" rx="4"/>
+    <rect class="image" x="455" y="68" width="200" height="28" rx="4"/>
+  </g>
+
+  <!-- Piste son -->
+  <text class="lbl" x="40" y="148">son</text>
+  <rect class="son" x="90" y="132" width="565" height="28" rx="4"/>
+  <path class="wave" d="M100 146 L140 146 L150 136 L160 156 L170 146 L220 146 L230 140 L240 152 L250 146 L320 146 L330 128 L340 164 L350 146 L420 146 L430 138 L440 154 L450 146 L560 146 L570 132 L580 160 L590 146 L640 146"/>
+
+  <!-- Repère de synchro (impact) -->
+  <line class="repere" x1="340" y1="60" x2="340" y2="190"/>
+  <circle class="son" cx="340" cy="146" r="5"/>
+  <text class="lbl" x="340" y="206" text-anchor="middle">impact</text>
+
+  <!-- Décalage -->
+  <g stroke="#b81c1c" stroke-width="2" fill="none">
+    <path d="M 340 112 H 365"/>
+    <path d="M 365 112 l-8 -5 v10 z" fill="#b81c1c" stroke="none"/>
+  </g>
+  <text class="sous" x="372" y="116">décalage corrigé</text>
+
+  <text class="note" x="360" y="240" text-anchor="middle">On décale le son jusqu'à ce que l'impact tombe juste : la synchro ne se voit pas, elle se ressent.</text>
+</svg>

@@ -43,4 +43,8 @@ Disney, Walt (1928). Steamboat Willie — Walt Disney. Walt Disney Studios. http
 
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
+- [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
+- [Exercice — Bruitage : sonoriser un geste](../../../02-activites/03/exercices/03-bruitage/)
+- [Exercice — Synchronisation son/image](../../../02-activites/03/exercices/09-synchronisation-son-image/)
+- [Exercice — Sonoriser une animation](../../../02-activites/03/exercices/11-sonoriser-une-animation/)
 <!-- end-replace-mediagraphie-cited-by -->

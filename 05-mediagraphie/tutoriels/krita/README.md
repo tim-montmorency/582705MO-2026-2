@@ -6,6 +6,9 @@ title: "Krita"
 <!-- start-replace-mediagraphie -->
 # Krita
 
+## adam-earle
+- [Krita Animation Curves Opacity](./adam-earle/adam-earle-yt-opacity-curves/) — Animer l'opacité par courbes dans Krita : poser les images clés d'opacité et régler l'interpolation pour un fondu au rythme choisi. Durée : 3 min 19 s.
+
 ## digitalpainting-school
 - [DESSINER AVEC KRITA : GUIDE COMPLET & CONSEILS DE PRO 1/2](./digitalpainting-school/dps-yt-guide-complet-1/) — Tout pour apprendre Krita pour le digital painting en partant de zéro : les réglages, l'interface, les bases, les brosses et leurs paramètres, et comment personnaliser ou créer ses propres brosses. Durée : 1 h 10 min 14 s.
 - [DESSINER AVEC KRITA : GUIDE COMPLET & CONSEILS DE PRO 2/2](./digitalpainting-school/dps-yt-guide-complet-2/) — La suite du guide : tous les outils et leurs réglages un par un, les assistants de dessin, et le système de calques, masques et filtres. Durée : 1 h 17 min 26 s.
@@ -40,6 +43,9 @@ title: "Krita"
 - [Tuto Krita – Appliquer une texture et l'incurver.](./georges-tsukaimah/krita-yt-texture-courbe/) — Appliquer une texture et l'incurver sur une forme. Durée : 12 min 31 s.
 - [Comment faire un texte dégradé dans KRITA?](./georges-tsukaimah/krita-yt-texte-degrade/) — Créer un texte en dégradé. Durée : 4 min 15 s.
 
+## kdsketch
+- [How To Animate In Krita For Beginners - FREE 2D Animation Software](./kdsketch/kdsketch-yt-animation-beginners/) — Guide complet d'animation 2D dans Krita pour débutants : installation, images clés, chronologie, pelures d'oignon, raccourcis, colorisation, sauvegarde et export. Durée : 29 min 29 s.
+
 ## krita-animation-2d
 - [Krita — l'animation 2D](./krita-animation-2d/) — Le chapitre du manuel Krita sur l'animation : le flux de production image par image et les calques d'animation — créer une boucle animée dans Krita.
 
@@ -51,6 +57,9 @@ title: "Krita"
 
 ## krita-assistants-peinture
 - [Krita — les assistants de peinture](./krita-assistants-peinture/) — Le chapitre du manuel Krita sur les assistants de peinture : perspective, ellipse, grille et spline — construire l'espace avant de peindre.
+
+## krita-audio-animation
+- [Krita — l'audio pour l'animation](./krita-audio-animation/) — Importer une bande sonore dans Krita pour synchroniser l'animation : dialogue ou musique, lecture pendant la scrutation, volume et export avec audio.
 
 ## krita-calques-masques
 - [Krita — calques et masques](./krita-calques-masques/) — Le chapitre du manuel Krita sur les calques et les masques : types de calques, composition, masques de transparence, travail non destructif.
@@ -165,5 +174,14 @@ title: "Krita"
 - [Tuto – Matières #2 – Le Visage (Krita - Débutant)](./rattus-librorum/rattus-yt-matieres-2-visage/) — Les matières #2 — peindre le visage. Durée : 3 min 40 s.
 - [Speedpaint #80 – La Visite (Krita)](./rattus-librorum/rattus-yt-speedpaint-la-visite/) — Speedpaint « La Visite » — de l'esquisse au rendu. Durée : 9 min 38 s.
 
-_85 entrée(s) — index généré par docsh._
+## ticklishwasabi
+- [Krita | Animating with Transparency Masks](./ticklishwasabi/ticklishwasabi-yt-transparency-masks/) — Animer la transparence d'un calque avec un masque de transparence dans Krita : images clés, courbes d'opacité et interpolation. Durée : 1 min 48 s.
+
+## winged-canvas
+- [How to Animate in KRITA for Beginners!](./winged-canvas/winged-canvas-yt-animation-beginners/) — Les bases de l'animation dans Krita : créer un document, l'espace de travail animation, la chronologie, les pelures d'oignon, les images clés, la cadence, l'audio et l'export. Durée : 14 min 15 s.
+
+## wobbe-koning
+- [Animating in Krita: Transform Mask](./wobbe-koning/wobbe-yt-transform-mask/) — Animer un dessin dans Krita avec un masque de transformation : déplacer, faire pivoter et mettre à l'échelle le contenu d'un calque sur le canevas. Démonstration pour étudiants (Monmouth University). Durée : 8 min 11 s.
+
+_91 entrée(s) — index généré par docsh._
 <!-- end-replace-mediagraphie -->

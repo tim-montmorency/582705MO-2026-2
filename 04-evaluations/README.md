@@ -14,6 +14,6 @@ description: "Évaluations formatives et sommatives — 12 évaluations plus les
 * [Évaluations sommatives](./sommatives/)
     * [EVS 1 — Production image + journal de bord v1](./sommatives/01/)
     * [EVS 2 — Production d'animation + journal de bord v2](./sommatives/02/)
-    * [EVS 3 — Production sonore + journal de bord v3](./sommatives/03/)
+    * [EVS 3 — Sonorisation de l'animation + journal de bord v3](./sommatives/03/)
     * [EVS 4 — Essai audiovisuel + présentation + journal final](./sommatives/04/)
 <!-- end-replace-subnav -->

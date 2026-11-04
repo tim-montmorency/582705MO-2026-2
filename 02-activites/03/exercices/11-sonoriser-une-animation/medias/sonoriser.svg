@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="La sonorisation d'une animation : une bande image et quatre couches sonores réunies par le mixage puis exportées">
+  <title>Sonoriser une animation — image, couches sonores, mixage, export</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .boite { fill:#ffffff; stroke:#9aa0a6; stroke-width:2; }
+    .image { fill:#e8f0fe; stroke:#2a6fdb; stroke-width:2; }
+    .couche { fill:#fce8e6; stroke:#b81c1c; stroke-width:2; }
+    .wave { fill:none; stroke:#b81c1c; stroke-width:2; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+    .fleche { stroke:#3c4043; stroke-width:2; fill:none; }
+  </style>
+
+  <text class="titre" x="140" y="26" text-anchor="middle">L'animation</text>
+  <text class="sous" x="140" y="44" text-anchor="middle">EVS 2 — 15 à 30 s</text>
+
+  <!-- Film strip -->
+  <rect class="boite" x="40" y="66" width="200" height="120" rx="8"/>
+  <g>
+    <rect class="image" x="52" y="78" width="42" height="52" rx="4"/>
+    <rect class="image" x="100" y="78" width="42" height="52" rx="4"/>
+    <rect class="image" x="148" y="78" width="42" height="52" rx="4"/>
+    <rect class="image" x="196" y="78" width="32" height="52" rx="4"/>
+  </g>
+  <text class="sous" x="140" y="156" text-anchor="middle">des images, des gestes</text>
+  <text class="sous" x="140" y="176" text-anchor="middle">et des moments à sonoriser</text>
+
+  <!-- Flèche -->
+  <g class="fleche">
+    <line x1="250" y1="126" x2="295" y2="126"/>
+    <path d="M295 126 l-10 -6 v12 z" fill="#3c4043" stroke="none"/>
+  </g>
+
+  <!-- Couches -->
+  <text class="titre" x="470" y="26" text-anchor="middle">Les couches sonores</text>
+  <text class="sous" x="470" y="44" text-anchor="middle">empiler, équilibrer, synchroniser</text>
+
+  <g>
+    <rect class="couche" x="310" y="62" width="280" height="26" rx="4"/>
+    <text class="lbl" x="322" y="80">Ambiance</text>
+    <path class="wave" d="M420 75 L440 75 L450 68 L460 82 L470 75 L520 75 L530 70 L540 80 L550 75 L580 75"/>
+  </g>
+  <g>
+    <rect class="couche" x="310" y="96" width="280" height="26" rx="4"/>
+    <text class="lbl" x="322" y="114">Bruitage</text>
+    <path class="wave" d="M420 109 L440 109 L450 98 L460 120 L470 109 L520 109 L530 100 L540 118 L550 109 L580 109"/>
+  </g>
+  <g>
+    <rect class="couche" x="310" y="130" width="280" height="26" rx="4"/>
+    <text class="lbl" x="322" y="148">Voix</text>
+    <path class="wave" d="M420 143 L440 143 L450 136 L460 150 L470 143 L520 143 L530 138 L540 148 L550 143 L580 143"/>
+  </g>
+  <g>
+    <rect class="couche" x="310" y="164" width="280" height="26" rx="4"/>
+    <text class="lbl" x="322" y="182">Musique</text>
+    <path class="wave" d="M420 177 L440 177 L450 170 L460 184 L470 177 L520 177 L530 172 L540 182 L550 177 L580 177"/>
+  </g>
+
+  <!-- Mixage + export -->
+  <g class="fleche">
+    <line x1="600" y1="126" x2="635" y2="126"/>
+    <path d="M635 126 l-10 -6 v12 z" fill="#3c4043" stroke="none"/>
+  </g>
+  <rect class="boite" x="645" y="86" width="55" height="80" rx="8"/>
+  <text class="lbl" x="672" y="118" text-anchor="middle">mix</text>
+  <text class="lbl" x="672" y="136" text-anchor="middle">→</text>
+  <text class="sous" x="672" y="186" text-anchor="middle">MP4/WebM</text>
+
+  <text class="note" x="360" y="240" text-anchor="middle">Quatre couches, un mixage, un export : la bande sonore donne à l'image son poids, son espace et son rythme.</text>
+</svg>

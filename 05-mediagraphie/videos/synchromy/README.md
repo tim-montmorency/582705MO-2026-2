@@ -45,4 +45,12 @@ McLaren, Norman (1971). Synchromie — Norman McLaren. Office national du film d
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
 - [Exercice — La boucle de chargement](../../../02-activites/02/exercices/11-boucle-spinner/)
+- [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
+- [Exercice — Écoute critique](../../../02-activites/03/exercices/01-ecoute-critique/)
+- [Exercice — Nettoyage et normalisation](../../../02-activites/03/exercices/04-nettoyage-normalisation/)
+- [Exercice — Montage : coupes et fondus](../../../02-activites/03/exercices/06-montage-coupes-fondus/)
+- [Exercice — Mixage multipiste](../../../02-activites/03/exercices/07-mixage-multipiste/)
+- [Exercice — Synchronisation son/image](../../../02-activites/03/exercices/09-synchronisation-son-image/)
+- [Exercice — Transformer un son](../../../02-activites/03/exercices/10-transformer-un-son/)
+- [Exercice — Sonoriser une animation](../../../02-activites/03/exercices/11-sonoriser-une-animation/)
 <!-- end-replace-mediagraphie-cited-by -->

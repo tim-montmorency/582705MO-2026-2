@@ -43,4 +43,5 @@ Blender Foundation (2008). Big Buck Bunny — Blender Foundation. Blender Founda
 
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
+- [Exercice — Export : FLAC et Opus](../../../02-activites/03/exercices/05-export-formats/)
 <!-- end-replace-mediagraphie-cited-by -->

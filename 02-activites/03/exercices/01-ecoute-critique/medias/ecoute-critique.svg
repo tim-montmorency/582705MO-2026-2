@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="L'écoute critique : trois plans sonores autour d'une oreille, et le carnet de notes">
+  <title>L'écoute critique — sources, plans et carnet</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .arc { fill:none; stroke:#dadce0; stroke-width:1.5; }
+    .src { fill:#b81c1c; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+    .boite { fill:#ffffff; stroke:#9aa0a6; stroke-width:2; }
+    .barre { stroke-width:8; stroke-linecap:round; }
+  </style>
+
+  <text class="titre" x="200" y="26" text-anchor="middle">Les trois plans</text>
+  <text class="sous" x="200" y="44" text-anchor="middle">écouter, situer, nommer</text>
+
+  <!-- Oreille au centre : arcs et sources -->
+  <circle cx="90" cy="140" r="22" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="2"/>
+  <text class="lbl" x="90" y="145" text-anchor="middle">oreille</text>
+  <path class="arc" d="M 130 140 a 40 40 0 0 1 0 0"/>
+  <circle class="arc" cx="130" cy="140" r="30"/>
+  <circle class="arc" cx="130" cy="140" r="62"/>
+  <circle class="arc" cx="130" cy="140" r="94"/>
+  <circle class="src" cx="158" cy="120" r="5"/>
+  <text class="lbl" x="168" y="124">voix</text>
+  <circle class="src" cx="190" cy="160" r="5"/>
+  <text class="lbl" x="200" y="164">pas</text>
+  <circle class="src" cx="222" cy="118" r="5"/>
+  <text class="lbl" x="232" y="122">trafic</text>
+
+  <!-- Panneau : les plans -->
+  <rect class="boite" x="300" y="62" width="330" height="150" rx="10"/>
+  <text class="sous" x="320" y="86">Premier plan</text>
+  <line class="barre" x1="320" y1="100" x2="600" y2="100" stroke="#b81c1c"/>
+  <text class="sous" x="320" y="124">Plan moyen</text>
+  <line class="barre" x1="320" y1="138" x2="600" y2="138" stroke="#e69138"/>
+  <text class="sous" x="320" y="162">Lointain</text>
+  <line class="barre" x1="320" y1="176" x2="600" y2="176" stroke="#6aa84f"/>
+  <text class="note" x="320" y="200">voix et bruitages proches · ambiances · fond du lieu</text>
+
+  <text class="note" x="360" y="240" text-anchor="middle">Décrire ce qu'on entend — sources, distances, intentions — c'est déjà préparer le montage.</text>
+</svg>

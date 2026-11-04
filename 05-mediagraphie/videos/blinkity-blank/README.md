@@ -44,4 +44,5 @@ McLaren, Norman (1955). Blinkity Blank — Norman McLaren. Office national du fi
 
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
+- [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
 <!-- end-replace-mediagraphie-cited-by -->

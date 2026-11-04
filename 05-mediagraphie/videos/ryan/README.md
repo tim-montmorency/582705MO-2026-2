@@ -3,7 +3,7 @@ type: "video"
 author: "Landreth, Chris"
 date: "2004"
 title: "Ryan — Chris Landreth"
-description: "Portrait 3D : les blessures intérieures du cinéaste Ryan Larkin rendues visibles par la déformation des corps — le « psychoréalisme » de Chris Landreth."
+description: "Portrait 3D : les blessures intérieures du cinéaste Ryan Larkin rendues visibles — la voix de Larkin et une conception sonore qui portent le « psychoréalisme » de Chris Landreth (2004)."
 url: "https://www.onf.ca/film/ryan-fr/"
 publisher: "Office national du film du Canada"
 tags:
@@ -20,7 +20,7 @@ role: "cours"
 # Ryan — Chris Landreth
 <!-- end-replace-fm -->
 <!-- start-replace-fm field="description" format="blockquote" -->
-> Portrait 3D : les blessures intérieures du cinéaste Ryan Larkin rendues visibles par la déformation des corps — le « psychoréalisme » de Chris Landreth.
+> Portrait 3D : les blessures intérieures du cinéaste Ryan Larkin rendues visibles — la voix de Larkin et une conception sonore qui portent le « psychoréalisme » de Chris Landreth (2004).
 <!-- end-replace-fm -->
 
 <!-- start-replace-mediagraphie-fiche -->
@@ -46,4 +46,6 @@ Landreth, Chris (2004). Ryan — Chris Landreth. Office national du film du Cana
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
 - [Exercice — La tête qui se tourne](../../../02-activites/02/exercices/05-tete-qui-se-tourne/)
 - [Exercice — Le changement d'émotion](../../../02-activites/02/exercices/09-changement-emotion/)
+- [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
+- [Exercice — Enregistrer sa voix](../../../02-activites/03/exercices/02-enregistrement-voix/)
 <!-- end-replace-mediagraphie-cited-by -->
