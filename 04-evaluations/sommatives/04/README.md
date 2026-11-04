@@ -22,7 +22,7 @@ tags:
 **Intégration des apprentissages :** Essai audiovisuel (2 min max) + présentation (journal de bord intégré)
 <!-- %; -->
 
-En équipe de deux, réaliser un **essai audiovisuel d'au plus <!-- %: DUREE_ESSAI -->2 minutes (maximum)<!-- %; -->** qui combine image, vidéo/animation et son au service d'un propos personnel. Le film est remis à la séance 14 et présenté lors du **visionnement collectif** de la séance 15, appuyé sur le journal de bord final (surface de présentation).
+En équipe de deux ou individuellement, réaliser un **essai audiovisuel de 0:50 à 1:30 minutes** qui combine image, vidéo/animation et son au service d'un propos personnel. Le film est remis à la séance 14 et présenté lors du **visionnement collectif** de la séance 15, appuyé sur le journal de bord final (surface de présentation).
 
 **Pondération détaillée** — la note globale couvre l'essai, la présentation **et** le journal de bord intégré (pas de note spécifique pour le journal).
 
@@ -38,7 +38,7 @@ En équipe de deux, réaliser un **essai audiovisuel d'au plus <!-- %: DUREE_ESS
 
 #### Forme de l'évaluation
 
-* [ ] Individuel
+* [x] Individuel
 * [x] Équipe (2) — journal individuel
 
 ### Savoirs essentiels
@@ -54,6 +54,7 @@ En équipe de deux, réaliser un **essai audiovisuel d'au plus <!-- %: DUREE_ESS
 ### Principaux critères d'évaluation
 
 Les critères sont détaillés et distribués sur les éléments de compétence dans la [grille d'évaluation](./grille/).
+
 ### Logistique du visionnement
 
 - **Remise du film : début de la séance 15** — fichier final déposé (MP4/WebM) pour être consolidé dans la liste de lecture du visionnement collectif.

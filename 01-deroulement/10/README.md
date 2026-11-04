@@ -42,9 +42,10 @@ Générateurs 8 bits, synthèse générative, studios dans le navigateur : [zone
 
 ## Devoir
 
-- Réviser [Les principes du son](../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/).
-- **Devoir** : Repérer dans son animation de l'EVS 2 les moments à sonoriser **ou** les lieux à enregistrer pour un paysage sonore (projet final) — notez vos premières idées au journal et commencer à l'élaborer.
+- **Préparation** : Réviser les informations sur [Les principes du son](../../03-savoirs/01-reconnaitre/04-outils-processus-creation/03-son/).
+- **Devoir** : Préparer le **pitch (phrase + image)** pour votre [projet intégrateur, l'essai audiovisuel](../../04-evaluations/sommatives/04/README.md) au journal.
 - **Devoir** : Compléter le mini [paysage sonore](../../02-activites/03/exercices/08-paysage-sonore/README.md) au journal.
+- **Devoir** : Repérer dans son animation de l'EVS 2 les moments à sonoriser **ou** les lieux à enregistrer pour un paysage sonore (projet final) — notez vos premières idées au journal et commencer à l'élaborer.
 <!--- **Devoir** : Parcourir le [corpus sonore — montage et audio](../../02-activites/03/corpus-sonore/) : choisir une œuvre, noter une observation (relation entre l'image et le son) au journal.-->
 <!--- **Devoir** : Compléter (ou réviser si déjà fait en calsse) les exercices d'[enregistrement de voix](../../02-activites/03/exercices/01-enregistrement-voix/README.md), [édition de son](../../02-activites/03/exercices/02-montage-coupes-fondus/README.md), [nettoyage](../../02-activites/03/exercices/03-nettoyage-normalisation/README.md) et [exportation](../../02-activites/03/exercices/06-export-formats/README.md) de son au journal. Notez vos questions, impressions et blocages au journal.-->
 
