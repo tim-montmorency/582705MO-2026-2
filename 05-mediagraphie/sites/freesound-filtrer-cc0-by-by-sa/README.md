@@ -39,6 +39,7 @@ Freesound (2026). Freesound — banque de sons libres.. https://freesound.org.
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
+- [BBC Sound Effects — bruitages et ambiances](../bbc-sound-effects/)
 - [Exercice — Bruitage : sonoriser un geste](../../../02-activites/03/exercices/03-bruitage/)
 - [Exercice — Paysage sonore](../../../02-activites/03/exercices/08-paysage-sonore/)
 - [03](../../../02-activites/03/)

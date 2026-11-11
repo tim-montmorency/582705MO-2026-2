@@ -2,9 +2,9 @@
 type: "webpage"
 author: "Ministère de l'Éducation du Québec"
 date: "2026"
-title: "L'utilisation pédagogique, éthique et légale de l'IA générative — guide destiné au personnel enseignant"
+title: "Guide pour une utilisation pédagogique, éthique et légale de l'intelligence artificielle générative"
 description: "Guide du Ministère de l'Éducation du Québec (2026) sur l'utilisation pédagogique, éthique et légale de l'intelligence artificielle générative (IAG) : trois critères — pertinence pédagogique (réflexion avant, pendant et après), principes éthiques (sobriété numérique, qualité, équité et inclusion, transparence et explicabilité, agentivité) et obligations légales (sécurité de l'information, protection des renseignements personnels, droits d'auteur). L'humain reste au centre des décisions ; l'IAG est un support à la réflexion, jamais une finalité."
-url: "https://cdn-contenu.quebec.ca/cdn-contenu/education/Numerique/Guide-utilisation-pedagogique-ethique-legale-IA-personnel-enseignant.pdf"
+url: "https://cdn-contenu.quebec.ca/cdn-contenu/education/Numerique/guide-utilisation-pedagogique-ethique-legale-IAG.pdf"
 tags:
   - "ia"
   - "intelligence-artificielle"
@@ -15,16 +15,17 @@ tags:
   - "cours"
 status: "stable"
 role: "cours"
+provider: "Gouvernement du Québec"
 ---
 <!-- start-replace-fm field="title" -->
-# L'utilisation pédagogique, éthique et légale de l'IA générative — guide destiné au personnel enseignant
+# Guide pour une utilisation pédagogique, éthique et légale de l'intelligence artificielle générative
 <!-- end-replace-fm -->
 <!-- start-replace-fm field="description" format="blockquote" -->
 > Guide du Ministère de l'Éducation du Québec (2026) sur l'utilisation pédagogique, éthique et légale de l'intelligence artificielle générative (IAG) : trois critères — pertinence pédagogique (réflexion avant, pendant et après), principes éthiques (sobriété numérique, qualité, équité et inclusion, transparence et explicabilité, agentivité) et obligations légales (sécurité de l'information, protection des renseignements personnels, droits d'auteur). L'humain reste au centre des décisions ; l'IAG est un support à la réflexion, jamais une finalité.
 <!-- end-replace-fm -->
 
 <!-- start-replace-mediagraphie-fiche -->
-> **Référence** — Ministère de l'Éducation du Québec (2026). L'utilisation pédagogique, éthique et légale de l'IA générative — guide destiné au personnel enseignant.. https://cdn-contenu.quebec.ca/cdn-contenu/education/Numerique/Guide-utilisation-pedagogique-ethique-legale-IA-personnel-enseignant.pdf. [↗](https://cdn-contenu.quebec.ca/cdn-contenu/education/Numerique/Guide-utilisation-pedagogique-ethique-legale-IA-personnel-enseignant.pdf)
+> **Référence** — Ministère de l'Éducation du Québec (2026). Guide pour une utilisation pédagogique, éthique et légale de l'intelligence artificielle générative.. https://cdn-contenu.quebec.ca/cdn-contenu/education/Numerique/guide-utilisation-pedagogique-ethique-legale-IAG.pdf. [↗](https://cdn-contenu.quebec.ca/cdn-contenu/education/Numerique/guide-utilisation-pedagogique-ethique-legale-IAG.pdf)
 >
 > | **Type** | webpage |
 > | **Auteur·e** | Ministère de l'Éducation du Québec |
@@ -35,7 +36,7 @@ role: "cours"
 **Citation (copier-coller)**
 
 ```citation
-Ministère de l'Éducation du Québec (2026). L'utilisation pédagogique, éthique et légale de l'IA générative — guide destiné au personnel enseignant.. https://cdn-contenu.quebec.ca/cdn-contenu/education/Numerique/Guide-utilisation-pedagogique-ethique-legale-IA-personnel-enseignant.pdf.
+Ministère de l'Éducation du Québec (2026). Guide pour une utilisation pédagogique, éthique et légale de l'intelligence artificielle générative.. https://cdn-contenu.quebec.ca/cdn-contenu/education/Numerique/guide-utilisation-pedagogique-ethique-legale-IAG.pdf.
 ```
 <!-- end-replace-mediagraphie-fiche -->
 

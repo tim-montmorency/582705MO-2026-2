@@ -43,7 +43,9 @@ Documentation Krita (2026). Krita — la chronologie d'animation.. https://docs.
 <!-- start-replace-mediagraphie-cited-by -->
 - [Krita — l'animation 2D](../krita-animation-2d/)
 - [Krita — le panneau Courbes d'animation](../krita-animation-curves/)
+- [Krita — l'audio pour l'animation](../krita-audio-animation/)
 - [Krita — le panneau Pelures d'oignon](../krita-onion-skin/)
+- [Krita — le rendu de l'animation et FFmpeg](../krita-render-animation/)
 - [Krita — le panneau Storyboard](../krita-storyboard-docker/)
 - [05](../../../../01-deroulement/05/)
 - [Exercice — La brique qui tombe](../../../../02-activites/02/exercices/03-brique-qui-tombe/)
@@ -60,6 +62,8 @@ Documentation Krita (2026). Krita — la chronologie d'animation.. https://docs.
 > 🇫🇷 **Traduction française** de la page officielle [Animation Timeline Docker](https://docs.krita.org/fr/reference_manual/dockers/animation_timeline.html) — la page source n'est pas encore traduite. Adaptation : A26.
 
 La **chronologie d'animation** (*Animation Timeline*) est au cœur des outils d'animation matricielle de Krita : elle fournit tout ce qu'il faut pour créer, modifier et prévisualiser une animation dessinée à la main.
+
+![Le panneau Chronologie d'animation — barre d'outils, liste des calques et table d'images](images/Animation_Timeline_Docker.png)
 
 ## Vue d'ensemble
 
@@ -115,6 +119,8 @@ Tout cela fait beaucoup d'informations, mais l'essentiel pour débuter : savoir 
 - On peut ajouter plusieurs images clés en cliquant dans la table et en choisissant **Images clés ‣ Insérer plusieurs images clés** : nombre d'images à ajouter, avec un timing intégré (séries de 1, 2, 3…). Les réglages sont conservés.
 - On peut changer la couleur des images clés dans la table pour repérer les images importantes ou distinguer des sections. La couleur courante est mémorisée pour les nouvelles images. (On peut même passer d'une image à l'autre de la même couleur via un raccourci *Previous/Next Matching Keyframe*.)
 - Un clic droit dans l'**en-tête de temps** (plutôt que dans la table) donne accès à d'autres options : ajouter/retirer des colonnes entières d'images ou de tenues, ou réinitialiser le cache d'animation. Par exemple **Colonnes d'images clés ‣ Insérer une colonne d'images clés à gauche** ajoute des images à chaque calque visible.
+
+![Le sous-menu « Insérer plusieurs images clés » — nombre d'images et timing des séries](images/Timeline_insertkeys.png)
 - Pour supprimer des images : les sélectionner, puis **Retirer l'image clé**. *Retirer l'image et tirer* supprime les images sélectionnées et ramène vers la gauche toutes les suivantes autant que possible.
 
 ## Commandes

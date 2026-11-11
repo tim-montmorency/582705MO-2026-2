@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="Échelle des décibels : de moins l'infini à 0 dBFS, graduée régulièrement en dB — la crête de travail vers −12 dBFS et la zone de clipping au-delà de 0">
+  <title>L'échelle des décibels — de 0 dBFS au silence</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+    .lbl-b { font:700 12px sans-serif; fill:#3c4043; }
+    .petit { font:11px sans-serif; fill:#5f6368; }
+    .vr { fill:#6aa84f; }
+    .rr { fill:#b81c1c; }
+    .axe { stroke:#9aa0a6; stroke-width:2; fill:none; }
+    .grille { stroke:#e8eaed; stroke-width:1; }
+    .niv { stroke:#dadce0; stroke-width:1; }
+    .repere { stroke:#3c4043; stroke-width:2; stroke-dasharray:5 4; }
+    .c1 { fill:none; stroke:#b81c1c; stroke-width:2.5; }
+    .c2 { fill:none; stroke:#2a6fdb; stroke-width:2.5; }
+    .c3 { fill:none; stroke:#6aa84f; stroke-width:2.5; }
+    .point { fill:#b81c1c; }
+    .pt1 { fill:#b81c1c; }
+    .pt2 { fill:#e69138; }
+    .pt3 { fill:#6aa84f; }
+    .chip1 { fill:#b81c1c; }
+    .chip2 { fill:#e69138; }
+    .chip3 { fill:#6aa84f; }
+  
+    /* variante sombre : le site suit prefers-color-scheme */
+    @media (prefers-color-scheme: dark) {
+      .axe { fill:none; stroke:#7c7c94; }
+      .c1 { fill:none; stroke:#e08181; }
+      .c2 { fill:none; stroke:#7aa7ee; }
+      .c3 { fill:none; stroke:#8fce74; }
+      .chip1 { fill:#e08181; }
+      .chip2 { fill:#eda85c; }
+      .chip3 { fill:#8fce74; }
+      .grille { stroke:#2b2b3c; }
+      .lbl { fill:#dcdcea; }
+      .lbl-b { fill:#dcdcea; }
+      .niv { stroke:#35354a; }
+      .note { fill:#b3b3c6; }
+      .petit { fill:#b3b3c6; }
+      .point { fill:#e08181; }
+      .pt1 { fill:#e08181; }
+      .pt2 { fill:#eda85c; }
+      .pt3 { fill:#8fce74; }
+      .repere { stroke:#dcdcea; }
+      .rr { fill:#e08181; }
+      .sous { fill:#b3b3c6; }
+      .titre { fill:#dcdcea; }
+      .vr { fill:#8fce74; }
+      [fill="#6aa84f"] { fill:#8fce74; }
+      [fill="#fce8e6"] { fill:#33222a; }
+      [stroke="#9aa0a6"] { stroke:#7c7c94; }
+      [stroke="#b81c1c"] { stroke:#e08181; }
+    }
+  </style>
+  <text class="titre" x="360" y="26" text-anchor="middle">L'échelle des décibels — de 0 dBFS au silence</text>
+  <text class="sous" x="360" y="46" text-anchor="middle">une échelle logarithmique : l'oreille perçoit des rapports</text>
+  <path class="axe" d="M 100 132 H 690"/>
+  <line x1="208" y1="126" x2="208" y2="138" stroke="#9aa0a6" stroke-width="2"/>
+  <text class="lbl" x="208" y="158" text-anchor="middle">−48</text>
+  <line x1="424" y1="126" x2="424" y2="138" stroke="#9aa0a6" stroke-width="2"/>
+  <text class="lbl" x="424" y="158" text-anchor="middle">−24</text>
+  <line x1="478" y1="126" x2="478" y2="138" stroke="#9aa0a6" stroke-width="2"/>
+  <text class="lbl" x="478" y="158" text-anchor="middle">−18</text>
+  <line x1="532" y1="126" x2="532" y2="138" stroke="#9aa0a6" stroke-width="2"/>
+  <text class="lbl" x="532" y="158" text-anchor="middle">−12</text>
+  <line x1="586" y1="126" x2="586" y2="138" stroke="#9aa0a6" stroke-width="2"/>
+  <text class="lbl" x="586" y="158" text-anchor="middle">−6</text>
+  <line x1="640" y1="126" x2="640" y2="138" stroke="#9aa0a6" stroke-width="2"/>
+  <text class="lbl" x="640" y="158" text-anchor="middle">0</text>
+  <path d="M 116 124 l 10 16 M 124 124 l 10 16" stroke="#9aa0a6" stroke-width="2" fill="none"/>
+  <text class="lbl" x="104" y="158" text-anchor="middle">−∞</text>
+  <rect x="640" y="108" width="50" height="24" fill="#fce8e6" stroke="#b81c1c" stroke-width="1.5"/>
+  <text class="lbl" x="665" y="102" text-anchor="middle">clipping</text>
+  <circle cx="532" cy="132" r="6" fill="#6aa84f"/>
+  <text class="lbl" x="532" y="112" text-anchor="middle">crête de travail</text>
+  <text class="note" x="360" y="200" text-anchor="middle">0 dBFS est un plafond absolu : on enregistre avec de la marge, jamais au plafond.</text>
+  <text class="note" x="360" y="226" text-anchor="middle">+3 dB ≈ deux fois la puissance ; +10 dB ≈ deux fois la sensation.</text>
+</svg>

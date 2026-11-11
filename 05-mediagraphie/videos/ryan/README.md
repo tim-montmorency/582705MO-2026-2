@@ -48,4 +48,5 @@ Landreth, Chris (2004). Ryan — Chris Landreth. Office national du film du Cana
 - [Exercice — Le changement d'émotion](../../../02-activites/02/exercices/09-changement-emotion/)
 - [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
 - [Exercice — Enregistrer sa voix](../../../02-activites/03/exercices/02-enregistrement-voix/)
+- [Exercice — Maquette sonore (sons de bouche)](../../../02-activites/03/exercices/13-maquette-sonore/)
 <!-- end-replace-mediagraphie-cited-by -->

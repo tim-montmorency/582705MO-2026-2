@@ -36,6 +36,7 @@ Les livres cités par le cours.
 - [Schafer, R. Murray (1977) - Le paysage sonore : le monde comme musique](./schafer-le-paysage-sonore-le-monde-comme-musique/ "L'écoute du monde comme composition — le concept de paysage sonore (soundscape), fondement du module sur le son. Édition française : Wildproject ; l'édition an…") [Internet Archive](https://archive.org/details/tuningofworldtow0000scha)
 - [Shirley, Peter (2009) - Fundamentals of Computer Graphics](./shirley-fundamentals-of-computer-graphics/ "Les bases mathématiques et algorithmiques de l'infographie — référence recommandée du cours MIT 6.837.") [Routledge](https://www.routledge.com/Fundamentals-of-Computer-Graphics/p/book/9781032122861)
 - [Stallman, Richard M. (2002) - Free Software, Free Society : Selected Essays — Richard Stallman](./stallman-free-software-free-society-selected-essa/ "Les essais fondateurs du logiciel libre par son initiateur — les quatre libertés, le copyleft, et pourquoi le libre est une question sociale.") [GNU](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
+- [Truax, Barry (dir.) (1999) - Handbook for Acoustic Ecology — Barry Truax](./truax-handbook-for-acoustic-ecology/ "Le lexique de l'écologie sonore : keynote, signal, soundmark, hi-fi et lo-fi, schizophonie — le vocabulaire de Schafer rassemblé et défini par ses collaborateu…") [Sfu](https://www.sfu.ca/~truax/handbook2.html)
 
-_23 entrée(s) — index généré par docsh._
+_24 entrée(s) — index généré par docsh._
 <!-- end-replace-mediagraphie -->

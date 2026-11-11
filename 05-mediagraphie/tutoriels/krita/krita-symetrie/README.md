@@ -53,7 +53,7 @@ Dessiner un coté de la ligne de réflexion pendant que l'outil de réflexion co
 
 ![../_images/Mirror-tool.png](images/Mirror-tool.png)
 
-Les outils de réflexion fournissent des résultats similaires à ref:multibrush_tool. Mais, contrairement à l'outil « Multibrush » réalisant uniquement des coups de brosses comme [Brosse à main levée](../reference_manual/tools/freehand_brush.html#freehand-brush-tool), l'outil de réflexion peut être utilisé avec d'autres outils, réalisant des coups, tel que [Outil pour lignes droites](../reference_manual/tools/line.html#line-tool) et le [Bezier Curve Tool](../reference_manual/tools/path.html#path-tool), et même avec l'outil « Multibrush ».
+Les outils de réflexion fournissent des résultats similaires à ref:multibrush_tool. Mais, contrairement à l'outil « Multibrush » réalisant uniquement des coups de brosses comme [Brosse à main levée](https://docs.krita.org/fr/reference_manual/tools/freehand_brush.html#freehand-brush-tool), l'outil de réflexion peut être utilisé avec d'autres outils, réalisant des coups, tel que [Outil pour lignes droites](https://docs.krita.org/fr/reference_manual/tools/line.html#line-tool) et le [Bezier Curve Tool](https://docs.krita.org/fr/reference_manual/tools/path.html#path-tool), et même avec l'outil « Multibrush ».
 
 Effectuer une copie en miroir selon l'axe horizontal.
 
@@ -69,4 +69,4 @@ Il y a des options complémentaires pour chaque outil. Vous pouvez y accéder pa
 
 ### Réflexion le long d'une ligne inclinée
 
-L'outil de réflexion ne peut réaliser une réflexion que le long d'une ligne strictement verticale ou horizontale. Pour effectuer une réflexion le long d'une ligne inclinée, veuillez utiliser le [Multi-brosse](../reference_manual/tools/multibrush.html#multibrush-tool) et ses divers paramètres. Cette fonction possède aussi des options plus avancés vis à vis de la symétrie standard.
+L'outil de réflexion ne peut réaliser une réflexion que le long d'une ligne strictement verticale ou horizontale. Pour effectuer une réflexion le long d'une ligne inclinée, veuillez utiliser le [Multi-brosse](https://docs.krita.org/fr/reference_manual/tools/multibrush.html#multibrush-tool) et ses divers paramètres. Cette fonction possède aussi des options plus avancés vis à vis de la symétrie standard.

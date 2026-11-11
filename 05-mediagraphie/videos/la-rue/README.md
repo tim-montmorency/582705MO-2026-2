@@ -48,4 +48,5 @@ Leaf, Caroline (1976). La rue — Caroline Leaf. Office national du film du Cana
 - [Exercice — Enregistrer sa voix](../../../02-activites/03/exercices/02-enregistrement-voix/)
 - [Exercice — Mixage multipiste](../../../02-activites/03/exercices/07-mixage-multipiste/)
 - [Exercice — Sonoriser une animation](../../../02-activites/03/exercices/11-sonoriser-une-animation/)
+- [Exercice — Maquette sonore (sons de bouche)](../../../02-activites/03/exercices/13-maquette-sonore/)
 <!-- end-replace-mediagraphie-cited-by -->

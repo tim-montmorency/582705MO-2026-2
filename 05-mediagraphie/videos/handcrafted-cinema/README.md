@@ -3,8 +3,8 @@ type: "video"
 author: "Leaf, Caroline"
 date: "1998"
 title: "Hand-Crafted Cinema Animation Workshop — Caroline Leaf"
-description: "Ateliers d'animation réunis par Caroline Leaf : sa démarche artisanale de narration filmée, du dessin au sable sur verre."
-url: "https://www.nfb.ca/film/handcrafted_cinema/"
+description: "Ateliers d'animation réunis par Caroline Leaf : sa démarche artisanale de narration filmée, du dessin au sable sur verre. Page retirée du catalogue de l'ONF — copie archivée."
+url: "https://web.archive.org/web/20260924015446/https://www.nfb.ca/film/handcrafted_cinema/"
 publisher: "Office national du film du Canada"
 tags:
   - "animation"
@@ -14,16 +14,17 @@ tags:
   - "tutoriel"
 status: "stable"
 role: "cours"
+provider: "Internet Archive"
 ---
 <!-- start-replace-fm field="title" -->
 # Hand-Crafted Cinema Animation Workshop — Caroline Leaf
 <!-- end-replace-fm -->
 <!-- start-replace-fm field="description" format="blockquote" -->
-> Ateliers d'animation réunis par Caroline Leaf : sa démarche artisanale de narration filmée, du dessin au sable sur verre.
+> Ateliers d'animation réunis par Caroline Leaf : sa démarche artisanale de narration filmée, du dessin au sable sur verre. Page retirée du catalogue de l'ONF — copie archivée.
 <!-- end-replace-fm -->
 
 <!-- start-replace-mediagraphie-fiche -->
-> **Référence** — Leaf, Caroline (1998). Hand-Crafted Cinema Animation Workshop — Caroline Leaf. Office national du film du Canada. https://www.nfb.ca/film/handcrafted_cinema/. [↗](https://www.nfb.ca/film/handcrafted_cinema/)
+> **Référence** — Leaf, Caroline (1998). Hand-Crafted Cinema Animation Workshop — Caroline Leaf. Office national du film du Canada. https://web.archive.org/web/20260924015446/https://www.nfb.ca/film/handcrafted_cinema/. [↗](https://web.archive.org/web/20260924015446/https://www.nfb.ca/film/handcrafted_cinema/)
 >
 > | **Type** | video |
 > | **Auteur·e** | Leaf, Caroline |
@@ -35,7 +36,7 @@ role: "cours"
 **Citation (copier-coller)**
 
 ```citation
-Leaf, Caroline (1998). Hand-Crafted Cinema Animation Workshop — Caroline Leaf. Office national du film du Canada. https://www.nfb.ca/film/handcrafted_cinema/.
+Leaf, Caroline (1998). Hand-Crafted Cinema Animation Workshop — Caroline Leaf. Office national du film du Canada. https://web.archive.org/web/20260924015446/https://www.nfb.ca/film/handcrafted_cinema/.
 ```
 <!-- end-replace-mediagraphie-fiche -->
 

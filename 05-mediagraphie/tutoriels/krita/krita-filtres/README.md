@@ -56,24 +56,24 @@ Les filtres sont spécifiques au dessin numérique en terme de complexité et fo
 
 Les filtres sont accessibles par le menu :guilabel: « Filtres ». Krita prend en compte deux types de filtres: Interne et G'MIC.
 
-Les filtres internes sont souvent répartis sur plusieurs cœurs de processeurs. Ils peuvent ainsi être utilisés avec les actions [Moteur de filtre de brosses](brushes/brush_engines/filter_brush_engine.html#filter-brush-engine), ou [Calque de filtrage](layers_and_masks/filter_layers.html#filter-layers) et [Masques de filtrage](layers_and_masks/filter_masks.html#filter-masks).
+Les filtres internes sont souvent répartis sur plusieurs cœurs de processeurs. Ils peuvent ainsi être utilisés avec les actions [Moteur de filtre de brosses](https://docs.krita.org/fr/reference_manual/brushes/brush_engines/filter_brush_engine.html#filter-brush-engine), ou [Calque de filtrage](https://docs.krita.org/fr/reference_manual/layers_and_masks/filter_layers.html#filter-layers) et [Masques de filtrage](https://docs.krita.org/fr/reference_manual/layers_and_masks/filter_masks.html#filter-masks).
 
-- [Ajuster](filters/adjust.html)
+- [Ajuster](https://docs.krita.org/fr/reference_manual/filters/adjust.html)
 
-- [Artistique](filters/artistic.html)
+- [Artistique](https://docs.krita.org/fr/reference_manual/filters/artistic.html)
 
-- [Flou](filters/blur.html)
+- [Flou](https://docs.krita.org/fr/reference_manual/filters/blur.html)
 
-- [Couleur](filters/colors.html)
+- [Couleur](https://docs.krita.org/fr/reference_manual/filters/colors.html)
 
-- [Détection des bords](filters/edge_detection.html)
+- [Détection des bords](https://docs.krita.org/fr/reference_manual/filters/edge_detection.html)
 
-- [Repousser](filters/emboss.html)
+- [Repousser](https://docs.krita.org/fr/reference_manual/filters/emboss.html)
 
-- [Augmenter](filters/enhance.html)
+- [Augmenter](https://docs.krita.org/fr/reference_manual/filters/enhance.html)
 
-- [Carte](filters/map.html)
+- [Carte](https://docs.krita.org/fr/reference_manual/filters/map.html)
 
-- [Autre](filters/other.html)
+- [Autre](https://docs.krita.org/fr/reference_manual/filters/other.html)
 
-- [Décomposition en ondelettes](filters/wavelet_decompose.html)
+- [Décomposition en ondelettes](https://docs.krita.org/fr/reference_manual/filters/wavelet_decompose.html)

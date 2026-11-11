@@ -66,7 +66,7 @@ Dans le dessin traditionnel, le **vernissage** superpose plusieurs différents c
 
 Tout d'abord, un calque semi-transparent est placé au dessus d'une autre couleur, à intégrer dans un mélange. Ensuite, la **couleur résultante** est sélectionnée grâce au raccourci :kbd:` « CTRL » +` clic gauche (ceci peut être configuré dans les paramètres d'entrée du tableau) et elle est utilisée pour peindre. Selon les **paramètres d'opacité** de votre brosse, à chaque fois qu'un vernissage est fait avec une couleur sur une autre, une couleur, quelque part entre ces deux couleurs, sera obtenu, souvent conduisant à une jolie texture.
 
-Vous pouvez même mélanger plus facilement le vernissage quand votre **passage** de brosse à un paramètre plus bas. Subtilement différent de l'opacité, le [flux](../../reference_manual/brushes/brush_settings/opacity_and_flow.html#option-opacity-n-flow) est une transparence par tamponnage plutôt que par appui. Ainsi, il vous donne des appuis plus doux, sans perdre le contrôle.
+Vous pouvez même mélanger plus facilement le vernissage quand votre **passage** de brosse à un paramètre plus bas. Subtilement différent de l'opacité, le [flux](https://docs.krita.org/fr/reference_manual/brushes/brush_settings/opacity_and_flow.html#option-opacity-n-flow) est une transparence par tamponnage plutôt que par appui. Ainsi, il vous donne des appuis plus doux, sans perdre le contrôle.
 
 De plus, le vernissage peut être combiné avec divers **modes de mélange* pour réaliser différents effets intéressants. Quelques exemples de vernissage avec le mode de mélange en **multiplication** pour la création de jolies ombrages :
 
@@ -90,7 +90,7 @@ Continuer avec une opacité et un flux plus faibles pour créer des dégradés e
 
 ![../../_images/Color_mix.gif](images/Color_mix.gif)
 
-Le **mélange de tâches** est fait avec le [Color Smudge Brush Engine](../../reference_manual/brushes/brush_engines/color_smudge_engine.html#color-smudge-brush-engine), un moteur spécial de brosses vous permettant de mélanger la couleur de votre brosse courante avec la ou les couleur(s) sous votre brosse. C'est un type très puissant de brosses, vous donnant un charmant effet artistique. * Équilibré en performances, il est un peu plus gourmand et plus lent que la brosse normale de pixels*.
+Le **mélange de tâches** est fait avec le [Color Smudge Brush Engine](https://docs.krita.org/fr/reference_manual/brushes/brush_engines/color_smudge_engine.html#color-smudge-brush-engine), un moteur spécial de brosses vous permettant de mélanger la couleur de votre brosse courante avec la ou les couleur(s) sous votre brosse. C'est un type très puissant de brosses, vous donnant un charmant effet artistique. * Équilibré en performances, il est un peu plus gourmand et plus lent que la brosse normale de pixels*.
 
 Si vous *supprimez tous les dessins d'une brosse de tâches*, vous obtiendrez un effet de tâches simple mais puissant :
 
@@ -104,11 +104,11 @@ Le **frottis** est similaire au vernissage, excepté le fait d'avoir un calque s
 
 ![../../_images/Color_scumble2.gif](images/Color_scumble2.gif)
 
-Comme la plupart des logiciels de dessin, Krita vous permet de sélectionner un [Brush Tips](../../reference_manual/brushes/brush_settings/brush_tips.html#option-brush-tip), pouvant être utilisé pour la création d'effet texturé comme celui de frottis.
+Comme la plupart des logiciels de dessin, Krita vous permet de sélectionner un [Brush Tips](https://docs.krita.org/fr/reference_manual/brushes/brush_settings/brush_tips.html#option-brush-tip), pouvant être utilisé pour la création d'effet texturé comme celui de frottis.
 
 ![../../_images/Color_scumble.gif](images/Color_scumble.gif)
 
-Les moteurs de brosses de Krita vous permettent aussi d'utiliser [Texture](../../reference_manual/brushes/brush_settings/texture.html#option-texture). Ceci vous permet de créer des effets intéressant et stylisés, similaire à des tons d'écran.
+Les moteurs de brosses de Krita vous permettent aussi d'utiliser [Texture](https://docs.krita.org/fr/reference_manual/brushes/brush_settings/texture.html#option-texture). Ceci vous permet de créer des effets intéressant et stylisés, similaire à des tons d'écran.
 
 Avec le vernissage, vous pouvez aller assez loin quand il s'agit de *définir des plans et des formes. Le frottis est la meilleure méthode pour *créer une texture et *casser les grandes zones uniformes* dans votre dessin.
 
@@ -154,4 +154,4 @@ Ce qu'il est possible d'apprendre de ceci, est que lors de la prochaine sélecti
 
 Bien que les techniques sur tableau et hors tableau sont des types fondamentalement différents de mélange de couleurs, ils ne sont pas mutuellement exclusifs. Toutes les méthodes de mélange de cet article ont leurs avantages et leurs inconvénients. Différents outils peuvent être utiles pour différentes situations et la combinaison de ces diverses techniques peut être extrêmement puissante et amusante !
 
-En conclusion, le mélange de couleurs fonctionnera souvent encore mieux avec une [profondeur de bits plus grande comme en 16 bits](bit_depth.html#bit-depth). Ainsi, il impliquera prendre bien plus de **mémoire vide** (RAM) de travail pour l'image. De plus, l'utilisation d'un:ref:espace colorimétrique linéaire<linear_and_gamma> permet l'obtention de bien meilleurs mélanges qu'en espace corrigé de gamma. Ainsi, la création de croquis et de dessin au trait est plus facile à faire dans un espace corrigé de gamma.
+En conclusion, le mélange de couleurs fonctionnera souvent encore mieux avec une [profondeur de bits plus grande comme en 16 bits](https://docs.krita.org/fr/general_concepts/colors/bit_depth.html#bit-depth). Ainsi, il impliquera prendre bien plus de **mémoire vide** (RAM) de travail pour l'image. De plus, l'utilisation d'un:ref:espace colorimétrique linéaire<linear_and_gamma> permet l'obtention de bien meilleurs mélanges qu'en espace corrigé de gamma. Ainsi, la création de croquis et de dessin au trait est plus facile à faire dans un espace corrigé de gamma.

@@ -51,7 +51,7 @@ Documentation Krita (2026). Krita — enregistrer pour l'Internet.. https://docs
 
 ## Enregistrement pour l'Internet
 
-Le format d'enregistrement par défaut de Krita est [*.kra](../general_concepts/file_formats/file_kra.html#file-kra). Il enregistre tout ce que Krita peut manipuler concernant une image : les calques, les filtres, les assistants, les masques, les espaces colorimétriques, etc. Cependant, cela fait beaucoup de données. Ainsi, les fichiers Krita sont plutôt volumineux. Ceci n'en fait pas une bonne solution pour les envoyez sur Internet. Imaginez combien de personnes atteindraient la limite s'il ne traitaient que des fichiers « [*](#id1).kra » ! Ainsi, à la place, les images sont optimisées pour Internet.
+Le format d'enregistrement par défaut de Krita est [*.kra](https://docs.krita.org/fr/general_concepts/file_formats/file_kra.html#file-kra). Il enregistre tout ce que Krita peut manipuler concernant une image : les calques, les filtres, les assistants, les masques, les espaces colorimétriques, etc. Cependant, cela fait beaucoup de données. Ainsi, les fichiers Krita sont plutôt volumineux. Ceci n'en fait pas une bonne solution pour les envoyez sur Internet. Imaginez combien de personnes atteindraient la limite s'il ne traitaient que des fichiers « [*](#id1).kra » ! Ainsi, à la place, les images sont optimisées pour Internet.
 
 Il y a plusieurs étapes associées :
 

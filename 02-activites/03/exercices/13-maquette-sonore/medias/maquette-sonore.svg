@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="La maquette sonore : une prise de sons de bouche pendant la lecture de l'animation, qui fixe les intentions et inspire les sons à créer">
+  <title>La maquette sonore — jouer les sons avant de les fabriquer</title>
+  <style>
+    .titre { font:700 17px sans-serif; fill:#3c4043; }
+    .sous { font:12px sans-serif; fill:#5f6368; }
+    .lbl { font:700 11px sans-serif; fill:#3c4043; }
+    .petit { font:11px sans-serif; fill:#5f6368; }
+    .note { font:12px sans-serif; fill:#5f6368; }
+    .box-v { fill:#e8f0fe; stroke:#2a6fdb; stroke-width:2; }
+    .box-a { fill:#e6f4ea; stroke:#6aa84f; stroke-width:2; }
+    .box-m { fill:#fce8e6; stroke:#b81c1c; stroke-width:2; }
+    .wave { fill:none; stroke:#b81c1c; stroke-width:2.2; }
+    .wave2 { fill:none; stroke:#6aa84f; stroke-width:2.2; }
+    .playhead { stroke:#3c4043; stroke-width:2; stroke-dasharray:4 3; }
+    .fleche { stroke:#9aa0a6; stroke-width:2; fill:none; }
+    .pt { fill:#9aa0a6; }
+    @media (prefers-color-scheme: dark) {
+      .titre, .lbl { fill:#dcdcea; }
+      .sous, .petit, .note { fill:#b3b3c6; }
+      .box-v { fill:#1d2739; stroke:#7aa7ee; }
+      .box-a { fill:#1e2b22; stroke:#8fce74; }
+      .box-m { fill:#33222a; stroke:#e08181; }
+      .wave { stroke:#e08181; }
+      .wave2 { stroke:#8fce74; }
+      .playhead { stroke:#dcdcea; }
+      .fleche { stroke:#7c7c94; }
+      .pt { fill:#7c7c94; }
+    }
+  </style>
+
+  <text class="titre" x="360" y="27" text-anchor="middle">La maquette sonore</text>
+  <text class="sous" x="360" y="46" text-anchor="middle">une prise de sons de bouche pendant que l'image défile — avant de fabriquer les vrais sons</text>
+
+  <!-- Animation -->
+  <text class="lbl" x="20" y="72">animation (EVS 2)</text>
+  <rect x="20" y="80" width="200" height="100" rx="6" fill="none" stroke="#dadce0" stroke-width="1.5"/>
+  <rect class="box-v" x="32" y="91" width="52" height="72" rx="3"/>
+  <rect class="box-v" x="92" y="91" width="52" height="72" rx="3"/>
+  <rect class="box-v" x="152" y="91" width="52" height="72" rx="3"/>
+  <path d="M 32 103 H 204 M 32 151 H 204" stroke="#2a6fdb" stroke-width="5" opacity=".35"/>
+  <text class="petit" x="120" y="197" text-anchor="middle">15–30 s</text>
+
+  <!-- Sons de bouche -->
+  <text class="lbl" x="248" y="72">sons de bouche</text>
+  <rect x="248" y="80" width="220" height="100" rx="6" fill="none" stroke="#dadce0" stroke-width="1.5"/>
+  <rect class="box-m" x="260" y="94" width="14" height="24" rx="7"/>
+  <path d="M 253 112 Q 267 130 281 112" fill="none" stroke="#b81c1c" stroke-width="2"/>
+  <line x1="267" y1="130" x2="267" y2="142" stroke="#b81c1c" stroke-width="2"/>
+  <line x1="256" y1="142" x2="278" y2="142" stroke="#b81c1c" stroke-width="2"/>
+  <path class="wave" d="M 300 130 L 306 118 L 312 138 L 318 110 L 324 142 L 330 122 L 336 134 L 342 114 L 348 140 L 354 120 L 360 132 L 366 116 L 372 138 L 378 124 L 384 134 L 390 112 L 396 140 L 402 120 L 408 132 L 414 118 L 420 136 L 426 124 L 432 132 L 438 120 L 444 136 L 450 126 L 456 132"/>
+  <text class="petit" x="358" y="160" text-anchor="middle">souffles · clics · onomatopées</text>
+  <text class="petit" x="358" y="174" text-anchor="middle">une seule prise, sans coupe</text>
+
+  <!-- Timeline -->
+  <text class="lbl" x="492" y="72">timeline</text>
+  <rect x="492" y="80" width="208" height="100" rx="6" fill="none" stroke="#dadce0" stroke-width="1.5"/>
+  <text class="petit" x="500" y="101">V1</text>
+  <rect class="box-v" x="520" y="88" width="164" height="20" rx="3"/>
+  <text class="petit" x="500" y="139">A1</text>
+  <rect class="box-a" x="520" y="124" width="164" height="26" rx="3"/>
+  <path class="wave2" d="M 528 137 L 534 130 L 540 143 L 546 127 L 552 144 L 558 133 L 564 140 L 570 129 L 576 143 L 582 132 L 588 139 L 594 128 L 600 142 L 606 133 L 612 140 L 618 130 L 624 142 L 630 134 L 636 140 L 642 131 L 648 141 L 654 135 L 660 140 L 666 132 L 672 139 L 678 136"/>
+  <line class="playhead" x1="612" y1="84" x2="612" y2="170"/>
+  <text class="petit" x="612" y="188" text-anchor="middle">1 prise</text>
+
+  <!-- Flux -->
+  <rect class="box-m" x="48" y="207" width="150" height="30" rx="15"/>
+  <text class="lbl" x="123" y="227" text-anchor="middle">maquette</text>
+  <path class="fleche" d="M 202 222 H 238"/>
+  <path class="pt" d="M 238 218 L 246 222 L 238 226 Z"/>
+
+  <rect class="box-v" x="250" y="207" width="150" height="30" rx="15"/>
+  <text class="lbl" x="325" y="227" text-anchor="middle">intentions</text>
+  <path class="fleche" d="M 404 222 H 440"/>
+  <path class="pt" d="M 440 218 L 448 222 L 440 226 Z"/>
+
+  <rect class="box-a" x="452" y="207" width="170" height="30" rx="15"/>
+  <text class="lbl" x="537" y="227" text-anchor="middle">sons à créer</text>
+
+  <text class="note" x="360" y="254" text-anchor="middle">La maquette n'est pas la bande finale : elle guide les sons à créer ou à collecter.</text>
+</svg>

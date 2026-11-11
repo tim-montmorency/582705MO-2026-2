@@ -58,6 +58,8 @@ Pour animer un plan complexe, il est courant de vouloir animer des choses diffic
 
 Comme presque tout se ramène à des valeurs numériques (l'opacité en pourcentage, la position d'un masque…), et que l'ordinateur est bon en calcul, on peut représenter l'évolution des valeurs dans le temps sur un graphe 2D. Mieux : on peut tracer des lignes et des courbes qui indiquent à l'ordinateur comment calculer les valeurs intermédiaires entre deux images clés — une technique appelée **interpolation** ou *tweening*.
 
+![Le panneau Courbes d'animation — barre d'outils, liste des canaux et graphe des valeurs](images/Animation_Curves_Docker.png)
+
 ## Vue d'ensemble
 
 Le panneau se décompose en plusieurs zones :
@@ -87,6 +89,8 @@ Animons d'abord l'opacité d'un calque. On pense par exemple à un nuage de pous
 Avant de continuer, remplaçons la ligne droite par une **courbe d'interpolation** pour changer le rythme et le ressenti. Sélectionner la première image clé et cliquer sur le bouton d'interpolation en courbe de Bézier : l'image clé devient un cercle creux, une **poignée** que l'on fait glisser pour modifier l'arc de la courbe. On peut aussi revenir à une ligne (interpolation linéaire) ou désactiver l'interpolation (constante), ce qui fait sauter les valeurs d'une image clé à l'autre.
 
 > **NOTE** — Toujours savoir quelle image est active (ligne verticale surlignée dans le graphe) : l'image clé qui change lors d'un ajustement ailleurs dépend du temps actif.
+
+Bon, tout cela est un peu difficile à décrire par écrit… mais rien de bien sorcier une fois qu'on a pris le tour !
 
 ## Animer un masque de transformation
 

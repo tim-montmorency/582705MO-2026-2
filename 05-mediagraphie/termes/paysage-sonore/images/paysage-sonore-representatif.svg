@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="Paysage sonore : autour de l'oreille, des sources réparties en trois plans — premier plan, plan moyen, lointain">
+  <title>Le paysage sonore — des sources et des plans</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+    .lbl-b { font:700 12px sans-serif; fill:#3c4043; }
+    .petit { font:11px sans-serif; fill:#5f6368; }
+    .vr { fill:#6aa84f; }
+    .rr { fill:#b81c1c; }
+    .axe { stroke:#9aa0a6; stroke-width:2; fill:none; }
+    .grille { stroke:#e8eaed; stroke-width:1; }
+    .niv { stroke:#dadce0; stroke-width:1; }
+    .repere { stroke:#3c4043; stroke-width:2; stroke-dasharray:5 4; }
+    .c1 { fill:none; stroke:#b81c1c; stroke-width:2.5; }
+    .c2 { fill:none; stroke:#2a6fdb; stroke-width:2.5; }
+    .c3 { fill:none; stroke:#6aa84f; stroke-width:2.5; }
+    .point { fill:#b81c1c; }
+    .pt1 { fill:#b81c1c; }
+    .pt2 { fill:#e69138; }
+    .pt3 { fill:#6aa84f; }
+    .chip1 { fill:#b81c1c; }
+    .chip2 { fill:#e69138; }
+    .chip3 { fill:#6aa84f; }
+  
+    /* variante sombre : le site suit prefers-color-scheme */
+    @media (prefers-color-scheme: dark) {
+      .axe { fill:none; stroke:#7c7c94; }
+      .c1 { fill:none; stroke:#e08181; }
+      .c2 { fill:none; stroke:#7aa7ee; }
+      .c3 { fill:none; stroke:#8fce74; }
+      .chip1 { fill:#e08181; }
+      .chip2 { fill:#eda85c; }
+      .chip3 { fill:#8fce74; }
+      .grille { stroke:#2b2b3c; }
+      .lbl { fill:#dcdcea; }
+      .lbl-b { fill:#dcdcea; }
+      .niv { stroke:#35354a; }
+      .note { fill:#b3b3c6; }
+      .petit { fill:#b3b3c6; }
+      .point { fill:#e08181; }
+      .pt1 { fill:#e08181; }
+      .pt2 { fill:#eda85c; }
+      .pt3 { fill:#8fce74; }
+      .repere { stroke:#dcdcea; }
+      .rr { fill:#e08181; }
+      .sous { fill:#b3b3c6; }
+      .titre { fill:#dcdcea; }
+      .vr { fill:#8fce74; }
+      [fill="#f1f3f4"] { fill:#21212e; }
+      [stroke="#9aa0a6"] { stroke:#7c7c94; }
+      [stroke="#dadce0"] { stroke:#35354a; }
+    }
+  </style>
+  <text class="titre" x="360" y="26" text-anchor="middle">Le paysage sonore — des sources et des plans</text>
+  <text class="sous" x="360" y="46" text-anchor="middle">un lieu s'écoute par couches : premier plan, plan moyen, lointain</text>
+  <circle cx="110.0" cy="136.0" r="36" fill="none" stroke="#dadce0" stroke-width="1.5"/>
+  <circle cx="110.0" cy="136.0" r="68" fill="none" stroke="#dadce0" stroke-width="1.5"/>
+  <circle cx="110.0" cy="136.0" r="98" fill="none" stroke="#dadce0" stroke-width="1.5"/>
+  <circle cx="110.0" cy="136.0" r="20" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="2"/>
+  <text class="petit" x="110.0" y="140.0" text-anchor="middle">oreille</text>
+  <circle class="pt1" cx="130" cy="112" r="5"/>
+  <text class="petit" x="140" y="116" text-anchor="start">voix</text>
+  <circle class="pt1" cx="92" cy="116" r="5"/>
+  <text class="petit" x="82" y="120" text-anchor="end">pas</text>
+  <circle class="pt2" cx="144" cy="188" r="5"/>
+  <text class="petit" x="154" y="192" text-anchor="start">rue</text>
+  <circle class="pt3" cx="192" cy="202" r="5"/>
+  <text class="petit" x="202" y="206" text-anchor="start">oiseaux</text>
+  <rect x="380" y="62" width="300" height="152" rx="10" fill="none" stroke="#9aa0a6" stroke-width="2"/>
+  <text class="lbl-b" x="404" y="88">Les plans</text>
+  <rect class="chip1" x="392" y="105" width="14" height="14" rx="3"/>
+  <text class="lbl-b" x="420" y="116">Premier plan</text>
+  <text class="petit" x="420" y="133">voix, bruitages proches</text>
+  <rect class="chip2" x="392" y="141" width="14" height="14" rx="3"/>
+  <text class="lbl-b" x="420" y="152">Plan moyen</text>
+  <text class="petit" x="420" y="169">ambiances — la rue</text>
+  <rect class="chip3" x="392" y="177" width="14" height="14" rx="3"/>
+  <text class="lbl-b" x="420" y="188">Lointain</text>
+  <text class="petit" x="420" y="205">fond du lieu — oiseaux</text>
+  <text class="note" x="360" y="246" text-anchor="middle">Unique et situé : un paysage sonore n'est pas un décor, c'est une écoute.</text>
+</svg>

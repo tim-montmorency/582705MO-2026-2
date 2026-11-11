@@ -40,9 +40,12 @@ Documentation Krita (2026). Krita — l'animation 2D.. https://docs.krita.org/fr
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
+- [A beginner's journey to Animator Island — Krita Artists](../../../sites/krita-artists-styxcolor-animator-island/)
 - [Krita — le panneau Courbes d'animation](../krita-animation-curves/)
 - [Krita — la chronologie d'animation](../krita-animation-timeline/)
+- [Krita — l'audio pour l'animation](../krita-audio-animation/)
 - [Krita — le panneau Pelures d'oignon](../krita-onion-skin/)
+- [Krita — le rendu de l'animation et FFmpeg](../krita-render-animation/)
 - [Krita — le panneau Storyboard](../krita-storyboard-docker/)
 - [05](../../../../01-deroulement/05/)
 - [06](../../../../01-deroulement/06/)

@@ -36,5 +36,5 @@ Quaternius — assets 3D CC0.. https://quaternius.com/.
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-_Aucune citation pour l'instant._
+- [ambientCG — textures et HDRIs CC0](../ambientcg/)
 <!-- end-replace-mediagraphie-cited-by -->

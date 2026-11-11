@@ -39,5 +39,7 @@ Poly Haven (2026). Poly Haven — assets 3D CC0.. https://polyhaven.com.
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
+- [ambientCG — textures et HDRIs CC0](../ambientcg/)
+- [Openclipart — cliparts libres (CC0)](../openclipart/)
 - [Les banques de ressources libres](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/04-banques-ressources-libres/)
 <!-- end-replace-mediagraphie-cited-by -->

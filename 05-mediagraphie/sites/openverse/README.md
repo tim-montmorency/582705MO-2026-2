@@ -39,6 +39,7 @@ WordPress (2026). Openverse — moteur d'images libres.. https://openverse.org.
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
+- [Openclipart — cliparts libres (CC0)](../openclipart/)
 - [02](../../../01-deroulement/02/)
 - [Exercice — Photomontage non destructif](../../../02-activites/01/exercices/02-photomontage/)
 - [Les banques de ressources libres](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/04-banques-ressources-libres/)

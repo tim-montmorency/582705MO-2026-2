@@ -37,6 +37,7 @@ _Aucune citation pour l'instant._
 
 <!-- start-replace-mediagraphie-related -->
 - [Kenney — assets CC0 pour jeux](../../sites/kenney/ "Des milliers d'assets de jeux sous CC0 : tuiles, personnages, icônes, interfaces — sans attribution requise.") [Kenney](https://kenney.nl/)
+- [BBC (2026) - BBC Sound Effects — bruitages et ambiances](../../sites/bbc-sound-effects/ "Plus de 30 000 effets sonores de la BBC, gratuits pour les projets personnels et éducatifs — bruitages, ambiances et matières pour le paysage sonore et le mont…") [Sound Effects](https://sound-effects.bbcrewind.co.uk/)
 - [Fraden, Jacob (2010) - Handbook of Modern Sensors: Physics, Designs, and Applications](../../livres/fraden-handbook-of-modern-sensors/ "L'encyclopédie des capteurs : physique, conception, applications — texte principal du cours MIT MAS.836.") [Link](https://link.springer.com/book/10.1007/978-1-4419-6466-3)
 - [MIT OpenCourseWare (2020) - Introduction to Computational Thinking — MIT](../../sites/pensee-computationnelle-mit/ "Visualisation, art génératif et création par le code (Julia) — le plus proche d'un cours de code créatif.") [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-s191-introduction-to-computational-thinking-fall-2020/)
 - [Mozilla (2026) - MDN Web Docs — la référence du Web](../../sites/mdn-web-docs/ "La documentation de référence pour HTML, CSS et JavaScript — maintenue par Mozilla, librement accessible.") [MDN](https://developer.mozilla.org/fr/)

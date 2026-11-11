@@ -40,6 +40,10 @@ Wikilivres (2026). Les principes de l'animation traditionnelle (dessin animé) �
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
+- [51 Great Animation Exercises to Master — Animator Island](../animator-island-51-exercices/)
+- [Initiation au cinéma d'animation — Upopi](../upopi-initiation-animation/)
+- [12 principes de base de l'animation — Wikipédia](../wikipedia-12-principes-animation/)
+- [Technique d'animation — Wikipédia](../wikipedia-technique-animation/)
 - [05](../../../01-deroulement/05/)
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
 - [Principe — Écrasement et étirement (squash & stretch)](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/05-principes-animation/01-squash-stretch/)
@@ -56,3 +60,11 @@ Wikilivres (2026). Les principes de l'animation traditionnelle (dessin animé) �
 - [Principe — Charisme (appeal)](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/05-principes-animation/12-charisme/)
 - [Les principes de l'animation](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/05-principes-animation/)
 <!-- end-replace-mediagraphie-cited-by -->
+
+---
+
+Le livre **libre** (CC BY-SA) des douze principes de l'animation traditionnelle, chapitre par chapitre : **squash et stretch**, **anticipation**, **staging**, **toute l'action d'un coup / partie par partie**, **retards (overlap et follow-through)**, **accélération et ralentissement**, **trajectoire arquée**, **actions secondaires**, **timing et spacing**, **exagération**, **dessin solide**, **charisme et attraction**. Une introduction de référence, en français, aux concepts qui structurent tout mouvement animé — quelle que soit la technique ou le logiciel.
+
+- [Lire sur Wikilivres](https://fr.wikibooks.org/wiki/Les_principes_de_l%27animation_traditionnelle_(dessin_anim%C3%A9))
+
+> **VOIR AUSSI** — [12 principes de base de l'animation — Wikipédia](../wikipedia-12-principes-animation/) · [Technique d'animation — Wikipédia](../wikipedia-technique-animation/) · [Initiation au cinéma d'animation — Upopi](../upopi-initiation-animation/)

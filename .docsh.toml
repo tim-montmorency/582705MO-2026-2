@@ -4,7 +4,7 @@
 # root or use a custom domain; for subpath hosting see the README.
 
 [exclude]
-dirs = ["docsh", "favicon", "vendor", "plan-de-cours-typ"]
+dirs = ["docsh", "favicon", "vendor", "plan-de-cours-typ", "_sources"]
 
 [generators.typst]
 pdf_name = "{numero}-{titre}-{session}-{auteur}"

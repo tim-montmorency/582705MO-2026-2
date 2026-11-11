@@ -45,4 +45,5 @@ McLaren, Norman (1940). Boogie-Doodle — Norman McLaren. Office national du fil
 
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
+- [Exercice — Voir le son](../../../02-activites/03/exercices/14-visualiser-le-son/)
 <!-- end-replace-mediagraphie-cited-by -->

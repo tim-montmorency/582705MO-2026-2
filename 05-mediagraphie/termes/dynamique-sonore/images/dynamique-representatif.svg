@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="Dynamique : avant compression, l'écart entre les passages faibles et les crêtes est large ; après compression, les crêtes baissent et les passages faibles remontent">
+  <title>La dynamique — l'écart entre le plus faible et le plus fort</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+    .lbl-b { font:700 12px sans-serif; fill:#3c4043; }
+    .petit { font:11px sans-serif; fill:#5f6368; }
+    .vr { fill:#6aa84f; }
+    .rr { fill:#b81c1c; }
+    .axe { stroke:#9aa0a6; stroke-width:2; fill:none; }
+    .grille { stroke:#e8eaed; stroke-width:1; }
+    .niv { stroke:#dadce0; stroke-width:1; }
+    .repere { stroke:#3c4043; stroke-width:2; stroke-dasharray:5 4; }
+    .c1 { fill:none; stroke:#b81c1c; stroke-width:2.5; }
+    .c2 { fill:none; stroke:#2a6fdb; stroke-width:2.5; }
+    .c3 { fill:none; stroke:#6aa84f; stroke-width:2.5; }
+    .point { fill:#b81c1c; }
+    .pt1 { fill:#b81c1c; }
+    .pt2 { fill:#e69138; }
+    .pt3 { fill:#6aa84f; }
+    .chip1 { fill:#b81c1c; }
+    .chip2 { fill:#e69138; }
+    .chip3 { fill:#6aa84f; }
+  
+    /* variante sombre : le site suit prefers-color-scheme */
+    @media (prefers-color-scheme: dark) {
+      .axe { fill:none; stroke:#7c7c94; }
+      .c1 { fill:none; stroke:#e08181; }
+      .c2 { fill:none; stroke:#7aa7ee; }
+      .c3 { fill:none; stroke:#8fce74; }
+      .chip1 { fill:#e08181; }
+      .chip2 { fill:#eda85c; }
+      .chip3 { fill:#8fce74; }
+      .grille { stroke:#2b2b3c; }
+      .lbl { fill:#dcdcea; }
+      .lbl-b { fill:#dcdcea; }
+      .niv { stroke:#35354a; }
+      .note { fill:#b3b3c6; }
+      .petit { fill:#b3b3c6; }
+      .point { fill:#e08181; }
+      .pt1 { fill:#e08181; }
+      .pt2 { fill:#eda85c; }
+      .pt3 { fill:#8fce74; }
+      .repere { stroke:#dcdcea; }
+      .rr { fill:#e08181; }
+      .sous { fill:#b3b3c6; }
+      .titre { fill:#dcdcea; }
+      .vr { fill:#8fce74; }
+      [fill="#5f6368"] { fill:#b3b3c6; }
+      [stroke="#5f6368"] { stroke:#b3b3c6; }
+    }
+  </style>
+  <text class="titre" x="360" y="26" text-anchor="middle">La dynamique — l'écart entre le plus faible et le plus fort</text>
+  <text class="sous" x="360" y="46" text-anchor="middle">la compression réduit les crêtes et remonte les passages faibles</text>
+  <text class="lbl" x="190" y="74" text-anchor="middle">Avant — dynamique large</text>
+  <text class="lbl" x="530" y="74" text-anchor="middle">Après compression</text>
+  <path class="grille" d="M 60 150 H 320 M 400 150 H 660"/>
+  <path class="c2" d="M 60.0 96.0 L 70.0 101.5 L 80.0 115.3 L 90.0 130.5 L 100.0 139.4 L 110.0 137.5 L 120.0 125.8 L 130.0 110.2 L 140.0 98.5 L 150.0 96.6 L 160.0 105.5 L 170.0 120.7 L 180.0 134.5 L 190.0 140.0 L 200.0 134.5 L 210.0 120.7 L 220.0 105.5 L 230.0 96.6 L 240.0 98.5 L 250.0 110.2 L 260.0 125.8 L 270.0 137.5 L 280.0 139.4 L 290.0 130.5 L 300.0 115.3 L 310.0 101.5 L 320.0 96.0 L 320.0 204.0 L 310.0 198.5 L 300.0 184.7 L 290.0 169.5 L 280.0 160.6 L 270.0 162.5 L 260.0 174.2 L 250.0 189.8 L 240.0 201.5 L 230.0 203.4 L 220.0 194.5 L 210.0 179.3 L 200.0 165.5 L 190.0 160.0 L 180.0 165.5 L 170.0 179.3 L 160.0 194.5 L 150.0 203.4 L 140.0 201.5 L 130.0 189.8 L 120.0 174.2 L 110.0 162.5 L 100.0 160.6 L 90.0 169.5 L 80.0 184.7 L 70.0 198.5 L 60.0 204.0"/>
+  <path class="c1" d="M 400.0 114.0 L 410.0 115.8 L 420.0 120.2 L 430.0 125.0 L 440.0 127.8 L 450.0 127.2 L 460.0 123.5 L 470.0 118.5 L 480.0 114.8 L 490.0 114.2 L 500.0 117.0 L 510.0 121.8 L 520.0 126.2 L 530.0 128.0 L 540.0 126.2 L 550.0 121.8 L 560.0 117.0 L 570.0 114.2 L 580.0 114.8 L 590.0 118.5 L 600.0 123.5 L 610.0 127.2 L 620.0 127.8 L 630.0 125.0 L 640.0 120.2 L 650.0 115.8 L 660.0 114.0 L 660.0 186.0 L 650.0 184.2 L 640.0 179.8 L 630.0 175.0 L 620.0 172.2 L 610.0 172.8 L 600.0 176.5 L 590.0 181.5 L 580.0 185.2 L 570.0 185.8 L 560.0 183.0 L 550.0 178.2 L 540.0 173.8 L 530.0 172.0 L 520.0 173.8 L 510.0 178.2 L 500.0 183.0 L 490.0 185.8 L 480.0 185.2 L 470.0 181.5 L 460.0 176.5 L 450.0 172.8 L 440.0 172.2 L 430.0 175.0 L 420.0 179.8 L 410.0 184.2 L 400.0 186.0"/>
+  <g stroke="#5f6368" stroke-width="1.5" fill="none"><path d="M 46 96 V 204"/><path d="M 46 96 l -4 6 h 8 z" fill="#5f6368" stroke="none"/><path d="M 46 204 l -4 -6 h 8 z" fill="#5f6368" stroke="none"/></g>
+  <text class="petit" x="37" y="150" text-anchor="middle" transform="rotate(-90 37 150)">écart</text>
+  <g stroke="#5f6368" stroke-width="1.5" fill="none"><path d="M 386 114 V 186"/><path d="M 386 114 l -4 6 h 8 z" fill="#5f6368" stroke="none"/><path d="M 386 186 l -4 -6 h 8 z" fill="#5f6368" stroke="none"/></g>
+  <text class="petit" x="377" y="150" text-anchor="middle" transform="rotate(-90 377 150)">écart réduit</text>
+  <text class="note" x="360" y="234" text-anchor="middle">Préserver la dynamique à l'enregistrement ; compresser seulement pour la diffusion.</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="Synthèse granulaire : des milliers de grains de quelques millisecondes forment une texture">
+  <title>La synthèse granulaire — un nuage de grains</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .axe { stroke:#9aa0a6; stroke-width:2; fill:none; }
+    .courbe { stroke:#b81c1c; stroke-width:2.5; fill:none; }
+    .courbe2 { stroke:#2a6fdb; stroke-width:2.5; fill:none; }
+    .courbe3 { stroke:#6aa84f; stroke-width:2.5; fill:none; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+    .petit { font:11px sans-serif; fill:#5f6368; }
+    .bar { fill:#b81c1c; }
+    .bar2 { fill:#2a6fdb; }
+  
+    /* variante sombre : le site suit prefers-color-scheme */
+    @media (prefers-color-scheme: dark) {
+      .axe { fill:none; stroke:#7c7c94; }
+      .bar { fill:#e08181; }
+      .bar2 { fill:#7aa7ee; }
+      .courbe { fill:none; stroke:#e08181; }
+      .courbe2 { fill:none; stroke:#7aa7ee; }
+      .courbe3 { fill:none; stroke:#8fce74; }
+      .lbl { fill:#dcdcea; }
+      .note { fill:#b3b3c6; }
+      .petit { fill:#b3b3c6; }
+      .sous { fill:#b3b3c6; }
+      .titre { fill:#dcdcea; }
+    }
+  </style>
+  <text class="titre" x="360" y="26" text-anchor="middle">La synthèse granulaire — un nuage de grains</text>
+  <text class="sous" x="360" y="46" text-anchor="middle">des milliers de grains de 1 à 100 ms : la texture naît de la densité</text>
+  <line class="axe" x1="50" y1="150" x2="690" y2="150"/>
+  <rect class="bar2" x="70" y="126" width="9" height="24" rx="2" opacity="0.38"/><rect class="bar2" x="92" y="132" width="14" height="18" rx="2" opacity="0.70"/><rect class="bar2" x="104" y="129" width="12" height="21" rx="2" opacity="0.67"/><rect class="bar2" x="125" y="132" width="13" height="18" rx="2" opacity="0.85"/><rect class="bar2" x="151" y="133" width="7" height="17" rx="2" opacity="0.76"/><rect class="bar2" x="163" y="109" width="10" height="41" rx="2" opacity="0.49"/><rect class="bar2" x="175" y="130" width="7" height="20" rx="2" opacity="0.54"/><rect class="bar2" x="198" y="83" width="4" height="67" rx="2" opacity="0.68"/><rect class="bar2" x="211" y="95" width="7" height="55" rx="2" opacity="0.36"/><rect class="bar2" x="222" y="98" width="13" height="52" rx="2" opacity="0.58"/><rect class="bar2" x="244" y="121" width="4" height="29" rx="2" opacity="0.43"/><rect class="bar2" x="255" y="81" width="12" height="69" rx="2" opacity="0.41"/><rect class="bar2" x="269" y="109" width="8" height="41" rx="2" opacity="0.38"/><rect class="bar2" x="283" y="128" width="12" height="22" rx="2" opacity="0.73"/><rect class="bar2" x="302" y="83" width="12" height="67" rx="2" opacity="0.41"/><rect class="bar2" x="317" y="98" width="5" height="52" rx="2" opacity="0.47"/><rect class="bar2" x="333" y="129" width="9" height="21" rx="2" opacity="0.55"/><rect class="bar2" x="345" y="132" width="13" height="18" rx="2" opacity="0.79"/><rect class="bar2" x="361" y="92" width="11" height="58" rx="2" opacity="0.39"/><rect class="bar2" x="384" y="115" width="16" height="35" rx="2" opacity="0.57"/><rect class="bar2" x="408" y="106" width="13" height="44" rx="2" opacity="0.62"/><rect class="bar2" x="429" y="120" width="8" height="30" rx="2" opacity="0.79"/><rect class="bar2" x="444" y="86" width="15" height="64" rx="2" opacity="0.76"/><rect class="bar2" x="461" y="99" width="5" height="51" rx="2" opacity="0.78"/><rect class="bar2" x="480" y="104" width="12" height="46" rx="2" opacity="0.49"/><rect class="bar2" x="500" y="107" width="15" height="43" rx="2" opacity="0.56"/><rect class="bar2" x="519" y="131" width="13" height="19" rx="2" opacity="0.53"/><rect class="bar2" x="532" y="109" width="12" height="41" rx="2" opacity="0.79"/><rect class="bar2" x="547" y="114" width="16" height="36" rx="2" opacity="0.83"/><rect class="bar2" x="561" y="109" width="11" height="41" rx="2" opacity="0.43"/><rect class="bar2" x="572" y="131" width="14" height="19" rx="2" opacity="0.44"/><rect class="bar2" x="592" y="91" width="9" height="59" rx="2" opacity="0.47"/><rect class="bar2" x="613" y="104" width="13" height="46" rx="2" opacity="0.47"/><rect class="bar2" x="637" y="82" width="5" height="68" rx="2" opacity="0.59"/><rect class="bar2" x="649" y="105" width="8" height="45" rx="2" opacity="0.64"/>
+  <path class="courbe" d="M 74.5 120.0 L 99.0 126.0 L 110.0 123.0 L 131.5 126.0 L 154.5 127.0 L 168.0 103.0 L 178.5 124.0 L 200.0 77.0 L 214.5 89.0 L 228.5 92.0 L 246.0 115.0 L 261.0 75.0 L 273.0 103.0 L 289.0 122.0 L 308.0 77.0 L 319.5 92.0 L 337.5 123.0 L 351.5 126.0 L 366.5 86.0 L 392.0 109.0 L 414.5 100.0 L 433.0 114.0 L 451.5 80.0 L 463.5 93.0 L 486.0 98.0 L 507.5 101.0 L 525.5 125.0 L 538.0 103.0 L 555.0 108.0 L 566.5 103.0 L 579.0 125.0 L 596.5 85.0 L 619.5 98.0 L 639.5 76.0 L 653.0 99.0" opacity=".8"/>
+  <text class="lbl" x="370" y="184" text-anchor="middle">des grains courts, espacés ou superposés — la texture change</text>
+  <text class="note" x="360" y="226" text-anchor="middle">Chaque grain a sa taille, sa position, son enveloppe : le son devient une matière composable.</text>
+</svg>

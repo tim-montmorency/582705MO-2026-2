@@ -50,16 +50,24 @@ Documentation Krita (2026). Krita — le panneau Storyboard.. https://docs.krita
 ---
 > 🇫🇷 **Traduction française** de la page officielle [Storyboard Docker](https://docs.krita.org/fr/reference_manual/dockers/storyboard_docker.html) — la page source n'est pas encore traduite. Adaptation : A26.
 
+![Le panneau Storyboard — vignettes des scènes](images/Storyboard_thumbnailonly_view.png)
+
 Le **storyboard** est une suite de dessins et d'indications qui découpe un film en scènes. Ces scènes peuvent être accompagnées de textes apportant du contexte : dialogues, descriptions d'actions, détails utiles à la production. On l'utilise beaucoup pendant la **planification** d'un film, pour mieux comprendre la production et ses besoins. Il sert aussi aux équipes à discuter du déroulé scène par scène, ou à faire les changements nécessaires avant d'entrer en production.
 
 Le **panneau Storyboard** de Krita permet de développer un récit en créant et gérant des scènes : ajouter, retirer ou ajuster une scène, en insérer entre d'autres, ou les réordonner par glisser-déposer. Le contenu visuel du storyboard vit dans le système d'animation interne de Krita : on peut donc prévisualiser la séquence avec les commandes de lecture de la chronologie d'animation. Le panneau permet aussi d'**exporter** le storyboard en document — les formats pris en charge sont **SVG** et **PDF**.
 
 ## La barre d'outils
 
+![Les boutons du haut du panneau Storyboard — Export, Comment, Lock, Arrange](images/Storyboard_uper_buttons.png)
+
 - **Export** : menu déroulant des options d'export du storyboard courant. Utile pour discuter d'idées et planifier l'animation avec l'équipe, ou présenter ses idées à un client. Krita exporte en `.pdf` ou `.svg`.
 - **Comment** (Commentaire) : menu déroulant listant les champs de commentaires des éléments du storyboard — bouton **Delete Comment** et bouton **Add Comment**. On peut ajouter, retirer ou changer la visibilité des champs ; l'ordre se réordonne par glisser-déposer. Les actions s'appliquent à toutes les entrées du panneau.
 - **Lock** (Verrouiller) : fige le panneau dans son état courant. Une fois activé, les vignettes, commentaires, durées et numéros d'images ne changent plus ; le réordonnancement par glisser-déposer est désactivé. Utile pour préserver l'état du storyboard même en modifiant l'image.
 - **Arrange** (Disposer) : menu déroulant des options d'affichage et de mode, qui changent l'agencement des scènes dans le panneau.
+
+![Le menu Comment — champs de commentaires et boutons Delete/Add Comment](images/Storyboard_comment.png)
+
+![Le menu Arrange — options d'affichage et de mode](images/Storyboard_arrange.png)
 
 ## La scène de storyboard
 
@@ -83,10 +91,22 @@ Les options **View** (affichage) et **Mode** sont accessibles via le menu **Arra
 - **Comments Only** : seulement les commentaires.
 - **All** : tous les éléments.
 
+![Affichage « Thumbnail Only » — seulement les vignettes](images/Storyboard_thumbnailonly_view.png)
+
+![Affichage « Comments Only » — seulement les commentaires](images/Storyboard_commentonly_view.png)
+
+![Affichage « All » — tous les éléments de la scène](images/Storyboard_grid_mode.png)
+
 **Mode** — change l'agencement visuel des scènes :
 - **Row** : scènes en rangée, commentaires à droite de la vignette.
 - **Column** : scènes en colonne, commentaires sous la vignette.
 - **Grid** : scènes en grille ; en redimensionnant le panneau, la grille se réorganise pour afficher plus de scènes.
+
+![Mode « Row » — scènes en rangée](images/Storyboard_row_mode.png)
+
+![Mode « Column » — scènes en colonne](images/Storyboard_column_mode.png)
+
+![Mode « Grid » — scènes en grille](images/Storyboard_grid_mode.png)
 
 ## Utiliser le panneau Storyboard
 
@@ -113,10 +133,16 @@ Le bouton **Export** (en haut à gauche du panneau) ouvre le menu d'export du fo
 
 **Spécifier la disposition par options personnalisées** : lignes par page, colonnes par page, taille de page, orientation.
 
+![Les options personnalisées d'export — lignes, colonnes, taille de page et orientation](images/storyboard_custom_options.png)
+
 **Spécifier la disposition par gabarit SVG** : Krita peut utiliser un fichier gabarit SVG pour contrôler finement le placement des éléments sur la page. On peut ainsi concevoir son propre papier de storyboard, adapté à presque n'importe quel format existant. Krita est livré avec un gabarit SVG par défaut, libre à modifier ou à étudier.
+
+![Un gabarit SVG — le placement des éléments sur la page](images/storyboard_SVG_layout.png)
 
 **Nom du fichier exporté** :
 - **PDF** : choisir le nom du document exporté.
 - **SVG** : choisir le dossier de destination et un nom de base ; les fichiers exportés seront nommés `base0`, `base1`, etc.
+
+![Le dialogue d'export — choix du fichier de destination](images/storyboard_export_file.png)
 
 > **VOIR AUSSI** — [La chronologie d'animation](../krita-animation-timeline/) · [Les pelures d'oignon](../krita-onion-skin/) · [Les courbes d'animation](../krita-animation-curves/) · [Krita — l'animation 2D](../krita-animation-2d/)

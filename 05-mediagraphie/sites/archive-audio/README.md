@@ -35,5 +35,5 @@ Internet Archive — le fonds audio.. https://archive.org/details/audio.
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-_Aucune citation pour l'instant._
+- [BBC Sound Effects — bruitages et ambiances](../bbc-sound-effects/)
 <!-- end-replace-mediagraphie-cited-by -->

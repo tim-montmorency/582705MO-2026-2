@@ -39,5 +39,5 @@ Blender Foundation (2026). Blender Studio — open movies et formations.. https:
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-_Aucune citation pour l'instant._
+- [Prelinger Archives — films éphémères du domaine public](../prelinger-archives/)
 <!-- end-replace-mediagraphie-cited-by -->

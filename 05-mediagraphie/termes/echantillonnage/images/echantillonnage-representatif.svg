@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="Échantillonnage : une onde continue mesurée à intervalles réguliers">
+  <title>Échantillonner — mesurer l'onde à intervalles réguliers</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .axe { stroke:#9aa0a6; stroke-width:2; fill:none; }
+    .grille { stroke:#e8eaed; stroke-width:1; }
+    .courbe { stroke:#b81c1c; stroke-width:2.5; fill:none; }
+    .courbe2 { stroke:#2a6fdb; stroke-width:2.5; fill:none; }
+    .courbe3 { stroke:#6aa84f; stroke-width:2.5; fill:none; }
+    .point { fill:#b81c1c; }
+    .niv { stroke:#dadce0; stroke-width:1; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+  
+    /* variante sombre : le site suit prefers-color-scheme */
+    @media (prefers-color-scheme: dark) {
+      .axe { fill:none; stroke:#7c7c94; }
+      .courbe { fill:none; stroke:#e08181; }
+      .courbe2 { fill:none; stroke:#7aa7ee; }
+      .courbe3 { fill:none; stroke:#8fce74; }
+      .grille { stroke:#2b2b3c; }
+      .lbl { fill:#dcdcea; }
+      .niv { stroke:#35354a; }
+      .note { fill:#b3b3c6; }
+      .point { fill:#e08181; }
+      .sous { fill:#b3b3c6; }
+      .titre { fill:#dcdcea; }
+    }
+  </style>
+  <text class="titre" x="360" y="26" text-anchor="middle">Échantillonner — mesurer l'onde à intervalles réguliers</text>
+  <text class="sous" x="360" y="44" text-anchor="middle">l'onde continue devient une suite de mesures</text>
+  <path class="axe" d="M 50 190 H 680 M 50 190 V 60"/>
+  <line class="grille" x1="50" y1="60" x2="50" y2="190"/><line class="grille" x1="80" y1="60" x2="80" y2="190"/><line class="grille" x1="110" y1="60" x2="110" y2="190"/><line class="grille" x1="140" y1="60" x2="140" y2="190"/><line class="grille" x1="170" y1="60" x2="170" y2="190"/><line class="grille" x1="200" y1="60" x2="200" y2="190"/><line class="grille" x1="230" y1="60" x2="230" y2="190"/><line class="grille" x1="260" y1="60" x2="260" y2="190"/><line class="grille" x1="290" y1="60" x2="290" y2="190"/><line class="grille" x1="320" y1="60" x2="320" y2="190"/><line class="grille" x1="350" y1="60" x2="350" y2="190"/><line class="grille" x1="380" y1="60" x2="380" y2="190"/><line class="grille" x1="410" y1="60" x2="410" y2="190"/><line class="grille" x1="440" y1="60" x2="440" y2="190"/><line class="grille" x1="470" y1="60" x2="470" y2="190"/><line class="grille" x1="500" y1="60" x2="500" y2="190"/><line class="grille" x1="530" y1="60" x2="530" y2="190"/><line class="grille" x1="560" y1="60" x2="560" y2="190"/><line class="grille" x1="590" y1="60" x2="590" y2="190"/><line class="grille" x1="620" y1="60" x2="620" y2="190"/><line class="grille" x1="650" y1="60" x2="650" y2="190"/><line class="grille" x1="680" y1="60" x2="680" y2="190"/>
+  <path class="courbe2" d="M 50.0 125.0 L 53.0 119.3 L 56.0 113.6 L 59.0 108.0 L 62.0 102.6 L 65.0 97.5 L 68.0 92.7 L 71.0 88.2 L 74.0 84.1 L 77.0 80.5 L 80.0 77.4 L 83.0 74.8 L 86.0 72.7 L 89.0 71.2 L 92.0 70.3 L 95.0 70.0 L 98.0 70.3 L 101.0 71.2 L 104.0 72.7 L 107.0 74.8 L 110.0 77.4 L 113.0 80.5 L 116.0 84.1 L 119.0 88.2 L 122.0 92.7 L 125.0 97.5 L 128.0 102.6 L 131.0 108.0 L 134.0 113.6 L 137.0 119.3 L 140.0 125.0 L 143.0 130.7 L 146.0 136.4 L 149.0 142.0 L 152.0 147.4 L 155.0 152.5 L 158.0 157.3 L 161.0 161.8 L 164.0 165.9 L 167.0 169.5 L 170.0 172.6 L 173.0 175.2 L 176.0 177.3 L 179.0 178.8 L 182.0 179.7 L 185.0 180.0 L 188.0 179.7 L 191.0 178.8 L 194.0 177.3 L 197.0 175.2 L 200.0 172.6 L 203.0 169.5 L 206.0 165.9 L 209.0 161.8 L 212.0 157.3 L 215.0 152.5 L 218.0 147.4 L 221.0 142.0 L 224.0 136.4 L 227.0 130.7 L 230.0 125.0 L 233.0 119.3 L 236.0 113.6 L 239.0 108.0 L 242.0 102.6 L 245.0 97.5 L 248.0 92.7 L 251.0 88.2 L 254.0 84.1 L 257.0 80.5 L 260.0 77.4 L 263.0 74.8 L 266.0 72.7 L 269.0 71.2 L 272.0 70.3 L 275.0 70.0 L 278.0 70.3 L 281.0 71.2 L 284.0 72.7 L 287.0 74.8 L 290.0 77.4 L 293.0 80.5 L 296.0 84.1 L 299.0 88.2 L 302.0 92.7 L 305.0 97.5 L 308.0 102.6 L 311.0 108.0 L 314.0 113.6 L 317.0 119.3 L 320.0 125.0 L 323.0 130.7 L 326.0 136.4 L 329.0 142.0 L 332.0 147.4 L 335.0 152.5 L 338.0 157.3 L 341.0 161.8 L 344.0 165.9 L 347.0 169.5 L 350.0 172.6 L 353.0 175.2 L 356.0 177.3 L 359.0 178.8 L 362.0 179.7 L 365.0 180.0 L 368.0 179.7 L 371.0 178.8 L 374.0 177.3 L 377.0 175.2 L 380.0 172.6 L 383.0 169.5 L 386.0 165.9 L 389.0 161.8 L 392.0 157.3 L 395.0 152.5 L 398.0 147.4 L 401.0 142.0 L 404.0 136.4 L 407.0 130.7 L 410.0 125.0 L 413.0 119.3 L 416.0 113.6 L 419.0 108.0 L 422.0 102.6 L 425.0 97.5 L 428.0 92.7 L 431.0 88.2 L 434.0 84.1 L 437.0 80.5 L 440.0 77.4 L 443.0 74.8 L 446.0 72.7 L 449.0 71.2 L 452.0 70.3 L 455.0 70.0 L 458.0 70.3 L 461.0 71.2 L 464.0 72.7 L 467.0 74.8 L 470.0 77.4 L 473.0 80.5 L 476.0 84.1 L 479.0 88.2 L 482.0 92.7 L 485.0 97.5 L 488.0 102.6 L 491.0 108.0 L 494.0 113.6 L 497.0 119.3 L 500.0 125.0 L 503.0 130.7 L 506.0 136.4 L 509.0 142.0 L 512.0 147.4 L 515.0 152.5 L 518.0 157.3 L 521.0 161.8 L 524.0 165.9 L 527.0 169.5 L 530.0 172.6 L 533.0 175.2 L 536.0 177.3 L 539.0 178.8 L 542.0 179.7 L 545.0 180.0 L 548.0 179.7 L 551.0 178.8 L 554.0 177.3 L 557.0 175.2 L 560.0 172.6 L 563.0 169.5 L 566.0 165.9 L 569.0 161.8 L 572.0 157.3 L 575.0 152.5 L 578.0 147.4 L 581.0 142.0 L 584.0 136.4 L 587.0 130.7 L 590.0 125.0 L 593.0 119.3 L 596.0 113.6 L 599.0 108.0 L 602.0 102.6 L 605.0 97.5 L 608.0 92.7 L 611.0 88.2 L 614.0 84.1 L 617.0 80.5 L 620.0 77.4 L 623.0 74.8 L 626.0 72.7 L 629.0 71.2 L 632.0 70.3 L 635.0 70.0 L 638.0 70.3 L 641.0 71.2 L 644.0 72.7 L 647.0 74.8 L 650.0 77.4 L 653.0 80.5 L 656.0 84.1 L 659.0 88.2 L 662.0 92.7 L 665.0 97.5 L 668.0 102.6 L 671.0 108.0 L 674.0 113.6 L 677.0 119.3 L 680.0 125.0"/>
+  <circle class="point" cx="50" cy="125.0" r="4"/><circle class="point" cx="80" cy="77.4" r="4"/><circle class="point" cx="110" cy="77.4" r="4"/><circle class="point" cx="140" cy="125.0" r="4"/><circle class="point" cx="170" cy="172.6" r="4"/><circle class="point" cx="200" cy="172.6" r="4"/><circle class="point" cx="230" cy="125.0" r="4"/><circle class="point" cx="260" cy="77.4" r="4"/><circle class="point" cx="290" cy="77.4" r="4"/><circle class="point" cx="320" cy="125.0" r="4"/><circle class="point" cx="350" cy="172.6" r="4"/><circle class="point" cx="380" cy="172.6" r="4"/><circle class="point" cx="410" cy="125.0" r="4"/><circle class="point" cx="440" cy="77.4" r="4"/><circle class="point" cx="470" cy="77.4" r="4"/><circle class="point" cx="500" cy="125.0" r="4"/><circle class="point" cx="530" cy="172.6" r="4"/><circle class="point" cx="560" cy="172.6" r="4"/><circle class="point" cx="590" cy="125.0" r="4"/><circle class="point" cx="620" cy="77.4" r="4"/><circle class="point" cx="650" cy="77.4" r="4"/><circle class="point" cx="680" cy="125.0" r="4"/>
+  <text class="lbl" x="14" y="125" text-anchor="middle" transform="rotate(-90 14 125)">amplitude</text>
+  <text class="sous" x="680" y="208" text-anchor="end">temps →</text>
+  <text class="note" x="360" y="240" text-anchor="middle">48 000 mesures par seconde en vidéo — 44 100 pour le CD : l'onde devient une suite de nombres.</text>
+</svg>

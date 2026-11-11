@@ -53,4 +53,5 @@ McLaren, Norman (1971). Synchromie — Norman McLaren. Office national du film d
 - [Exercice — Synchronisation son/image](../../../02-activites/03/exercices/09-synchronisation-son-image/)
 - [Exercice — Transformer un son](../../../02-activites/03/exercices/10-transformer-un-son/)
 - [Exercice — Sonoriser une animation](../../../02-activites/03/exercices/11-sonoriser-une-animation/)
+- [Exercice — Voir le son](../../../02-activites/03/exercices/14-visualiser-le-son/)
 <!-- end-replace-mediagraphie-cited-by -->

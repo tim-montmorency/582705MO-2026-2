@@ -18,6 +18,8 @@ description: "Un exercice par sous-concept exploré — chaque fiche liste plusi
 * [Exercice — Transformer un son](./10-transformer-un-son/)
 * [Exercice — Sonoriser une animation](./11-sonoriser-une-animation/)
 * [Exercice — Composer dans MuseScore](./12-composition-musescore/)
+* [Exercice — Maquette sonore (sons de bouche)](./13-maquette-sonore/)
+* [Exercice — Voir le son](./14-visualiser-le-son/)
 <!-- end-replace-subnav -->
 
 Un exercice par sous-concept exploré — chaque fiche liste plusieurs tutoriels et plusieurs logiciels ; le concept se refait dans le logiciel de son choix. Douze exercices progressifs (🟢 novice → 🔵 intermédiaire → 🔴 avancé) préparent les deux options de l'[EVS 3](../../../04-evaluations/sommatives/03/) : la **sonorisation d'une animation** (exercices 9 à 11) et le **paysage sonore** (exercice 8, étendu pour le projet final).

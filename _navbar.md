@@ -2,4 +2,5 @@
 <!-- start-replace-navbar maxdepth="1" -->
 * [<!-- %: TITRE -->Introduction à la création multimédia - Gr.02<!-- %; -->](/00-plan-de-cours/ "<!-- %: TITRE -->Introduction à la création multimédia - Gr.02<!-- %; -->")
 * [Médiagraphie du cours](/05-mediagraphie/ "La médiagraphie du cours — les références citées par les savoirs, les séances, les activités et les évaluations.")
+* [Médiagraphie du cours](/05-mediagraphie-old/ "La médiagraphie du cours — les références citées par les savoirs, les séances, les activités et les évaluations.")
 <!-- end-replace-navbar -->

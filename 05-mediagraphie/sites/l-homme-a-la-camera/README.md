@@ -52,3 +52,9 @@ Dziga Vertov (1929). L'Homme à la caméra — Dziga Vertov (1929). VUFKU. https
 - [Exercice — Montage : coupes et fondus](../../../02-activites/03/exercices/06-montage-coupes-fondus/)
 - [L'image en mouvement — du cinéma expérimental à l'animation](../../../03-savoirs/01-reconnaitre/01-evolution-artistique/02-video-animation/)
 <!-- end-replace-mediagraphie-cited-by -->
+
+## Sources
+
+<!-- start-replace-mediagraphie-sources -->
+- [L'Homme à la caméra (1929) — film complet (Wikipédia)](https://en.wikipedia.org/wiki/File:%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D1%81_%D0%BA%D0%B8%D0%BD%D0%BE%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%BC_(1929).webm)
+<!-- end-replace-mediagraphie-sources -->

@@ -45,3 +45,18 @@ kdsketch (2025). How To Animate In Krita For Beginners - FREE 2D Animation Softw
 <!-- start-replace-mediagraphie-cited-by -->
 _Aucune citation pour l'instant._
 <!-- end-replace-mediagraphie-cited-by -->
+
+## Chapitres
+
+- [0:00 — Télécharger Krita gratuitement](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=0s)
+- [0:40 — Les fichiers de projet d'animation](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=40s)
+- [0:48 — Préparer Krita pour l'animation](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=48s)
+- [3:19 — Ajouter des images clés](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=199s)
+- [3:50 — Déplacer les barres d'outils](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=230s)
+- [4:22 — Utiliser la chronologie d'animation](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=262s)
+- [6:22 — Mes réglages de pelures d'oignon](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=382s)
+- [7:02 — Démonstration d'animation pas à pas](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=422s)
+- [20:40 — Ajouter des raccourcis d'animation](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=1240s)
+- [22:33 — Coloriser une animation](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=1353s)
+- [25:45 — Exporter l'animation](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=1545s)
+- [28:01 — Sauvegarder l'animation](https://www.youtube.com/watch?v=T8QNN3NGFpE&t=1681s)

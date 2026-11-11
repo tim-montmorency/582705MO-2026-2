@@ -61,7 +61,7 @@ Les opérations de base, comparées à PS.
 
 Dans Krita, on navigue de plusieurs façons :
 
-1. **Molette** : vers le bas et le haut pour le zoom ; bouton du milieu enfoncé pour déplacer le document.
+1. **Molette** ![molette de la souris](images/Krita_mouse_scroll.png) : vers le bas et le haut pour le zoom ; bouton du milieu ![bouton du milieu de la souris](images/Krita_mouse_middle.png) enfoncé pour déplacer le document.
 2. **Clavier** : les touches + et − du pavé numérique.
 3. Comme dans Photoshop, Painter, Manga Studio : `Ctrl + Espace` pour zoomer, `Espace` pour déplacer. Avec `Ctrl + Alt + Espace`, un zoom discret (pas à pas).
 

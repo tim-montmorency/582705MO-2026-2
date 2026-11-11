@@ -38,6 +38,15 @@ Upopi — Ciclic (2026). Initiation au cinéma d'animation — Upopi.. https://u
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
+- [Les principes de l'animation traditionnelle (dessin animé) — Wikilivres](../principes-animation-wikilivres/)
 - [05](../../../01-deroulement/05/)
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
 <!-- end-replace-mediagraphie-cited-by -->
+
+---
+
+Ressource éducative francophone de **Ciclic (Upopi)** pour **introduire le cinéma d'animation** : les techniques (image par image, film direct, pixilation, volume), des extraits de films et des pistes d'ateliers. Un complément pédagogique concret à la théorie des principes.
+
+- [Lire sur Upopi](https://upopi.ciclic.fr/dispositifs-educatifs-upopi/ressources-educatives-upopi/initiation-au-cinema-danimation)
+
+> **VOIR AUSSI** — [Les principes de l'animation traditionnelle — Wikilivres](../principes-animation-wikilivres/) · [12 principes de base de l'animation — Wikipédia](../wikipedia-12-principes-animation/)

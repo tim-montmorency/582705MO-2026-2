@@ -44,3 +44,21 @@ Winged Canvas (2023). How to Animate in KRITA for Beginners!.. https://www.youtu
 <!-- start-replace-mediagraphie-cited-by -->
 _Aucune citation pour l'instant._
 <!-- end-replace-mediagraphie-cited-by -->
+
+## Chapitres
+
+- [0:00 — Introduction à Krita](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=0s)
+- [0:31 — Créer un document](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=31s)
+- [1:19 — Passer à l'espace de travail Animation](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=79s)
+- [2:22 — Naviguer dans la chronologie](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=142s)
+- [3:23 — Les pelures d'oignon](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=203s)
+- [4:58 — Image clé suivante / précédente](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=298s)
+- [5:16 — Déplacer des images](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=316s)
+- [5:58 — Supprimer et dupliquer des images](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=358s)
+- [6:45 — Déposer des images clés](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=405s)
+- [7:14 — Réglages des pelures d'oignon](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=434s)
+- [8:17 — Importer de l'audio](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=497s)
+- [8:27 — Zoom avant et arrière](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=507s)
+- [8:42 — Régler la cadence](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=522s)
+- [9:11 — Images automatiques (Auto Frame)](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=551s)
+- [10:18 — Exporter une animation](https://www.youtube.com/watch?v=oXMCmiT_wxA&t=618s)

@@ -36,5 +36,5 @@ Kenney — assets CC0 pour jeux.. https://kenney.nl/.
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-_Aucune citation pour l'instant._
+- [ambientCG — textures et HDRIs CC0](../ambientcg/)
 <!-- end-replace-mediagraphie-cited-by -->

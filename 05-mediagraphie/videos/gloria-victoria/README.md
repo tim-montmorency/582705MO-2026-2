@@ -47,4 +47,5 @@ Ushev, Theodore (2013). Gloria Victoria — Theodore Ushev. Office national du f
 - [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
 - [Exercice — Mixage multipiste](../../../02-activites/03/exercices/07-mixage-multipiste/)
 - [Exercice — Sonoriser une animation](../../../02-activites/03/exercices/11-sonoriser-une-animation/)
+- [Exercice — Voir le son](../../../02-activites/03/exercices/14-visualiser-le-son/)
 <!-- end-replace-mediagraphie-cited-by -->

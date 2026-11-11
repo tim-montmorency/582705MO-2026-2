@@ -118,7 +118,7 @@ Cyan, magenta, jaune, clé
 
 Ceci est l'espace colorimétrique des imprimantes. Contrairement aux ordinateurs, les imprimantes possèdent ces quatre couleurs et en les ajoutant toutes ensemble, vous obtenez du noir au lieu du blanc. Ceci est alors appelé un espace colorimétrique « soustractif ».
 
-Modifié dans la version 5.2: Krita 5.1 and older had the blending modes apply direct on the channels. Not all software does this, and thus, to make it simpler to work together with other artists, Krita 5.2 by default inverts the channels before applying the blending mode. You can control this in the [preferences](../../reference_manual/preferences/general_settings.html#tool-options-settings).
+Modifié dans la version 5.2: Krita 5.1 and older had the blending modes apply direct on the channels. Not all software does this, and thus, to make it simpler to work together with other artists, Krita 5.2 by default inverts the channels before applying the blending mode. You can control this in the [preferences](https://docs.krita.org/fr/reference_manual/preferences/general_settings.html#tool-options-settings).
 
 |  | Couleur 1 | Couleur 2 | Normal | Multiplier | Écran |
 

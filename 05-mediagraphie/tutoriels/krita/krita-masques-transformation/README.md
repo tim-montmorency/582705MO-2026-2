@@ -101,7 +101,7 @@ Mode d'emploi : clic droit sur le calque à transformer, et ajouter un **masque 
 
 Le masque de transformation est ajouté — on le reconnaît à sa petite icône en ciseaux.
 
-Masque sélectionné, prendre l'outil de transformation et faire pivoter le calque cloné. Appliquer. Le test de réussite : masquer le masque de transformation, et le calque revient à son état d'origine !
+Masque sélectionné, prendre l'outil de transformation ![icône de l'outil de transformation](images/transform_tool.svg) et faire pivoter le calque cloné. Appliquer. Le test de réussite : masquer le masque de transformation, et le calque revient à son état d'origine !
 
 On peut même rééditer la transformation : réactiver l'outil de transformation sur un masque de transformation, la transformation d'origine réapparaît, éditable. Attention : changer d'opération de transformation réinitialise tout.
 
@@ -154,3 +154,7 @@ Faites-le pour toutes les grappes et feuilles — et peut-être toute la plante 
 Les masques de transformation fonctionnent sur les calques de peinture, vectoriels, de groupe, de clone et même de fichier. J'espère que ce tutoriel vous donne une bonne idée de leur usage — et j'espère voir les masques de transformation de plus en plus employés !
 
 Le fichier source du tutoriel est [téléchargeable ici](https://share.kde.org/public.php?service=files&t=48c601aaf17271d7ca516c44cbe8590e) pour l'examiner ! (Attention : il fige Krita en version inférieure à 2.9.4 — les accélérations de 2.9.4 viennent justement de ce fichier.)
+
+## Ressources
+
+- [Animating in Krita : Transform Mask — Wobbe Koning](../wobbe-koning/wobbe-yt-transform-mask/) — démonstration vidéo (8 min) : animer un dessin sur le canevas avec des images clés sur le masque de transformation.

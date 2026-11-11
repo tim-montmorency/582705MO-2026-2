@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260" role="img" aria-label="Quantification : l'amplitude mesurée est arrondie à un niveau">
+  <title>Quantifier — arrondir l'amplitude à une échelle finie</title>
+  <style>
+    .titre { font:700 15px sans-serif; fill:#3c4043; }
+    .sous { font:13px sans-serif; fill:#5f6368; }
+    .note { font:13px sans-serif; fill:#5f6368; }
+    .axe { stroke:#9aa0a6; stroke-width:2; fill:none; }
+    .grille { stroke:#e8eaed; stroke-width:1; }
+    .courbe { stroke:#b81c1c; stroke-width:2.5; fill:none; }
+    .courbe2 { stroke:#2a6fdb; stroke-width:2; fill:none; opacity:.55; }
+    .niv { stroke:#dadce0; stroke-width:1; }
+    .lbl { font:12px sans-serif; fill:#3c4043; }
+  
+    /* variante sombre : le site suit prefers-color-scheme */
+    @media (prefers-color-scheme: dark) {
+      .axe { fill:none; stroke:#7c7c94; }
+      .courbe { fill:none; stroke:#e08181; }
+      .courbe2 { fill:none; stroke:#7aa7ee; }
+      .grille { stroke:#2b2b3c; }
+      .lbl { fill:#dcdcea; }
+      .niv { stroke:#35354a; }
+      .note { fill:#b3b3c6; }
+      .sous { fill:#b3b3c6; }
+      .titre { fill:#dcdcea; }
+    }
+  </style>
+  <text class="titre" x="360" y="26" text-anchor="middle">Quantifier — arrondir l'amplitude à une échelle finie</text>
+  <text class="sous" x="360" y="44" text-anchor="middle">chaque mesure est arrondie à un niveau : la profondeur de bits</text>
+  <path class="axe" d="M 50 190 H 680 M 50 190 V 60"/>
+  <line class="niv" x1="50" y1="77" x2="680" y2="77"/><line class="niv" x1="50" y1="93" x2="680" y2="93"/><line class="niv" x1="50" y1="109" x2="680" y2="109"/><line class="niv" x1="50" y1="125" x2="680" y2="125"/><line class="niv" x1="50" y1="141" x2="680" y2="141"/><line class="niv" x1="50" y1="157" x2="680" y2="157"/><line class="niv" x1="50" y1="173" x2="680" y2="173"/>
+  <path class="courbe2" d="M 50 125.0 L 53 120.7 L 56 116.5 L 59 112.3 L 62 108.2 L 65 104.2 L 68 100.4 L 71 96.8 L 74 93.3 L 77 90.2 L 80 87.2 L 83 84.5 L 86 82.2 L 89 80.1 L 92 78.4 L 95 77.0 L 98 76.0 L 101 75.3 L 104 75.0 L 107 75.1 L 110 75.5 L 113 76.3 L 116 77.4 L 119 78.9 L 122 80.8 L 125 82.9 L 128 85.4 L 131 88.2 L 134 91.2 L 137 94.5 L 140 98.0 L 143 101.7 L 146 105.5 L 149 109.5 L 152 113.7 L 155 117.9 L 158 122.1 L 161 126.4 L 164 130.7 L 167 134.9 L 170 139.1 L 173 143.1 L 176 147.1 L 179 150.8 L 182 154.4 L 185 157.7 L 188 160.9 L 191 163.7 L 194 166.3 L 197 168.5 L 200 170.5 L 203 172.1 L 206 173.4 L 209 174.3 L 212 174.8 L 215 175.0 L 218 174.8 L 221 174.3 L 224 173.4 L 227 172.1 L 230 170.5 L 233 168.5 L 236 166.3 L 239 163.7 L 242 160.9 L 245 157.7 L 248 154.4 L 251 150.8 L 254 147.1 L 257 143.1 L 260 139.1 L 263 134.9 L 266 130.7 L 269 126.4 L 272 122.1 L 275 117.9 L 278 113.7 L 281 109.5 L 284 105.5 L 287 101.7 L 290 98.0 L 293 94.5 L 296 91.2 L 299 88.2 L 302 85.4 L 305 82.9 L 308 80.8 L 311 78.9 L 314 77.4 L 317 76.3 L 320 75.5 L 323 75.1 L 326 75.0 L 329 75.3 L 332 76.0 L 335 77.0 L 338 78.4 L 341 80.1 L 344 82.2 L 347 84.5 L 350 87.2 L 353 90.2 L 356 93.3 L 359 96.8 L 362 100.4 L 365 104.2 L 368 108.2 L 371 112.3 L 374 116.5 L 377 120.7 L 380 125.0 L 383 129.3 L 386 133.5 L 389 137.7 L 392 141.8 L 395 145.8 L 398 149.6 L 401 153.2 L 404 156.7 L 407 159.8 L 410 162.8 L 413 165.5 L 416 167.8 L 419 169.9 L 422 171.6 L 425 173.0 L 428 174.0 L 431 174.7 L 434 175.0 L 437 174.9 L 440 174.5 L 443 173.7 L 446 172.6 L 449 171.1 L 452 169.2 L 455 167.1 L 458 164.6 L 461 161.8 L 464 158.8 L 467 155.5 L 470 152.0 L 473 148.3 L 476 144.5 L 479 140.5 L 482 136.3 L 485 132.1 L 488 127.9 L 491 123.6 L 494 119.3 L 497 115.1 L 500 110.9 L 503 106.9 L 506 102.9 L 509 99.2 L 512 95.6 L 515 92.3 L 518 89.1 L 521 86.3 L 524 83.7 L 527 81.5 L 530 79.5 L 533 77.9 L 536 76.6 L 539 75.7 L 542 75.2 L 545 75.0 L 548 75.2 L 551 75.7 L 554 76.6 L 557 77.9 L 560 79.5 L 563 81.5 L 566 83.7 L 569 86.3 L 572 89.1 L 575 92.3 L 578 95.6 L 581 99.2 L 584 102.9 L 587 106.9 L 590 110.9 L 593 115.1 L 596 119.3 L 599 123.6 L 602 127.9 L 605 132.1 L 608 136.3 L 611 140.5 L 614 144.5 L 617 148.3 L 620 152.0 L 623 155.5 L 626 158.8 L 629 161.8 L 632 164.6 L 635 167.1 L 638 169.2 L 641 171.1 L 644 172.6 L 647 173.7 L 650 174.5 L 653 174.9 L 656 175.0 L 659 174.7 L 662 174.0 L 665 173.0 L 668 171.6 L 671 169.9 L 674 167.8 L 677 165.5 L 680 162.8"/>
+  <path class="courbe" d="M 50 125 L 64 125 L 64 109 L 78 109 L 78 93 L 92 93 L 92 77 L 106 77 L 106 77 L 120 77 L 120 77 L 134 77 L 134 93 L 148 93 L 148 109 L 162 109 L 162 125 L 176 125 L 176 141 L 190 141 L 190 157 L 204 157 L 204 173 L 218 173 L 218 173 L 232 173 L 232 173 L 246 173 L 246 157 L 260 157 L 260 141 L 274 141 L 274 125 L 288 125 L 288 93 L 302 93 L 302 93 L 316 93 L 316 77 L 330 77 L 330 77 L 344 77 L 344 77 L 358 77 L 358 93 L 372 93 L 372 109 L 386 109 L 386 141 L 400 141 L 400 157 L 414 157 L 414 173 L 428 173 L 428 173 L 442 173 L 442 173 L 456 173 L 456 173 L 470 173 L 470 157 L 484 157 L 484 141 L 498 141 L 498 109 L 512 109 L 512 93 L 526 93 L 526 77 L 540 77 L 540 77 L 554 77 L 554 77 L 568 77 L 568 93 L 582 93 L 582 93 L 596 93 L 596 125 L 610 125 L 610 141 L 624 141 L 624 157 L 638 157 L 638 173 L 652 173 L 652 173 L 666 173 L 666 173 L 680 173 L 680 157"/>
+  <text class="lbl" x="14" y="125" text-anchor="middle" transform="rotate(-90 14 125)">amplitude</text>
+  <text class="sous" x="680" y="208" text-anchor="end">temps →</text>
+  <text class="note" x="360" y="240" text-anchor="middle">24 bits = 16,7 millions de niveaux : l'amplitude devient un nombre, arrondi à la marche la plus proche.</text>
+</svg>

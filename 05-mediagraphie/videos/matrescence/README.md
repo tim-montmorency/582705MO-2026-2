@@ -46,4 +46,5 @@ Laferrière, Elizabeth (2026). Matrescence — Elizabeth Laferrière. Office nat
 - [Corpus sonore — montage et audio](../../../02-activites/03/corpus-sonore/)
 - [Exercice — Enregistrer sa voix](../../../02-activites/03/exercices/02-enregistrement-voix/)
 - [Exercice — Paysage sonore](../../../02-activites/03/exercices/08-paysage-sonore/)
+- [Exercice — Maquette sonore (sons de bouche)](../../../02-activites/03/exercices/13-maquette-sonore/)
 <!-- end-replace-mediagraphie-cited-by -->

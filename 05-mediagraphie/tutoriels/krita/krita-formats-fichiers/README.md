@@ -64,9 +64,9 @@ Comme règle générale, les formats peu volumineux en stockage disque soit réd
 
 Les formats vectoriels de fichiers comme « svg » sont un exemple typique de ces derniers. Ils sont de petite taille car la technologie utilisée pour leur création repose sur les mathématiques. Ainsi, ils n'enregistrent que des variables mathématiques et peuvent fournir une très haute qualité. La contre-partie est que l'ordinateur a besoin de passer beaucoup de temps pour la préparation du rendu et quelquefois, différents programmes possèdent des façons différentes d'interpréter les valeurs. De plus, les formats vectoriels de fichiers nécessitent l'utilisation de graphiques vectoriels, ce qui est une façon différente de travailler, qui n'est pas la spécialité de Krita.
 
-Les [formats de fichiers avec perte](file_formats/lossy_lossless.html#lossy-compression), comme « jpg » et « WebP » sont des exemples pour des images de faible taille sur disque, mais au prix d'une perte de qualité. Ils sont adaptés pour des types bien particuliers d'images. « Avec perte » signifie alors que le format de fichier permet un traitement rapide mais avec des pertes dans la description de votre image pour réduire sa taille.
+Les [formats de fichiers avec perte](https://docs.krita.org/fr/general_concepts/file_formats/lossy_lossless.html#lossy-compression), comme « jpg » et « WebP » sont des exemples pour des images de faible taille sur disque, mais au prix d'une perte de qualité. Ils sont adaptés pour des types bien particuliers d'images. « Avec perte » signifie alors que le format de fichier permet un traitement rapide mais avec des pertes dans la description de votre image pour réduire sa taille.
 
-Les [Formats sans perte ou avec perte](file_formats/lossy_lossless.html#lossless-compression), comme « PNG », « GIF » ou « BMP » sont en comparaison, plus volumineux en stockage disque mais beaucoup plus à même de garantir la qualité.
+Les [Formats sans perte ou avec perte](https://docs.krita.org/fr/general_concepts/file_formats/lossy_lossless.html#lossless-compression), comme « PNG », « GIF » ou « BMP » sont en comparaison, plus volumineux en stockage disque mais beaucoup plus à même de garantir la qualité.
 
 Then, there's proper working file formats like Krita's ``KRA``, Photoshop's ``PSD``, but also interchange formats like ``ORA`` and ``EXR``. These are the heaviest on the hard-drive and often require special programs to open them up, but on the other hand these are meant to keep your working environment intact, and keep all the layers and guides in them.
 
@@ -86,44 +86,44 @@ La plupart des formats sont le résultat de compromis. Il y a aussi un point imp
 
 ### Contenus
 
-- [*.bmp](file_formats/file_bmp.html)
+- [*.bmp](https://docs.krita.org/fr/general_concepts/file_formats/file_bmp.html)
 
-- [*.csv](file_formats/file_csv.html)
+- [*.csv](https://docs.krita.org/fr/general_concepts/file_formats/file_csv.html)
 
-- [*.exr](file_formats/file_exr.html)
+- [*.exr](https://docs.krita.org/fr/general_concepts/file_formats/file_exr.html)
 
-- [*.gbr](file_formats/file_gbr.html)
+- [*.gbr](https://docs.krita.org/fr/general_concepts/file_formats/file_gbr.html)
 
-- [*.gif](file_formats/file_gif.html)
+- [*.gif](https://docs.krita.org/fr/general_concepts/file_formats/file_gif.html)
 
-- [*.gih](file_formats/file_gih.html)
+- [*.gih](https://docs.krita.org/fr/general_concepts/file_formats/file_gih.html)
 
-- [*.heif et *.avif](file_formats/file_heif.html)
+- [*.heif et *.avif](https://docs.krita.org/fr/general_concepts/file_formats/file_heif.html)
 
-- [*.jpg](file_formats/file_jpeg.html)
+- [*.jpg](https://docs.krita.org/fr/general_concepts/file_formats/file_jpeg.html)
 
-- [*.jxl](file_formats/file_jxl.html)
+- [*.jxl](https://docs.krita.org/fr/general_concepts/file_formats/file_jxl.html)
 
-- [*.kpl](file_formats/file_kpl.html)
+- [*.kpl](https://docs.krita.org/fr/general_concepts/file_formats/file_kpl.html)
 
-- [*.kra](file_formats/file_kra.html)
+- [*.kra](https://docs.krita.org/fr/general_concepts/file_formats/file_kra.html)
 
-- [*.ora](file_formats/file_ora.html)
+- [*.ora](https://docs.krita.org/fr/general_concepts/file_formats/file_ora.html)
 
-- [*.pbm, *.pgm et *.ppm](file_formats/file_pbgpm.html)
+- [*.pbm, *.pgm et *.ppm](https://docs.krita.org/fr/general_concepts/file_formats/file_pbgpm.html)
 
-- [*.pdf](file_formats/file_pdf.html)
+- [*.pdf](https://docs.krita.org/fr/general_concepts/file_formats/file_pdf.html)
 
-- [*.png](file_formats/file_png.html)
+- [*.png](https://docs.krita.org/fr/general_concepts/file_formats/file_png.html)
 
-- [*.psd](file_formats/file_psd.html)
+- [*.psd](https://docs.krita.org/fr/general_concepts/file_formats/file_psd.html)
 
-- [*.hdr](file_formats/file_radiance_hdr.html)
+- [*.hdr](https://docs.krita.org/fr/general_concepts/file_formats/file_radiance_hdr.html)
 
-- [*.svg](file_formats/file_svg.html)
+- [*.svg](https://docs.krita.org/fr/general_concepts/file_formats/file_svg.html)
 
-- [*.tiff](file_formats/file_tif.html)
+- [*.tiff](https://docs.krita.org/fr/general_concepts/file_formats/file_tif.html)
 
-- [*.webp](file_formats/file_webp.html)
+- [*.webp](https://docs.krita.org/fr/general_concepts/file_formats/file_webp.html)
 
-- [Compressions d'images destructive et sans perte](file_formats/lossy_lossless.html)
+- [Compressions d'images destructive et sans perte](https://docs.krita.org/fr/general_concepts/file_formats/lossy_lossless.html)

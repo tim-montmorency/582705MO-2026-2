@@ -44,3 +44,9 @@ Keating, Larry (1976). The Artist and the Computer — Larry Keating. AT&T. http
 <!-- start-replace-mediagraphie-cited-by -->
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
 <!-- end-replace-mediagraphie-cited-by -->
+
+## À propos
+
+> « THE ARTIST AND THE COMPUTER is an excellent introductory informational film that dispels some of the "mystery" of computer-art technology, as it clarifies the necessary human input of integrity, artistic sensibilities, and aesthetics…. Ms. Schwartz's voice over narration explains what she hoped to accomplish in the excerpts from a number of her films and gives insight into the artist's problems and decisions…. I would recommend THE ARTIST AND THE COMPUTER for all grade levels, in classes on filmmaking, art appreciation, and human values. » — John Canemaker, *Film News, Animation*, jan.-févr. 1978.
+
+**Distinctions** : Cine Golden Eagle 1976 ; New York Film Festival ; USIA – Animation and Education 1977 ; Annual Creative Problem Solving Institute 1980. Projection au Museum of Modern Art (New York), 10 décembre 2012.

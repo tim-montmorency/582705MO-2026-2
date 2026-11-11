@@ -69,3 +69,13 @@ McLaren, Norman (1978). Le Mouvement image par image — Norman McLaren. Office 
 - [Exercice — Le cycle de marche](../../../02-activites/02/exercices/08-cycle-de-marche/)
 - [Exercice — Le cycle de course](../../../02-activites/02/exercices/14-cycle-de-course/)
 <!-- end-replace-mediagraphie-cited-by -->
+
+## Sources
+
+<!-- start-replace-mediagraphie-sources -->
+- [Le Mouvement image par image — 1re partie](https://www.onf.ca/film/mouvement_image_par_image_1/)
+- [Le Mouvement image par image — 2e partie](https://www.onf.ca/film/mouvement_image_par_image_2/)
+- [Le Mouvement image par image — 3e partie](https://www.onf.ca/film/mouvement_image_par_image_3/)
+- [Le Mouvement image par image — 4e partie](https://www.onf.ca/film/mouvement_image_par_image_4/)
+- [Le Mouvement image par image — 5e partie](https://www.onf.ca/film/mouvement_image_par_image_5/)
+<!-- end-replace-mediagraphie-sources -->

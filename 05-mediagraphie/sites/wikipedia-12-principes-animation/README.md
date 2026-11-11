@@ -40,6 +40,9 @@ Wikipédia (2026). 12 principes de base de l'animation — Wikipédia.. https://
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
+- [Les principes de l'animation traditionnelle (dessin animé) — Wikilivres](../principes-animation-wikilivres/)
+- [Initiation au cinéma d'animation — Upopi](../upopi-initiation-animation/)
+- [Technique d'animation — Wikipédia](../wikipedia-technique-animation/)
 - [05](../../../01-deroulement/05/)
 - [Corpus d'œuvres — images en mouvement](../../../02-activites/02/animation-corpus/)
 - [Principe — Écrasement et étirement (squash & stretch)](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/05-principes-animation/01-squash-stretch/)
@@ -56,3 +59,11 @@ Wikipédia (2026). 12 principes de base de l'animation — Wikipédia.. https://
 - [Principe — Charisme (appeal)](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/05-principes-animation/12-charisme/)
 - [Les principes de l'animation](../../../03-savoirs/01-reconnaitre/04-outils-processus-creation/05-principes-animation/)
 <!-- end-replace-mediagraphie-cited-by -->
+
+---
+
+Les **douze principes de base de l'animation**, formulés par les animateurs de Disney (Thomas et Johnston) : squash & stretch, anticipation, staging, action directe et pose à pose, follow-through et overlapping action, slow in / slow out, trajectoires arquées, actions secondaires, timing, exagération, dessin solide, attractivité (*appeal*). La synthèse de référence pour comprendre pourquoi un mouvement « fonctionne ».
+
+- [Lire sur Wikipédia](https://fr.wikipedia.org/wiki/12_principes_de_base_de_l%27animation)
+
+> **VOIR AUSSI** — [Les principes de l'animation traditionnelle — Wikilivres](../principes-animation-wikilivres/) · [Technique d'animation — Wikipédia](../wikipedia-technique-animation/)

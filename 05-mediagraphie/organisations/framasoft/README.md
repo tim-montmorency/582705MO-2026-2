@@ -36,6 +36,7 @@ role: "cours"
 
 <!-- start-replace-mediagraphie-related -->
 - [Aryeom (2015) - ZeMarmot — film libre (Krita / GIMP)](../../videos/zemarmot/ "Film d'animation libre en production avec GIMP et Krita (CC-BY-SA) : un animal anthropomorphe, dessiné image par image — sources et fichiers ouverts.") [Film](https://film.zemarmot.net/)
+- [BBC (2026) - BBC Sound Effects — bruitages et ambiances](../../sites/bbc-sound-effects/ "Plus de 30 000 effets sonores de la BBC, gratuits pour les projets personnels et éducatifs — bruitages, ambiances et matières pour le paysage sonore et le mont…") [Sound Effects](https://sound-effects.bbcrewind.co.uk/)
 - [Blender Foundation (2008) - Big Buck Bunny](../../videos/big-buck-bunny/ "Court d'animation 3D de la Blender Foundation, produit entièrement avec des logiciels libres (sources et assets publiés) : squash & stretch, timing et comédie.") [Blender Studio](https://studio.blender.org/films/big-buck-bunny/)
 - [Blender Foundation (2021) - Sprite Fright](../../videos/sprite-fright/ "Court d'horreur-comédie 3D de la Blender Foundation (CC-BY, 2021) : design hybride 2D/3D, timing et mise en scène — produit entièrement en logiciel libre.") [Blender Studio](https://studio.blender.org/films/sprite-fright/)
 - [David Revoy (2026) - David Revoy — peinture numérique libre](../../sites/david-revoy/ "Le site de David Revoy : peinture numérique avec des logiciels libres (Krita) — tutoriels, carnets de travail et fichiers sources partagés.") [Davidrevoy](https://www.davidrevoy.com)

@@ -41,5 +41,16 @@ Muybridge, Eadweard (1878). The Horse in Motion — Eadweard Muybridge.. https:/
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
+- [Eadweard Muybridge](../../personnes/eadweard-muybridge/)
 - [Exercice — Animation image par image](../../../02-activites/02/exercices/02-image-par-image/)
 <!-- end-replace-mediagraphie-cited-by -->
+
+---
+
+La séquence **The Horse in Motion** (1878) d'Eadweard Muybridge : un cheval au galop photographié par une série d'appareils déclenchés successivement.
+
+Réunie en **planche**, la séquence décompose le mouvement en images fixes — la **première décomposition du mouvement**, ancêtre du cinéma et de l'animation image par image.
+
+- [Voir sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Horse_in_Motion_high_res.jpg) (domaine public).
+
+> **VOIR AUSSI** — [Eadweard Muybridge](../../personnes/eadweard-muybridge/)

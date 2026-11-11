@@ -42,5 +42,5 @@ Wobbe Koning (2022). Animating in Krita: Transform Mask.. https://www.youtube.co
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-_Aucune citation pour l'instant._
+- [Krita — les masques de transformation](../../krita-masques-transformation/)
 <!-- end-replace-mediagraphie-cited-by -->

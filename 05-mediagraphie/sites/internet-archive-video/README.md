@@ -35,5 +35,5 @@ Internet Archive — le fonds vidéo.. https://archive.org/details/movies.
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-_Aucune citation pour l'instant._
+- [Prelinger Archives — films éphémères du domaine public](../prelinger-archives/)
 <!-- end-replace-mediagraphie-cited-by -->

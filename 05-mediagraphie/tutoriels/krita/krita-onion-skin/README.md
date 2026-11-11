@@ -43,6 +43,7 @@ Documentation Krita (2026). Krita — le panneau Pelures d'oignon.. https://docs
 - [Krita — l'animation 2D](../krita-animation-2d/)
 - [Krita — le panneau Courbes d'animation](../krita-animation-curves/)
 - [Krita — la chronologie d'animation](../krita-animation-timeline/)
+- [Krita — le rendu de l'animation et FFmpeg](../krita-render-animation/)
 - [Krita — le panneau Storyboard](../krita-storyboard-docker/)
 - [05](../../../../01-deroulement/05/)
 - [Exercice — La brique qui tombe](../../../../02-activites/02/exercices/03-brique-qui-tombe/)
@@ -58,13 +59,19 @@ Documentation Krita (2026). Krita — le panneau Pelures d'oignon.. https://docs
 ---
 > 🇫🇷 **Traduction française** de la page officielle [Onion Skin Docker](https://docs.krita.org/fr/reference_manual/dockers/onion_skin.html) — adaptation A26 à partir de la page source partiellement traduite.
 
+![Le panneau Pelures d'oignon](images/Onion_skin_docker.png)
+
 Les **pelures d'oignon** (*onion skin*) facilitent l'animation : elles affichent en même temps la trame suivante et la trame précédente, empilées au-dessus de la trame courante. Ces images voisines sont généralement colorées ou teintées pour se distinguer.
+
+![Les trames voisines affichées de part et d'autre de la trame courante](images/Onion_skin_01.png)
 
 On les active en cliquant sur l'icône en forme d'ampoule du calque animé — un calque qui possède des trames et qui n'est pas totalement opaque. Attention : Krita considère le **blanc comme une couleur**, pas comme de la transparence. Ne pas animer sur un calque opaque si l'on veut des pelures d'oignon lisibles.
 
 > **Modifié en 4.2** — Depuis Krita 4.2, les pelures d'oignon sont désactivées pour les calques dont les pixels par défaut sont totalement opaques (par exemple un arrière-plan tramé). Pour animer avec des pelures d'oignon, mieux vaut créer un nouveau calque transparent plutôt que d'utiliser un tel arrière-plan.
 
 Le nom « pelure d'oignon » vient du fait que les pelures d'oignon sont semi-transparentes. En animation classique, les animateurs dessinaient leurs premières poses sur du papier semi-transparent posé sur une **table lumineuse** : les images clés étaient placées sous la trame en cours, et la lumière faisait apparaître leurs contours pour les retrouver. Les pelures d'oignon sont l'équivalent numérique de ce procédé — très utile pour réaliser une animation.
+
+![Les réglages des pelures d'oignon — opacité, coloration et teintes avant/après](images/Onion_skin_02.png)
 
 ## Réglages
 

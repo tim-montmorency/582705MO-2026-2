@@ -35,5 +35,5 @@ ccMixter — la musique CC.. http://ccmixter.org/.
 ## Cité par
 
 <!-- start-replace-mediagraphie-cited-by -->
-_Aucune citation pour l'instant._
+- [Jamendo — musiques sous licences Creative Commons](../jamendo/)
 <!-- end-replace-mediagraphie-cited-by -->
